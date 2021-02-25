@@ -4,7 +4,7 @@ https://medium.com/js-dojo/roadmap-how-to-get-started-with-vuejs-afcf8f18d1f6
 
 https://github.com/marekbrainhub/vue-developer-roadmap
 
-## Tools Terkait
+## Tools Umum
 
 - Vuejs | guide
 - vue-cli | https://cli.vuejs.org/
@@ -12,7 +12,7 @@ https://github.com/marekbrainhub/vue-developer-roadmap
 - Vuex (state management)
 - vue-router
 
-# Tools Terkait
+## Tools Terkait
 
 - Axios (Ajax)
 - Apollo (GraphQL)
