@@ -87,20 +87,29 @@ Flutter Succinctly: https://www.syncfusion.com/ebooks/flutter-succinctly
 
 (Paid) Flutter in Action: https://www.manning.com/books/flutter-in-action
 
-## D. Tools menarik
+## D. Tools & lain-lain
 
 RIVE - Animation: https://rive.app/
 
 Flutter Plasma: https://flutterplasma.dev/
 
 SKIA Library: 
-
-https://skia.org/
-
-https://skia.org/user/modules/canvaskit
+- https://skia.org/
+- https://skia.org/user/modules/canvaskit
 
 DevTools: https://flutter.dev/docs/development/tools/devtools/overview
 
 Flutterplasma: https://flutterplasma.dev/
 
+Sentry-Flutter: https://docs.sentry.io/platforms/flutter/
+
+Plus plugin: https://plus.fluttercommunity.dev/
+
+Pub green (can i use): https://pub.green/
+
+Flutter folio:
+- https://flutter.gskinner.com/
+- https://github.com/gskinnerTeam/flutter-folio
+
+Flutter adaptive UI: https://aloisdeniel.com/#/posts/adaptative-ui
 
