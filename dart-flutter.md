@@ -87,3 +87,16 @@ Flutter Succinctly: https://www.syncfusion.com/ebooks/flutter-succinctly
 
 (Paid) Flutter in Action: https://www.manning.com/books/flutter-in-action
 
+## D. Tools menarik
+
+RIVE - Animation: https://rive.app/
+
+Flutter Plasma: https://flutterplasma.dev/
+
+SKIA Library: 
+
+https://skia.org/
+
+https://skia.org/user/modules/canvaskit
+
+
