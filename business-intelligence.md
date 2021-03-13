@@ -9,8 +9,8 @@ Redash
 - https://github.com/getredash/redash
 
 DBT | Data Warehouse
-https://www.getdbt.com/
-https://github.com/fishtown-analytics/dbt
+- https://www.getdbt.com/
+- https://github.com/fishtown-analytics/dbt
 
 ## Articles
 
