@@ -115,3 +115,5 @@ Flutter adaptive UI: https://aloisdeniel.com/#/posts/adaptative-ui
 
 Flame Game Engine: https://flame-engine.org/
 
+Sprite Widget Game Engine: https://www.spritewidget.com/
+
