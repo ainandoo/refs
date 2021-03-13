@@ -38,4 +38,10 @@ Business Analysis for Business Intelligence
 Business Intelligence Guidebook
 - https://www.google.co.id/books/edition/Business_Intelligence_Guidebook/zxykAwAAQBAJ?hl=en&gbpv=1
 
+## Video
+
+Edureka Data Warehouse Tutorial
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX
+
+
 
