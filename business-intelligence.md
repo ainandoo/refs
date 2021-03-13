@@ -20,3 +20,22 @@ BI with Python
 
 Course: BI with Python
 - https://www.udemy.com/course/business-intelligence-development-using-python/
+
+What is BI ?
+- https://www.tableau.com/learn/articles/business-intelligence
+
+Agile Business Intelligence (BI) Development Methodology and Best Practices
+- https://chen115yaohua.wordpress.com/2017/01/10/40/
+
+BI Methodology
+- http://www.polarits.com/wp-content/uploads/2016/12/Polar-BI-Methodology.pdf
+
+## Text Book
+
+Business Analysis for Business Intelligence
+- https://www.google.co.id/books/edition/Business_Analysis_for_Business_Intellige/xksuAz3shoMC?hl=en&gbpv=1&dq=business+intelligence+methodology&pg=PA250&printsec=frontcover
+
+Business Intelligence Guidebook
+- https://www.google.co.id/books/edition/Business_Intelligence_Guidebook/zxykAwAAQBAJ?hl=en&gbpv=1
+
+
