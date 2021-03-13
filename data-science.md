@@ -14,13 +14,16 @@ How I Would Learn Data Science (If I Had to Start Over) - Ken Jee
 Insight Berapa Gaji DS
 - https://www.youtube.com/watch?v=-E4h-Hf9GDs
 
+Penerapan Data Science Dalam Dunia Pendidikan | Bisa.ai
+- https://www.youtube.com/watch?v=KAohJ1Nv80w
+
 #### Artikel
 
 NodeJS DS
 
 - https://opensource.com/article/20/6/data-science-nodejs
 
-#### Bacaan
+#### Referensi
 
 JS4DS
 
