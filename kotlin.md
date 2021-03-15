@@ -20,3 +20,8 @@ Android Kotlin
 - https://hub.packtpub.com/build-first-android-app-kotlin/
 - https://medium.com/@jassmel05/consume-restful-api-with-kotlin-1b9b14db3f28
 - https://dev.to/bensalcie/android-kotlin-get-data-from-restful-api-having-multiple-json-objects-o5a
+
+## Implement
+
+Kotlin Data Science
+- https://github.com/thomasnield/kotlin-data-science-resources
