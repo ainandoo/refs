@@ -17,3 +17,7 @@ Freecodecamp SQL Tutorial - Full Database Course for Beginners
 MySQL Tutorial for Beginners
 - https://www.youtube.com/watch?v=7S_tz1z_5bA
 
+## Ebook
+
+Database Design, 2nd Edition. 2014.
+- https://open.umn.edu/opentextbooks/textbooks/354
