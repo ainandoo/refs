@@ -38,3 +38,9 @@ Roadmap belajar
 Awesome Machine Learning
 
 - https://github.com/josephmisiti/awesome-machine-learning
+
+
+## Ebook
+
+Introduction to Data Science (Python)
+- https://open.umn.edu/opentextbooks/textbooks/the-crystal-ball-instruction-manual-volume-one-introduction-to-data-science
