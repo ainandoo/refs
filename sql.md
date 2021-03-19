@@ -21,3 +21,18 @@ MySQL Tutorial for Beginners
 
 Database Design, 2nd Edition. 2014.
 - https://open.umn.edu/opentextbooks/textbooks/354
+
+## Database Design
+
+- https://www.astera.com/type/blog/all-you-need-to-know-about-database-design/
+- https://www.lucidchart.com/pages/database-diagram/database-design
+- https://www.guru99.com/database-design.html
+- https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
+
+## DBMS
+
+- https://www.guru99.com/dbms-tutorial.html
+
+## PL/SQL
+
+- https://www.guru99.com/pl-sql-tutorials.html
