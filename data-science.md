@@ -4,6 +4,16 @@ Harvard CS 109
 - http://cs109.github.io/2015/
 - https://github.com/cs109/content
 
+## Roadmap belajar
+
+- https://www.freecodecamp.org/news/data-science-learning-roadmap/
+- https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
+
+## Ebook
+
+Introduction to Data Science (Python)
+- https://open.umn.edu/opentextbooks/textbooks/the-crystal-ball-instruction-manual-volume-one-introduction-to-data-science
+
 ## Video
 
 Learn Data Science Tutorial - Full Course for Beginners (FreeCodeCamp)
@@ -33,17 +43,11 @@ JS4DS
 
 - http://js4ds.org/
 
-## Roadmap belajar
-
-- https://www.freecodecamp.org/news/data-science-learning-roadmap/
-- https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
-
 ## Repo
 
 Awesome Machine Learning
 
 - https://github.com/josephmisiti/awesome-machine-learning
-
 
 ## Ebook
 
