@@ -2,15 +2,16 @@
 
 - https://www.python.org/doc/ 
 
+## Tutorial
+
+- https://www.geeksforgeeks.org/python-programming-language/ 
+- https://data-flair.training/blogs/
+
 ## Roadmap
 
 - https://pythonlearning.medium.com/the-roadmap-for-python-from-beginner-to-pyguru-48503ca4e794
 - https://www.geeksforgeeks.org/best-way-to-start-learning-python-a-complete-roadmap/
 - https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06
-
-## Tutorial
-
-- https://www.geeksforgeeks.org/python-programming-language/ 
 
 ## Ebook
 
