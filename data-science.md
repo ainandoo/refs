@@ -1,5 +1,11 @@
 ## Referensi DataScience
 
+#### E-Course
+
+Harvard CS 109
+- http://cs109.github.io/2015/
+- https://github.com/cs109/content
+
 #### Video
 
 Learn Data Science Tutorial - Full Course for Beginners (FreeCodeCamp)
