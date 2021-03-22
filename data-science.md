@@ -1,12 +1,10 @@
-## Referensi DataScience
-
-#### E-Course
+## E-Course
 
 Harvard CS 109
 - http://cs109.github.io/2015/
 - https://github.com/cs109/content
 
-#### Video
+## Video
 
 Learn Data Science Tutorial - Full Course for Beginners (FreeCodeCamp)
 - https://www.youtube.com/watch?v=ua-CiDNNj30
@@ -23,23 +21,24 @@ Insight Berapa Gaji DS
 Penerapan Data Science Dalam Dunia Pendidikan | Bisa.ai
 - https://www.youtube.com/watch?v=KAohJ1Nv80w
 
-#### Artikel
+## Artikel
 
 NodeJS DS
 
 - https://opensource.com/article/20/6/data-science-nodejs
 
-#### Referensi
+## Referensi
 
 JS4DS
 
 - http://js4ds.org/
 
-Roadmap belajar
+## Roadmap belajar
 
 - https://www.freecodecamp.org/news/data-science-learning-roadmap/
+- https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
 
-#### Repo
+## Repo
 
 Awesome Machine Learning
 
