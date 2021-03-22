@@ -7,6 +7,10 @@
 - https://pythonlearning.medium.com/the-roadmap-for-python-from-beginner-to-pyguru-48503ca4e794
 - https://www.geeksforgeeks.org/best-way-to-start-learning-python-a-complete-roadmap/
 
+## Tutorial
+
+- https://www.geeksforgeeks.org/python-programming-language/ 
+
 ## Ebook
 
 Python3 Data, 2016
