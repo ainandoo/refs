@@ -17,6 +17,12 @@ Freecodecamp SQL Tutorial - Full Database Course for Beginners
 MySQL Tutorial for Beginners
 - https://www.youtube.com/watch?v=7S_tz1z_5bA
 
+Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)
+- https://www.youtube.com/watch?v=4cWkVbC2bNE
+
+Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 2
+- https://www.youtube.com/watch?v=lxEdaElkQhQ
+
 ## Ebook
 
 Database Design, 2nd Edition. 2014.
