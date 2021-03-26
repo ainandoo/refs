@@ -50,6 +50,9 @@ Android Kotlin Tutorial
 - https://medium.com/@jassmel05/consume-restful-api-with-kotlin-1b9b14db3f28
 - https://dev.to/bensalcie/android-kotlin-get-data-from-restful-api-having-multiple-json-objects-o5a
 
+Android Kotlin Simple Quiz App
+- https://www.androidauthority.com/kotlin-tutorial-1134289/
+
 Build Native Apps with Kotlin | FreeCodeCamp
 - https://www.youtube.com/watch?v=Iz08OTTjR04
 
