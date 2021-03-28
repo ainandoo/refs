@@ -19,7 +19,7 @@ UI/U Design Tutorial – Wireframe, Mockup & Design | FreeCodeCamp
 - https://www.youtube.com/watch?v=c9Wg6Cb_YlU
 
 Tutorial Figma bahasa Indonesia | BuildWith Angga
-https://www.youtube.com/playlist?list=PLkaFTR_oezJ4JfjsuyDfTTp4Cbff7Dbso
+- https://www.youtube.com/playlist?list=PLkaFTR_oezJ4JfjsuyDfTTp4Cbff7Dbso
 
 ## UX
 
