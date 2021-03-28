@@ -1,3 +1,6 @@
+## Curriculum
+- https://github.com/ForrestKnight/open-source-cs
+
 ## Ebook
 
 2017
