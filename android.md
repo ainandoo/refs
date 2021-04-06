@@ -1,6 +1,7 @@
 
 Google reference
 - https://developer.android.com/courses/
+- https://developer.android.com/guide
 
 ## Kotlin
 
