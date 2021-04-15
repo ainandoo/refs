@@ -43,3 +43,14 @@ Codelab
 - https://www.geeksforgeeks.org/android-creating-multiple-screen-app/
 - https://stackoverflow.com/questions/28438460/how-do-i-make-multiple-pages-that-i-can-go-to-in-the-app-with-buttons-and-make-t
 - https://stackoverflow.com/questions/32646506/image-upload-in-sqlite-database-android
+
+#### Discussions
+
+Android Layout Performance
+- https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e
+- https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-2-21d6b5a6054c
+
+Keystore CI/CD
+- https://medium.com/android-news/where-to-store-android-keystore-file-in-ci-cd-cycle-2365f4e02e57
+
+
