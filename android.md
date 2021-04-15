@@ -44,13 +44,20 @@ Codelab
 - https://stackoverflow.com/questions/28438460/how-do-i-make-multiple-pages-that-i-can-go-to-in-the-app-with-buttons-and-make-t
 - https://stackoverflow.com/questions/32646506/image-upload-in-sqlite-database-android
 
-#### Discussions
+#### Articles
 
 Android Layout Performance
 - https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e
 - https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-2-21d6b5a6054c
 
+Why Use Constraint Layout
+- https://medium.com/nybles/heres-why-you-should-always-use-constraint-layout-for-creating-complex-layouts-in-android-42802f0a3b58
+
+Constraint Layout Performance
+- https://medium.com/android-news/constraint-layout-performance-870e5f238100
+
 Keystore CI/CD
 - https://medium.com/android-news/where-to-store-android-keystore-file-in-ci-cd-cycle-2365f4e02e57
 
-
+Android Security
+- https://medium.com/android-news/security-in-android-cheatsheet-8c3d3125e3a9
