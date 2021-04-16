@@ -61,3 +61,8 @@ Keystore CI/CD
 
 Android Security
 - https://medium.com/android-news/security-in-android-cheatsheet-8c3d3125e3a9
+
+Android Permissions
+- https://www.techk47.com/android-app-permissions-list/
+- https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/res/AndroidManifest.xml
+- https://developer.android.com/guide/topics/permissions/overview
