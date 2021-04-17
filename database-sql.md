@@ -42,3 +42,9 @@ Database Design, 2nd Edition. 2014.
 ## PL/SQL
 
 - https://www.guru99.com/pl-sql-tutorials.html
+
+## Others
+
+DBEAVER
+- https://github.com/dbeaver/dbeaver/wiki/Working-with-Spatial-GIS-data
+- 
