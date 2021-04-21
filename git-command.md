@@ -6,7 +6,7 @@ git status
 
 git branch
 
-git checkout <branch-repo>
+git checkout (nama-repo-atau-branch)
 
 git add .
 
@@ -14,4 +14,4 @@ git status
 
 git commit -m "pesan update"
 
-git push origin <branch-repo>
+git push origin (nama-repo-atau-branch)
