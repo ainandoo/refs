@@ -13,4 +13,5 @@ White House Goverment
 
 Theme Development
 
+- https://www.wpbeginner.com/wp-themes/how-to-create-a-custom-page-in-wordpress/
 - https://vegibit.com/wordpress-theme-development-tutorial-step-by-step/
