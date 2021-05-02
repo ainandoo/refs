@@ -5,16 +5,17 @@ Google reference
 
 ## Kotlin
 
-Google Android Kotlin
+Google Android
 - https://developer.android.com/kotlin
 - https://developer.android.com/courses/android-basics-kotlin/course
 
-Android Kotlin Tutorial
+RESTful
 - https://medium.com/@jassmel05/consume-restful-api-with-kotlin-1b9b14db3f28
 - https://dev.to/bensalcie/android-kotlin-get-data-from-restful-api-having-multiple-json-objects-o5a
-- https://hub.packtpub.com/build-first-android-app-kotlin/
-- https://www.geeksforgeeks.org/kotlin-android-tutorial/
-- https://drive.google.com/file/d/1zFlIaXXEfGAB0ExVCcwjPXox7rucvV_M/view
+
+SQLite / Database
+- https://rrtutors.com/SQLite-Database-with-CRUD-Operations
+- https://rrtutors.com/tutorials/store-image-in-sqlite-in-android-with-room-database
 
 Android Kotlin Simple Quiz App
 - https://www.androidauthority.com/kotlin-tutorial-1134289/
@@ -30,10 +31,11 @@ Build Native Apps with Kotlin | FreeCodeCamp
 - https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
 - https://www.geeksforgeeks.org/kotlin-android-tutorial/
+- https://hub.packtpub.com/build-first-android-app-kotlin/
+- https://www.geeksforgeeks.org/kotlin-android-tutorial/
+- https://drive.google.com/file/d/1zFlIaXXEfGAB0ExVCcwjPXox7rucvV_M/view
 - https://rrtutors.com/kotlin
 - https://rrtutors.com/language/Android
-- https://rrtutors.com/SQLite-Database-with-CRUD-Operations
-- https://rrtutors.com/tutorials/store-image-in-sqlite-in-android-with-room-database
 
 ## Java
 
@@ -46,7 +48,7 @@ Codelab
 
 #### Articles
 
-Android Layout Performance
+Layout Performance
 - https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e
 - https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-2-21d6b5a6054c
 
@@ -59,10 +61,14 @@ Constraint Layout Performance
 Keystore CI/CD
 - https://medium.com/android-news/where-to-store-android-keystore-file-in-ci-cd-cycle-2365f4e02e57
 
-Android Security
+Security
 - https://medium.com/android-news/security-in-android-cheatsheet-8c3d3125e3a9
 
-Android Permissions
+Permissions
 - https://www.techk47.com/android-app-permissions-list/
 - https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/res/AndroidManifest.xml
 - https://developer.android.com/guide/topics/permissions/overview
+
+Flavor
+- https://www.androidauthority.com/building-multiple-flavors-android-app-706436/
+- https://www.journaldev.com/21533/android-build-types-product-flavors
