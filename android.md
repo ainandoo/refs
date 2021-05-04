@@ -72,3 +72,9 @@ Permissions
 Flavor
 - https://www.androidauthority.com/building-multiple-flavors-android-app-706436/
 - https://www.journaldev.com/21533/android-build-types-product-flavors
+
+#### Troubleshoot
+
+Error type 3 Error: Activity class {} does not exist
+- https://origin.geeksforgeeks.org/different-ways-to-fix-error-type-3-error-activity-class-does-not-exist-in-android-studio/
+- https://stackoverflow.com/questions/20915266/error-type-3-error-activity-class-does-not-exist#24241687
