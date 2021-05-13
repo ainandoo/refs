@@ -13,18 +13,16 @@
 	3. Asynchronous programming -> concurrent
 
 3. Tutorial Singkat
-
-    http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-01-variables-types-and-functions/
-	
-    http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-02-control-flow-and-exception-handling/
-	
-    http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-03-classes-and-generics/
-	
-    http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-04-asynchronous-and-libraries/
+- http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-01-variables-types-and-functions/
+- http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-02-control-flow-and-exception-handling/
+- http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-03-classes-and-generics/
+- http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-04-asynchronous-and-libraries/
 
 4. Vogella Dart Basic Overview
+- https://www.vogella.com/tutorials/Dart/article.html
 
-    https://www.vogella.com/tutorials/Dart/article.html
+Dart Tutorial for Beginner
+- https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
 	
 ## B. Flutter
 
@@ -51,7 +49,12 @@
 
 HTTP Request dengan Flutter
 - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VC-Adfpl5D0k9N8psiDXrir
-	
+
+Flutter Widget of the Week
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
+
+Flutter Widget 101
+- https://www.youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd
 
 3. Flutter Codelabs
 	
@@ -96,6 +99,23 @@ Flutter Succinctly:
 Flutter Day 2020
 - https://www.youtube.com/playlist?list=PLjxrf2q8roU1rBlI9vz01K2324nzIhYgp
 
+Dart/Flutter Google Talks
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J
+
+Dart Dev Summit 2015
+- https://www.youtube.com/playlist?list=PLOU2XLYxmsIIQorIS8gagUiMau9S84vZV
+
+Dart Dev Summit 2016
+- https://www.youtube.com/playlist?list=PLOU2XLYxmsILKY-A1kq4eHMcku3GMAyp2
+
+Dart Conf 2018
+- https://www.youtube.com/playlist?list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5
+
+Flutter in Focus
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2
+
+Making Animations in Flutter
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua
 
 
 
