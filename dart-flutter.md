@@ -6,7 +6,7 @@
 
    https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
 
-2. https://dart.dev/guides
+2. Dart Docs | https://dart.dev/guides
 
 	1. Language tour -> Language samples
 	2. Iterable collections -> generic
@@ -42,17 +42,15 @@
 
 3. Tutorial Singkat
 
-	http://thetechnocafe.com/flutter-crash-course-1-installation-and-overview/
-	
-	http://thetechnocafe.com/flutter-crash-course-2-application-and-ui-basics/
-	
-	http://thetechnocafe.com/dive-into-flutter-widgets/
-	
-	http://thetechnocafe.com/flutter-crash-course-4-dive-into-more-flutter-widgets/
-	
-	http://thetechnocafe.com/flutter-crash-course-5-building-lists-and-pages/
-	
-	http://thetechnocafe.com/flutter-crash-course-6-networking-basics/
+- http://thetechnocafe.com/flutter-crash-course-1-installation-and-overview/
+- http://thetechnocafe.com/flutter-crash-course-2-application-and-ui-basics/
+- http://thetechnocafe.com/dive-into-flutter-widgets/
+- http://thetechnocafe.com/flutter-crash-course-4-dive-into-more-flutter-widgets/
+- http://thetechnocafe.com/flutter-crash-course-5-building-lists-and-pages/
+- http://thetechnocafe.com/flutter-crash-course-6-networking-basics/
+
+HTTP Request dengan Flutter
+- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VC-Adfpl5D0k9N8psiDXrir
 	
 
 3. Flutter Codelabs
@@ -77,15 +75,29 @@
 
 ## C. Referensi
 
-Flutter Quick Guide: https://www.tutorialspoint.com/flutter/flutter_quick_guide.htm
+Flutter by Google
+- https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr
 
-Flutter Youtube: https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
+Flutter Quick Guide: 
+- https://www.tutorialspoint.com/flutter/flutter_quick_guide.htm
 
-Flutter Tutorial Handbook: https://kodestat.gitbook.io/flutter/
+Flutter Youtube: 
+- https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
 
-Flutter Succinctly: https://www.syncfusion.com/ebooks/flutter-succinctly
+Flutter Tutorial Handbook: 
+- https://kodestat.gitbook.io/flutter/
 
-(Paid) Flutter in Action: https://www.manning.com/books/flutter-in-action
+Flutter Succinctly: 
+- https://www.syncfusion.com/ebooks/flutter-succinctly
+
+(Paid) Flutter in Action: 
+- https://www.manning.com/books/flutter-in-action
+
+Flutter Day 2020
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU1rBlI9vz01K2324nzIhYgp
+
+
+
 
 ## D. Tools & lain-lain
 
