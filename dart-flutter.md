@@ -76,6 +76,9 @@ Flutter Widget 101
 	
 	https://buildwithangga.com/kelas/flutter-development-apis-ui-animation
 
+Flutter short video
+- https://www.youtube.com/playlist?list=PL9kmNQKNfIth3sKRTffwvwloxb4snyDDI
+
 ## C. Referensi
 
 Flutter by Google
