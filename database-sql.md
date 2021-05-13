@@ -6,6 +6,12 @@ TUTORIAL MYSQL DATABASE BAHASA INDONESIA - Programmer Zaman Now
 Belajar MySQL / MariaDB - Guntur Budi
 - https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF
 
+SQL Database Programming
+- https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49
+
+MongoDB NoSQL
+- https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao
+
 ## Lainnya
 
 W3Schools - SQL Tutorial
