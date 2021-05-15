@@ -1,9 +1,9 @@
 
 Ruby Dasar Bahasa Indonesia | Sekolah Koding
-https://www.youtube.com/playlist?list=PLCZlgfAG0GXDx2lN_PuWEfPM26YFcEJHI
+- https://www.youtube.com/playlist?list=PLCZlgfAG0GXDx2lN_PuWEfPM26YFcEJHI
 
 Ruby Tutorial
--  https://www.geeksforgeeks.org/ruby-tutorial/
+- https://www.geeksforgeeks.org/ruby-tutorial/
 
 Ruby Basic Full Course | FreeCodeCamp
 - https://www.youtube.com/watch?v=t_ispmWmdjY
