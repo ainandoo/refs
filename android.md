@@ -3,6 +3,9 @@ Google reference
 - https://developer.android.com/courses/
 - https://developer.android.com/guide
 
+Modern Android Developer Skills
+- https://www.youtube.com/c/AndroidDevelopers/playlists?view=50&sort=dd&shelf_id=5
+
 ## Kotlin
 
 Google Android
@@ -78,3 +81,5 @@ Flavor
 Error type 3 Error: Activity class {} does not exist
 - https://origin.geeksforgeeks.org/different-ways-to-fix-error-type-3-error-activity-class-does-not-exist-in-android-studio/
 - https://stackoverflow.com/questions/20915266/error-type-3-error-activity-class-does-not-exist#24241687
+
+
