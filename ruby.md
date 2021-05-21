@@ -14,6 +14,10 @@ Ruby in 20 minutes
 Try Ruby
 - https://try.ruby-lang.org/
 
+## Ebook
+
+- http://ruby-hacking-guide.github.io/
+
 ## Framework: Rails
 
 Ruby on Rails | FreeCodeCamp
@@ -24,3 +28,12 @@ Ruby on Rails | Artivisi
 
 Belajar Rails | Agung Setiawan
 - https://www.youtube.com/playlist?list=PLbQ1u0HDV6ETB7XNmK_A2yG4ElHXHGl9X
+
+## Artikel
+
+5 Best Programming Languages for Hacking
+https://techworm.net/programming/best-programming-languages-hacking/
+
+## Dark World
+
+- https://rubyfu.net/
