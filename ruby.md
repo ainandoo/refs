@@ -34,6 +34,11 @@ Belajar Rails | Agung Setiawan
 5 Best Programming Languages for Hacking
 https://techworm.net/programming/best-programming-languages-hacking/
 
+## Komunitas
+
+- https://ruby.id/
+- https://t.me/ruby_id
+
 ## Dark World
 
 - https://rubyfu.net/
