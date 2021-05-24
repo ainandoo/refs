@@ -33,6 +33,12 @@ https://www.youtube.com/playlist?list=PLdcFypXEFvAKVHzsWvGbpo6ah13rZw3bR
 
 ## B. GIMP
 
+Davis Media Design
+- https://www.youtube.com/c/DaViesMediaDesign/playlists
+
+5 Ways To Remove A Background with GIMP
+- https://www.youtube.com/watch?v=lOzSiOIipSM
+
 ## C. Lain-lain
 
 Inkscape Learn
