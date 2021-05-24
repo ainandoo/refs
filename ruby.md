@@ -32,10 +32,10 @@ Belajar Rails | Agung Setiawan
 ## Artikel
 
 5 Best Programming Languages for Hacking
-https://techworm.net/programming/best-programming-languages-hacking/
+- https://techworm.net/programming/best-programming-languages-hacking/
 
 Kenapa banyak startup Indonesia menggungakan RoR
-https://id.quora.com/Mengapa-banyak-startup-Indonesia-yang-menggunakan-Ruby-on-Rails-Mengapa-tidak-menggunakan-Node-JS-sebagai-back-end-yang-secara-kecepatan-dan-skalabilitas-lebih-unggul?share=1
+- https://id.quora.com/Mengapa-banyak-startup-Indonesia-yang-menggunakan-Ruby-on-Rails-Mengapa-tidak-menggunakan-Node-JS-sebagai-back-end-yang-secara-kecepatan-dan-skalabilitas-lebih-unggul?share=1
 
 ## Komunitas
 
