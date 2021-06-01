@@ -45,3 +45,8 @@ Kenapa banyak startup Indonesia menggungakan RoR
 ## Dark World
 
 - https://rubyfu.net/
+
+## Gems
+
+mysql2
+- https://rubygems.org/gems/mysql2/versions/0.5.2
