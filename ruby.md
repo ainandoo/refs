@@ -37,6 +37,9 @@ Belajar Rails | Agung Setiawan
 Kenapa banyak startup Indonesia menggungakan RoR
 - https://id.quora.com/Mengapa-banyak-startup-Indonesia-yang-menggunakan-Ruby-on-Rails-Mengapa-tidak-menggunakan-Node-JS-sebagai-back-end-yang-secara-kecepatan-dan-skalabilitas-lebih-unggul?share=1
 
+Ruby-mysql
+- https://zetcode.com/db/mysqlrubytutorial/
+
 ## Komunitas
 
 - https://ruby.id/
