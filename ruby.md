@@ -18,7 +18,9 @@ Try Ruby
 
 - http://ruby-hacking-guide.github.io/
 
-## Framework: Rails
+## Framework: 
+
+#### Rails (Web)
 
 Ruby on Rails | FreeCodeCamp
 - https://www.youtube.com/watch?v=fmyvWz5TUWg
@@ -28,6 +30,9 @@ Ruby on Rails | Artivisi
 
 Belajar Rails | Agung Setiawan
 - https://www.youtube.com/playlist?list=PLbQ1u0HDV6ETB7XNmK_A2yG4ElHXHGl9X
+
+#### Artoo (robotics, iot)
+- http://artoo.io/
 
 ## Artikel
 
