@@ -18,3 +18,8 @@ HootSuite: We Are Social
 - https://wearesocial.com/digital-2021
 - https://wearesocial.com/blog/2021/01/digital-2021-the-latest-insights-into-the-state-of-digital
 - https://www.hootsuite.com/pages/digital-trends-2021
+
+## Google
+
+Google Search Central
+- https://developers.google.com/search 
