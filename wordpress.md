@@ -6,8 +6,9 @@ ZOOM Blog
 White House Goverment
 - https://www.whitehouse.gov/
 
-SAIM
+Sekolah / Universitas
 - https://saim.sch.id/ 
+- http://informatika.uc.ac.id/en/
 
 ## WordPress Development
 
