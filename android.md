@@ -6,6 +6,9 @@ Google reference
 Modern Android Developer Skills
 - https://www.youtube.com/c/AndroidDevelopers/playlists?view=50&sort=dd&shelf_id=5
 
+Android Jetpack
+- https://developer.android.com/jetpack
+
 ## Kotlin
 
 Google Android
