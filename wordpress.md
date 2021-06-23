@@ -19,3 +19,9 @@ Theme Development
 
 - https://www.wpbeginner.com/wp-themes/how-to-create-a-custom-page-in-wordpress/
 - https://vegibit.com/wordpress-theme-development-tutorial-step-by-step/
+
+Tutorial Wordpress untuk Pemula (Bahasa Indonesia) | JuniorDev YouTube
+- https://www.youtube.com/playlist?list=PLFLsT6z_5FzlOlJqYiMHUcRuFkF2fHMRq
+
+Tutorial Dasar WordPress (Bahasa Indonesia) | Robby Dianputra
+- https://www.youtube.com/playlist?list=PLD1lNdi1NpDquSwUj88yixQG0vtHOBvNJ
