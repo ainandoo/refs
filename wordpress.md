@@ -30,3 +30,6 @@ Tutorial Dasar WordPress (Bahasa Indonesia) | Robby Dianputra
 
 How To Make a Website With WordPress - 2021 (Beginners Tutorial) | FreeCodeCamp
 - https://www.youtube.com/watch?v=O79pJ7qXwoE
+
+[Latihan] Desain Website WordPress |  Dokter Web
+- https://www.youtube.com/watch?v=mzBOc4KoGCM
