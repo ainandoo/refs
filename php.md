@@ -27,3 +27,6 @@ Tutorialspoint: PHP Tutorial
 
 Javatpoint: PHP Tutorial
 - https://www.javatpoint.com/php-tutorial
+
+PHP For Absolute Beginners | Traversy Media
+- https://www.youtube.com/watch?v=2eebptXfEvw
