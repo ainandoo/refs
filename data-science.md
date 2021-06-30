@@ -3,6 +3,7 @@
 
 - https://www.freecodecamp.org/news/data-science-learning-roadmap/
 - https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
+- https://www.youtube.com/watch?v=y9AK1YKRoLg | Krish Naik
 
 ## E-Course
 
@@ -49,3 +50,10 @@ Awesome Machine Learning
 
 NgulikData | Algoritma School
 - https://www.youtube.com/hashtag/ngulikdata
+
+## Tools
+
+Jupyter Notebook
+- https://jupyter.org/index.html
+- https://nbviewer.jupyter.org/
+
