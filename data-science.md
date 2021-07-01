@@ -57,3 +57,8 @@ Jupyter Notebook
 - https://jupyter.org/index.html
 - https://nbviewer.jupyter.org/
 
+#### TensorFlow
+Coding TensorFlow
+- https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx
+TF in Colab
+- https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL
