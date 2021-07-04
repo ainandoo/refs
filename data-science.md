@@ -5,6 +5,18 @@
 - https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
 - https://www.youtube.com/watch?v=y9AK1YKRoLg | Krish Naik
 
+Programming Skills, A Complete Roadmap for Learning Data Science — Part 1
+- https://medium.com/vickdata/programming-skills-a-complete-roadmap-for-learning-data-science-part-1-7913b289751b
+
+Data Analysis, A Complete Roadmap for Learning Data Science — Part 2
+- https://medium.com/vickdata/data-analysis-a-complete-roadmap-for-learning-data-science-part-2-25f8d1abc1fd
+
+Maths and Statistics, A Complete Roadmap for Learning Data Science — Part 3
+- https://medium.com/vickdata/maths-and-statistics-a-complete-roadmap-for-learning-data-science-part-3-e1ec585195cf
+
+Exploratory Data Analysis (EDA): A Complete Roadmap to Cleaning Data
+- https://medium.com/codex/exploratory-data-analysis-a-roadmap-for-cleaning-3e01a0d694
+
 ## E-Course
 
 Harvard CS 109
