@@ -36,3 +36,18 @@ Python Projects Junior Developers
 ## Course
 
 - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
+
+## Tools 
+
+Numpy
+- https://numpy.org/
+- https://www.w3schools.com/python/numpy/default.asp
+- https://www.tutorialspoint.com/numpy/index.htm
+- https://www.geeksforgeeks.org/python-numpy/
+- https://realpython.com/tutorials/numpy/
+
+Pandas 
+- https://pandas.pydata.org/
+- https://realpython.com/pandas-dataframe/
+- https://www.w3schools.com/python/pandas/default.asp
+- https://www.tutorialspoint.com/python_pandas/index.htm
