@@ -17,6 +17,8 @@ Python3 Data, 2016
 
 - https://www.geeksforgeeks.org/python-programming-language/ 
 - https://data-flair.training/blogs/
+- https://www.tutorialspoint.com/python_data_science/index.htm
+- https://pythonbasics.org/
 
 ## Reference
 
