@@ -20,7 +20,7 @@ W3Schools - SQL Tutorial
 Freecodecamp SQL Tutorial - Full Database Course for Beginners
 - https://www.youtube.com/watch?v=HXV3zeQKqGY
 
-MySQL Tutorial for Beginners
+MySQL Tutorial for Beginners | Programming With Mosh
 - https://www.youtube.com/watch?v=7S_tz1z_5bA
 
 Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)
@@ -41,8 +41,11 @@ Database Design, 2nd Edition. 2014.
 - https://www.guru99.com/database-design.html
 - https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
 
-UML Diagram Full Course
+UML Diagram Full Course | FreeCodeCamp
 - https://www.youtube.com/watch?v=WnMQ8HlmeXc
+
+Cara Membuat Desain Database | Pojok Programmer
+- https://www.youtube.com/playlist?list=PLuWJxlFnq2hP3elqJebfwQE9oxgbIpn5I
 
 ## DBMS
 
