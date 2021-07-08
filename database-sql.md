@@ -6,7 +6,7 @@ TUTORIAL MYSQL DATABASE BAHASA INDONESIA - Programmer Zaman Now
 Belajar MySQL / MariaDB - Guntur Budi
 - https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF
 
-SQL Database Programming
+SQL Database Programming | Mike Dane
 - https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49
 
 MongoDB NoSQL
@@ -40,6 +40,9 @@ Database Design, 2nd Edition. 2014.
 - https://www.lucidchart.com/pages/database-diagram/database-design
 - https://www.guru99.com/database-design.html
 - https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
+
+UML Diagram Full Course
+- https://www.youtube.com/watch?v=WnMQ8HlmeXc
 
 ## DBMS
 
