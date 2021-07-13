@@ -35,6 +35,11 @@ Python Projects Junior Developers
 12 Beginner Python Projects
 - https://www.youtube.com/watch?v=8ext9G7xspg
 
+Python + Excel
+- https://realpython.com/openpyxl-excel-spreadsheets-python/
+- https://www.dataquest.io/blog/excel-and-pandas/
+- https://www.freecodecamp.org/news/discord-ai-chatbot/
+
 ## Course
 
 - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
