@@ -1,5 +1,11 @@
+
+## Projects
+
 JS Project for Beginner
 - https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+Discord bot
+- https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
 
 JS for Web Development | Thread
 - https://twitter.com/Prathkum/status/1406298132737150976
