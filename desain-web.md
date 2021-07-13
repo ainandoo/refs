@@ -1,7 +1,12 @@
 
+## Guide
+
+Elementor based
+- https://elementor.com/blog/website-redesign-guide/
+
 ## Layout
 
-### CSS Grid
+#### CSS Grid
 
 - https://www.w3schools.com/css/css_grid.asp
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
