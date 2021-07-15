@@ -58,3 +58,10 @@ Pandas
 - https://realpython.com/pandas-dataframe/
 - https://www.w3schools.com/python/pandas/default.asp
 - https://www.tutorialspoint.com/python_pandas/index.htm
+
+PyTorch
+
+PyTorch Fundamental Course
+- https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/
+
+TensorFlow
