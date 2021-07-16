@@ -65,3 +65,8 @@ PyTorch Fundamental Course
 - https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/
 
 TensorFlow
+
+## Perusahaan Pengguna
+
+5 Companies (include Netflix)
+- https://twitter.com/Sauain/status/1415929865010696194
