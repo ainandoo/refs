@@ -1,6 +1,15 @@
 ## Dokumentasi
 
 - https://www.python.org/doc/ 
+- https://docs.python.org/3/tutorial/index.html
+
+## Motivasi Belajar
+
+Mengapa Pilih Bahasa Pemrograman Python | Budi Rahardjo
+- https://www.youtube.com/watch?v=cew2tMMB8zk
+
+Belajar Python untuk Pemula | Onno W. Purbo
+- https://www.youtube.com/watch?v=1YBnENHft8o
 
 ## Ebook
 
@@ -19,12 +28,22 @@ Python3 Data, 2016
 - https://data-flair.training/blogs/
 - https://www.tutorialspoint.com/python_data_science/index.htm
 - https://pythonbasics.org/
+- https://www.w3schools.com/python/
+- https://www.tutorialspoint.com/python/index.htm
+- https://www.pythontutorial.net/
 
 ## Reference
 
 - https://www.faridrifaie.my.id/2018/09/top-5-youtube-channels-to-learn-basic.html
+- https://realpython.com/
 
-## Projects
+## Ide Proyek
+
+Membaca berkas konfigurasi | Budi Rahardjo
+- https://www.youtube.com/watch?v=CGmNdseC06o
+
+Otomasi dengan Python | Budi Rahardjo
+- https://www.youtube.com/watch?v=DYlgavNY9LE
 
 Web Scraper ; Bulk Files Renamer ; Weather Program ; Countdown Timer ; Password Generator ; QR Code Reader and Generator
 - https://www.youtube.com/watch?v=SqvVm3QiQVk
