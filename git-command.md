@@ -1,5 +1,5 @@
 
-## sudah git init (direktori sudah di update/kerjakan)
+## *kondisi sudah git init (direktori sudah update/ ada pekerjaan)
 
 - git status
 - git branch // cek branch
