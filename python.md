@@ -39,6 +39,13 @@ Python3 Data, 2016
 
 ## Ide Proyek
 
+Web app in Django/Flask
+- https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/
+- https://opensource.com/article/20/8/python-android-mobile
+
+PyGame
+- https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/
+
 Membaca berkas konfigurasi | Budi Rahardjo
 - https://www.youtube.com/watch?v=CGmNdseC06o
 
@@ -89,3 +96,8 @@ TensorFlow
 
 5 Companies (include Netflix)
 - https://twitter.com/Sauain/status/1415929865010696194
+
+## Python Android
+
+- https://dev.to/bauripalash/how-to-run-python-programs-on-android-49bg
+- 
