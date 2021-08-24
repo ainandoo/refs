@@ -1,12 +1,15 @@
 
-Ruby Dasar Bahasa Indonesia | Sekolah Koding
+Ruby - Rails | Learning Videos
+- https://dev.to/thecodepixi/a-ruby-on-rails-roadmap-34i4
+
+Ruby - Rails | Roadmap 2018
+- https://gist.github.com/onlurking/857b1b3a06f6b77c1bc411edb339e603
+
+Ruby Dasar Bahasa Indonesia - Sekolah Koding
 - https://www.youtube.com/playlist?list=PLCZlgfAG0GXDx2lN_PuWEfPM26YFcEJHI
 
 Ruby Tutorial
 - https://www.geeksforgeeks.org/ruby-tutorial/
-
-Ruby Basic Full Course | FreeCodeCamp
-- https://www.youtube.com/watch?v=t_ispmWmdjY
 
 Ruby in 20 minutes
 - https://www.ruby-lang.org/en/documentation/quickstart/
