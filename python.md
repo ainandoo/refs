@@ -98,6 +98,8 @@ OpenCV
 - https://realpython.com/face-detection-in-python-using-a-webcam/
 - https://sonsuzdesign.blog/2020/06/28/simple-face-detection-in-python/
 - https://sonsuzdesign.blog/2020/07/12/building-a-cat-face-recognizer-in-python/
+- https://medium.com/analytics-vidhya/face-detection-with-6-simple-steps-in-python-4e3958660dbe
+- https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
 
 ## Perusahaan Pengguna
 
