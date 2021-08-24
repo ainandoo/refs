@@ -93,6 +93,12 @@ PyTorch Fundamental Course
 
 TensorFlow
 
+OpenCV
+- https://realpython.com/face-recognition-with-python/
+- https://realpython.com/face-detection-in-python-using-a-webcam/
+- https://sonsuzdesign.blog/2020/06/28/simple-face-detection-in-python/
+- https://sonsuzdesign.blog/2020/07/12/building-a-cat-face-recognizer-in-python/
+
 ## Perusahaan Pengguna
 
 5 Companies (include Netflix)
