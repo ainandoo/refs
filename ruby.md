@@ -37,6 +37,9 @@ Ruby on Rails | Artivisi
 Belajar Rails | Agung Setiawan
 - https://www.youtube.com/playlist?list=PLbQ1u0HDV6ETB7XNmK_A2yG4ElHXHGl9X
 
+Best practices
+- https://shopify.engineering/write-fast-code-ruby-rails
+
 #### Artoo (robotics, iot)
 - http://artoo.io/
 
@@ -51,10 +54,20 @@ Kenapa banyak startup Indonesia menggungakan RoR
 Ruby-mysql
 - https://zetcode.com/db/mysqlrubytutorial/
 
+Ruby http server
+- https://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html
+- https://practicingruby.com/articles/implementing-an-http-file-server
+
+Ruby in 2020
+- https://syndicode.com/blog/why-is-ruby-still-our-choice-in-2020-2/
+- https://scoutapm.com/blog/state-of-ruby
+- https://www.quora.com/Is-Ruby-still-a-relevant-language-in-2021
+
 ## Komunitas
 
 - https://ruby.id/
 - https://t.me/ruby_id
+- https://practicingruby.com/
 
 ## Dark World
 
