@@ -6,7 +6,7 @@ Ruby - Rails | Roadmap 2018
 - https://gist.github.com/onlurking/857b1b3a06f6b77c1bc411edb339e603
 
 Menjalankan Ruby di Android (Termux)
--https://blog.bivekoli.com.np/posts/run-ruby-programs-offline-on-android.html
+- https://blog.bivekoli.com.np/posts/run-ruby-programs-offline-on-android.html
 
 Ruby Dasar Bahasa Indonesia - Sekolah Koding
 - https://www.youtube.com/playlist?list=PLCZlgfAG0GXDx2lN_PuWEfPM26YFcEJHI
@@ -53,6 +53,9 @@ Kenapa banyak startup Indonesia menggungakan RoR
 
 Ruby-mysql
 - https://zetcode.com/db/mysqlrubytutorial/
+
+Rails and Database Development
+- https://syndicode.com/blog/getting-started-with-ruby-on-rails-database-development/
 
 Ruby http server
 - https://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html
