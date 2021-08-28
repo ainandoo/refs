@@ -66,6 +66,9 @@ Ruby in 2020
 - https://scoutapm.com/blog/state-of-ruby
 - https://www.quora.com/Is-Ruby-still-a-relevant-language-in-2021
 
+Ruby GUI Development
+- https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/
+
 Is Ruby Dead
 - https://dev.to/teaglebuilt/is-ruby-dead-17em 
 
