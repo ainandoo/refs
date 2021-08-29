@@ -78,6 +78,11 @@ Is Ruby Dead
 - https://t.me/ruby_id
 - https://practicingruby.com/
 
+## Conference
+
+- https://railsconf.org/
+- https://rubyconf.org/
+
 ## Dark World
 
 - https://rubyfu.net/
