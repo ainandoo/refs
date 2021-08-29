@@ -61,10 +61,13 @@ Ruby http server
 - https://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html
 - https://practicingruby.com/articles/implementing-an-http-file-server
 
+## Discussion
+
 Ruby in 2020
 - https://syndicode.com/blog/why-is-ruby-still-our-choice-in-2020-2/
 - https://scoutapm.com/blog/state-of-ruby
 - https://www.quora.com/Is-Ruby-still-a-relevant-language-in-2021
+- https://medium.com/@kvnkm/the-state-of-ruby-on-rails-today-f845871759d1
 
 Ruby GUI Development
 - https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/
