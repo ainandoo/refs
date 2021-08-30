@@ -61,6 +61,10 @@ Ruby http server
 - https://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html
 - https://practicingruby.com/articles/implementing-an-http-file-server
 
+Ruby chatbot
+- https://hackernoon.com/how-to-create-a-telegram-bot-using-ruby-n7ag32c1
+- https://github.com/kalmai/ruby-discord-bot
+
 ## Discussion
 
 Ruby in 2020
