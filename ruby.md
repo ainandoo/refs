@@ -65,6 +65,10 @@ Ruby chatbot
 - https://hackernoon.com/how-to-create-a-telegram-bot-using-ruby-n7ag32c1
 - https://github.com/kalmai/ruby-discord-bot
 
+Ruby game dev
+- https://rosesz.github.io/ruby-game-development/#/
+- https://medium.com/@michellenguy/5-reasons-to-build-your-first-game-in-ruby-as-a-beginner-game-developer-73265dc2c88
+
 ## Discussion
 
 Ruby in 2020
