@@ -83,6 +83,9 @@ Ruby GUI Development
 Is Ruby Dead
 - https://dev.to/teaglebuilt/is-ruby-dead-17em 
 
+When should not use rails
+- https://codefol.io/posts/when-should-you-not-use-rails/
+
 ## Komunitas
 
 - https://ruby.id/
