@@ -45,6 +45,11 @@ Best practices
 
 ## Artikel
 
+Setup Sublime Text untuk Ruby/Rails
+- https://mattbrictson.com/sublime-text-3-recommendations
+- https://stackoverflow.com/questions/11410158/execute-ruby-code-in-sublime-text-2
+- https://www.marksayson.com/blog/setting-up-sublime-text-editor-for-ruby-on-rails/
+
 5 Best Programming Languages for Hacking
 - https://techworm.net/programming/best-programming-languages-hacking/
 
