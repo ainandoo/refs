@@ -45,6 +45,12 @@ Best practices
 
 ## Artikel
 
+Awesome Curation
+- https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps
+- https://github.com/Sdogruyol/awesome-ruby
+- https://github.com/markets/awesome-ruby
+- https://github.com/dreikanter/ruby-bookmarks
+
 Setup Sublime Text untuk Ruby/Rails
 - https://mattbrictson.com/sublime-text-3-recommendations
 - https://stackoverflow.com/questions/11410158/execute-ruby-code-in-sublime-text-2
