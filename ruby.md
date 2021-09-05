@@ -108,9 +108,11 @@ When should not use rails
 - https://railsconf.org/
 - https://rubyconf.org/
 
-## Dark World
+## Implementasi
 
 - https://rubyfu.net/
+- https://github.com/rapid7/metasploit-framework
+- https://www.ruby2d.com/
 
 ## Gems & others
 
