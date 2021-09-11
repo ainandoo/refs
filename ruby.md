@@ -1,3 +1,14 @@
+Ruby Tutorial
+- https://www.geeksforgeeks.org/ruby-tutorial/
+
+Ruby in 20 minutes
+- https://www.ruby-lang.org/en/documentation/quickstart/
+
+Try Ruby
+- https://try.ruby-lang.org/
+
+Ruby Dasar Bahasa Indonesia - Sekolah Koding
+- https://www.youtube.com/playlist?list=PLCZlgfAG0GXDx2lN_PuWEfPM26YFcEJHI
 
 Ruby - Rails | Learning Videos
 - https://dev.to/thecodepixi/a-ruby-on-rails-roadmap-34i4
@@ -7,18 +18,6 @@ Ruby - Rails | Roadmap 2018
 
 Menjalankan Ruby di Android (Termux)
 - https://blog.bivekoli.com.np/posts/run-ruby-programs-offline-on-android.html
-
-Ruby Dasar Bahasa Indonesia - Sekolah Koding
-- https://www.youtube.com/playlist?list=PLCZlgfAG0GXDx2lN_PuWEfPM26YFcEJHI
-
-Ruby Tutorial
-- https://www.geeksforgeeks.org/ruby-tutorial/
-
-Ruby in 20 minutes
-- https://www.ruby-lang.org/en/documentation/quickstart/
-
-Try Ruby
-- https://try.ruby-lang.org/
 
 ## Ebook
 
@@ -39,9 +38,6 @@ Belajar Rails | Agung Setiawan
 
 Best practices
 - https://shopify.engineering/write-fast-code-ruby-rails
-
-#### Artoo (robotics, iot)
-- http://artoo.io/
 
 ## Artikel
 
@@ -114,9 +110,17 @@ When should not use rails
 
 ## Implementasi
 
+Rubyfu | Pentest
 - https://rubyfu.net/
+
+Metasploit | Pentest
 - https://github.com/rapid7/metasploit-framework
+
+Ruby 2D | Game Engine
 - https://www.ruby2d.com/
+
+Artoo | robotics, iot
+- http://artoo.io/
 
 ## Gems & others
 
