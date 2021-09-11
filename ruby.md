@@ -45,6 +45,10 @@ Best practices
 
 ## Artikel
 
+Ruby Machine Learning
+- https://dev.to/daviducolo/machinelearning-with-ruby-3m75
+- https://github.com/arbox/machine-learning-with-ruby
+
 Awesome Curation
 - https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps
 - https://github.com/Sdogruyol/awesome-ruby
@@ -55,12 +59,6 @@ Setup Sublime Text untuk Ruby/Rails
 - https://mattbrictson.com/sublime-text-3-recommendations
 - https://stackoverflow.com/questions/11410158/execute-ruby-code-in-sublime-text-2
 - https://www.marksayson.com/blog/setting-up-sublime-text-editor-for-ruby-on-rails/
-
-5 Best Programming Languages for Hacking
-- https://techworm.net/programming/best-programming-languages-hacking/
-
-Kenapa banyak startup Indonesia menggungakan RoR
-- https://id.quora.com/Mengapa-banyak-startup-Indonesia-yang-menggunakan-Ruby-on-Rails-Mengapa-tidak-menggunakan-Node-JS-sebagai-back-end-yang-secara-kecepatan-dan-skalabilitas-lebih-unggul?share=1
 
 Ruby-mysql
 - https://zetcode.com/db/mysqlrubytutorial/
@@ -79,6 +77,12 @@ Ruby chatbot
 Ruby game dev
 - https://rosesz.github.io/ruby-game-development/#/
 - https://medium.com/@michellenguy/5-reasons-to-build-your-first-game-in-ruby-as-a-beginner-game-developer-73265dc2c88
+
+5 Best Programming Languages for Hacking
+- https://techworm.net/programming/best-programming-languages-hacking/
+
+Kenapa banyak startup Indonesia menggungakan RoR
+- https://id.quora.com/Mengapa-banyak-startup-Indonesia-yang-menggunakan-Ruby-on-Rails-Mengapa-tidak-menggunakan-Node-JS-sebagai-back-end-yang-secara-kecepatan-dan-skalabilitas-lebih-unggul?share=1
 
 ## Discussion
 
