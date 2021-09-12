@@ -41,6 +41,12 @@ Python3 Data, 2016
 
 ## Ide Proyek
 
+100 Python mini project
+- https://github.com/Python-World/python-mini-projects
+
+70 python project beginner-advanced
+- https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html
+
 Web app in Django/Flask
 - https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/
 - https://opensource.com/article/20/8/python-android-mobile
