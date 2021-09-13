@@ -80,6 +80,13 @@ Ruby game dev
 Kenapa banyak startup Indonesia menggungakan RoR
 - https://id.quora.com/Mengapa-banyak-startup-Indonesia-yang-menggunakan-Ruby-on-Rails-Mengapa-tidak-menggunakan-Node-JS-sebagai-back-end-yang-secara-kecepatan-dan-skalabilitas-lebih-unggul?share=1
 
+Rails deployment
+- https://devcenter.heroku.com/articles/getting-started-with-rails6
+- https://docs.bitnami.com/general/apps/discourse/get-started/deploy-rails-app/
+- https://medium.com/ruby-on-rails-web-application-development/how-to-deploy-ruby-on-rails-apps-to-the-internet-production-staging-49efc503c91d
+- https://rails.github.io/
+- https://dev.to/render/deploying-your-rails-6-app-4an4
+
 ## Discussion
 
 Ruby in 2020
