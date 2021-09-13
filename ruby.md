@@ -86,6 +86,7 @@ Rails deployment
 - https://medium.com/ruby-on-rails-web-application-development/how-to-deploy-ruby-on-rails-apps-to-the-internet-production-staging-49efc503c91d
 - https://rails.github.io/
 - https://dev.to/render/deploying-your-rails-6-app-4an4
+- https://medium.com/swlh/deploy-rails-app-to-digital-ocean-f1aeb0991470
 
 ## Discussion
 
