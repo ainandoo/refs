@@ -30,3 +30,12 @@ Javatpoint: PHP Tutorial
 
 PHP For Absolute Beginners | Traversy Media
 - https://www.youtube.com/watch?v=2eebptXfEvw
+
+## Roadmap
+
+PHP Skillset
+- https://infinite.education/expertise/PHP_Developer
+
+Laravel
+- https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
+- https://github.com/Hasnayeen/laravel-developer-roadmap
