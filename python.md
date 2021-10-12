@@ -41,11 +41,20 @@ Python3 Data, 2016
 
 ## Ide Proyek
 
+140 Python project with source code
+- https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac
+
 100 Python mini project
 - https://github.com/Python-World/python-mini-projects
 
 70 python project beginner-advanced
 - https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html
+
+60 Python projects
+- https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512
+
+Python personal project
+- https://github.com/kishanrajput23/Personal-Python-Projects
 
 Web app in Django/Flask
 - https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/
