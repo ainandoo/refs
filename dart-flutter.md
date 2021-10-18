@@ -23,6 +23,9 @@
 
 Dart Tutorial for Beginner
 - https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
+
+Dart Tutorial
+- https://www.geeksforgeeks.org/dart-tutorial/
 	
 ## B. Flutter
 
@@ -119,7 +122,6 @@ Flutter in Focus
 
 Making Animations in Flutter
 - https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua
-
 
 
 ## D. Tools & lain-lain
