@@ -82,6 +82,8 @@ Flutter Widget 101
 Flutter short video
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth3sKRTffwvwloxb4snyDDI
 
+Flutter Tutorial
+
 ## C. Referensi
 
 Flutter by Google
