@@ -12,6 +12,14 @@ SQL Database Programming | Mike Dane
 MongoDB NoSQL
 - https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao
 
+## Tutorial Database
+
+- https://www.javatpoint.com/mongodb-tutorial
+- https://www.javatpoint.com/sql-tutorial
+- https://www.javatpoint.com/sqlite-tutorial
+- https://www.javatpoint.com/pl-sql-tutorial
+- https://www.javatpoint.com/dbms-tutorial
+
 ## Lainnya
 
 W3Schools - SQL Tutorial
