@@ -26,10 +26,11 @@ Python3 Data, 2016
 
 - https://belajarpython.com/
 - https://www.w3schools.com/python/
+- https://www.javatpoint.com/python-tutorial
 - https://www.tutorialspoint.com/python/index.htm
+- https://www.tutorialspoint.com/python_data_science/index.htm
 - https://www.geeksforgeeks.org/python-programming-language/ 
 - https://data-flair.training/blogs/
-- https://www.tutorialspoint.com/python_data_science/index.htm
 - https://pythonbasics.org/
 - https://www.pythontutorial.net/
 - https://github.com/Akuli/python-tutorial
