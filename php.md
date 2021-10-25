@@ -37,5 +37,7 @@ PHP Skillset
 - https://infinite.education/expertise/PHP_Developer
 
 Laravel
+- https://www.javatpoint.com/php-oops-concepts
 - https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 - https://github.com/Hasnayeen/laravel-developer-roadmap
+- https://www.javatpoint.com/laravel
