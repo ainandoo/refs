@@ -41,3 +41,4 @@ Laravel
 - https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 - https://github.com/Hasnayeen/laravel-developer-roadmap
 - https://www.javatpoint.com/laravel
+- https://www.tutorialspoint.com/laravel/index.htm
