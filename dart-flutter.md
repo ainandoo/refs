@@ -125,6 +125,9 @@ Flutter in Focus
 Making Animations in Flutter
 - https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua
 
+Discussion | Flutter Apprentice Book
+- https://www.youtube.com/playlist?list=PL4dBIh1xps-HAaadBRWQobCO_IJ4gMOG2
+
 
 ## D. Tools & lain-lain
 
