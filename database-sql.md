@@ -37,6 +37,9 @@ Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analy
 Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 2
 - https://www.youtube.com/watch?v=lxEdaElkQhQ
 
+Full MySQL Database
+- https://www.youtube.com/watch?v=ER8oKX5myE0
+
 ## Ebook
 
 Database Design, 2nd Edition. 2014.
