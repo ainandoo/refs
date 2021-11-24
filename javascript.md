@@ -1,4 +1,5 @@
 
+
 ## Projects
 
 JS Project for Beginner
@@ -13,10 +14,18 @@ JS for Web Development | Thread
 Learning JavaScript Road-Map | CodeX | Medium
 - https://medium.com/codex/learning-javascript-road-map-1d97d20aef5d
 
+
 ## Tutorial
 - https://www.javatpoint.com/javascript-tutorial
+
 
 ## Library
 
 AR JS
 - https://github.com/AR-js-org/AR.js
+
+
+## Talks
+
+The JavaScript Survival Guide
+- https://www.youtube.com/watch?v=9emXNzqCKyg 
