@@ -9,6 +9,7 @@ Belajar MySQL / MariaDB - Guntur Budi
 SQL Database Programming | Mike Dane
 - https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49
 
+SQL Tutorial
 - https://mode.com/sql-tutorial/
 - https://www.sqltutorial.org/
 - https://www.guru99.com/sql.html
