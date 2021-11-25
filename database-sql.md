@@ -9,8 +9,9 @@ Belajar MySQL / MariaDB - Guntur Budi
 SQL Database Programming | Mike Dane
 - https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49
 
-MongoDB NoSQL
-- https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao
+- https://mode.com/sql-tutorial/
+- https://www.sqltutorial.org/
+- https://www.guru99.com/sql.html
 
 ## Tutorial Database
 
@@ -31,14 +32,11 @@ Freecodecamp SQL Tutorial - Full Database Course for Beginners
 MySQL Tutorial for Beginners | Programming With Mosh
 - https://www.youtube.com/watch?v=7S_tz1z_5bA
 
-Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)
-- https://www.youtube.com/watch?v=4cWkVbC2bNE
-
-Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 2
-- https://www.youtube.com/watch?v=lxEdaElkQhQ
-
 Full MySQL Database
 - https://www.youtube.com/watch?v=ER8oKX5myE0
+
+MongoDB NoSQL
+- https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao
 
 ## Ebook
 
@@ -51,6 +49,12 @@ Database Design, 2nd Edition. 2014.
 - https://www.lucidchart.com/pages/database-diagram/database-design
 - https://www.guru99.com/database-design.html
 - https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
+
+Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)
+- https://www.youtube.com/watch?v=4cWkVbC2bNE
+
+Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 2
+- https://www.youtube.com/watch?v=lxEdaElkQhQ
 
 UML Diagram Full Course | FreeCodeCamp
 - https://www.youtube.com/watch?v=WnMQ8HlmeXc
