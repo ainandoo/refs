@@ -1,5 +1,10 @@
 ## SQL
 
+XAMPP SQL Tutorial
+- https://kotakode.com/blogs/6995/Tutorial-MySQL-Part-1
+- https://kotakode.com/blogs/7240/Tutorial-MySQL-Part-2
+- https://kotakode.com/blogs/8985/Tutorial-MySQL-part-3
+
 TUTORIAL MYSQL DATABASE BAHASA INDONESIA - Programmer Zaman Now
 - https://www.youtube.com/watch?v=xYBclb-sYQ4
 
