@@ -98,10 +98,14 @@ Numpy
 - https://realpython.com/tutorials/numpy/
 
 Pandas 
+
 - https://pandas.pydata.org/
 - https://realpython.com/pandas-dataframe/
 - https://www.w3schools.com/python/pandas/default.asp
 - https://www.tutorialspoint.com/python_pandas/index.htm
+
+Visualisasi data dengan python
+- https://kotakode.com/blogs/13634/Mengenal-Visualisasi-Data-dengan-Python
 
 PyTorch
 
