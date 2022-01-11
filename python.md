@@ -21,6 +21,8 @@ Python3 Data, 2016
 - https://pythonlearning.medium.com/the-roadmap-for-python-from-beginner-to-pyguru-48503ca4e794
 - https://www.geeksforgeeks.org/best-way-to-start-learning-python-a-complete-roadmap/
 - https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06
+- https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
+- https://dev.to/hb/python-developer-roadmap-in-2021-2bmo
 
 ## Tutorial
 
