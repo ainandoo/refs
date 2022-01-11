@@ -73,6 +73,9 @@ Otomasi dengan Python | Budi Rahardjo
 Web Scraper ; Bulk Files Renamer ; Weather Program ; Countdown Timer ; Password Generator ; QR Code Reader and Generator
 - https://www.youtube.com/watch?v=SqvVm3QiQVk
 
+Web Scrapping with Beautiful Soup | FreeCodeCamp
+- https://www.youtube.com/watch?v=XVv6mJpFOb0&ab_channel=freeCodeCamp.org
+
 Python Projects Junior Developers
 - https://www.freecodecamp.org/news/python-projects-junior-developers/
 
@@ -90,12 +93,18 @@ Python + Excel
 
 ## Tools 
 
+Matplotlib Crash Course | FreeCodeCamp
+- https://www.youtube.com/watch?v=3Xc3CA655Y4&ab_channel=freeCodeCamp.org
+
 Numpy
 - https://numpy.org/
 - https://www.w3schools.com/python/numpy/default.asp
 - https://www.tutorialspoint.com/numpy/index.htm
 - https://www.geeksforgeeks.org/python-numpy/
 - https://realpython.com/tutorials/numpy/
+
+Numpy for Beginner | FreeCodeCamp
+- https://www.youtube.com/watch?v=QUT1VHiLmmI&ab_channel=freeCodeCamp.org
 
 Pandas 
 
