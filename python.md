@@ -24,6 +24,7 @@ Python3 Data, 2016
 - https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
 - https://dev.to/hb/python-developer-roadmap-in-2021-2bmo
 - https://towardsai.net/p/programming/the-2021-python-developer-roadmap
+- https://medium.com/nerd-for-tech/a-22-week-curriculum-to-learn-data-analytics-in-2022-free-resources-fe35c1289545
 
 ## Tutorial
 
