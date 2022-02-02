@@ -102,9 +102,11 @@ Progate Python ATM
 - https://kotakode.com/blogs/13634/Mengenal-Visualisasi-Data-dengan-Python
 
 Microsoft + Python project
+- https://docs.microsoft.com/id-id/learn/paths/beginner-python/
 - https://docs.microsoft.com/id-id/learn/paths/python-first-steps/
 - https://docs.microsoft.com/id-id/learn/paths/python-partnership/
 - https://docs.microsoft.com/id-id/learn/paths/python-language/
+- https://docs.microsoft.com/id-id/learn/paths/django-create-data-driven-websites/
 
 ## Course
 
@@ -138,6 +140,9 @@ PyTorch Fundamental Course
 - https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/
 
 TensorFlow
+
+Microsoft + Tensorflow
+- https://docs.microsoft.com/id-id/learn/paths/tensorflow-fundamentals/
 
 TensorFlow 2 Quickstart | Google Colaboratory
 - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb
