@@ -39,6 +39,9 @@ Python3 Data, 2016
 - https://www.pythontutorial.net/
 - https://github.com/Akuli/python-tutorial
 
+Colab tutorial & resource
+- https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
+
 ## Reference
 
 - https://www.faridrifaie.my.id/2018/09/top-5-youtube-channels-to-learn-basic.html
