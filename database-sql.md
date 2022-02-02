@@ -78,6 +78,8 @@ Cara Membuat Desain Database | Pojok Programmer
 
 ## Others
 
-DBEAVER
+DBeaver
 - https://github.com/dbeaver/dbeaver/wiki/Working-with-Spatial-GIS-data
-- 
+
+Microsoft + SQL
+- https://docs.microsoft.com/id-id/learn/paths/get-started-querying-with-transact-sql/
