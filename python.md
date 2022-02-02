@@ -101,6 +101,11 @@ Progate Python ATM
 - Visualisasi data dengan python
 - https://kotakode.com/blogs/13634/Mengenal-Visualisasi-Data-dengan-Python
 
+Microsoft + Python project
+- https://docs.microsoft.com/id-id/learn/paths/python-first-steps/
+- https://docs.microsoft.com/id-id/learn/paths/python-partnership/
+- https://docs.microsoft.com/id-id/learn/paths/python-language/
+
 ## Course
 
 - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
@@ -144,6 +149,7 @@ OpenCV
 - https://sonsuzdesign.blog/2020/07/12/building-a-cat-face-recognizer-in-python/
 - https://medium.com/analytics-vidhya/face-detection-with-6-simple-steps-in-python-4e3958660dbe
 - https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+
 OpenCV AI Lite
 - https://www.indiegogo.com/projects/opencv-ai-kit-lite#/
 
@@ -155,4 +161,7 @@ OpenCV AI Lite
 ## Python Android
 
 - https://dev.to/bauripalash/how-to-run-python-programs-on-android-49bg
-- 
+
+AI / ML (Artificial Intelligence / Machine Learning)
+- https://docs.microsoft.com/id-id/learn/paths/create-machine-learn-models/
+- https://docs.microsoft.com/id-id/learn/paths/understand-machine-learning/
