@@ -91,6 +91,13 @@ Python + Excel
 - https://www.dataquest.io/blog/excel-and-pandas/
 - https://www.freecodecamp.org/news/discord-ai-chatbot/
 
+Visualisasi data dengan python
+- https://kotakode.com/blogs/13634/Mengenal-Visualisasi-Data-dengan-Python
+
+Progate Python ATM
+- Visualisasi data dengan python
+- https://kotakode.com/blogs/13634/Mengenal-Visualisasi-Data-dengan-Python
+
 ## Course
 
 - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
@@ -117,15 +124,15 @@ Pandas
 - https://www.w3schools.com/python/pandas/default.asp
 - https://www.tutorialspoint.com/python_pandas/index.htm
 
-Visualisasi data dengan python
-- https://kotakode.com/blogs/13634/Mengenal-Visualisasi-Data-dengan-Python
-
 PyTorch
 
 PyTorch Fundamental Course
 - https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/
 
 TensorFlow
+
+TensorFlow 2 Quickstart | Google Colaboratory
+- https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb
 
 OpenCV
 - https://realpython.com/face-recognition-with-python/
