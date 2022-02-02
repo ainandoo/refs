@@ -161,7 +161,3 @@ OpenCV AI Lite
 ## Python Android
 
 - https://dev.to/bauripalash/how-to-run-python-programs-on-android-49bg
-
-AI / ML (Artificial Intelligence / Machine Learning)
-- https://docs.microsoft.com/id-id/learn/paths/create-machine-learn-models/
-- https://docs.microsoft.com/id-id/learn/paths/understand-machine-learning/
