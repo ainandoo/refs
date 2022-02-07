@@ -23,6 +23,9 @@ Menjalankan Ruby di Android (Termux)
 
 - http://ruby-hacking-guide.github.io/
 
+Free Programming Books (Ruby)
+- https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby
+
 ## Framework: 
 
 #### Rails (Web)
