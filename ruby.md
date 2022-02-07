@@ -1,8 +1,8 @@
+Ruby Documentation
+- https://www.ruby-lang.org/en/documentation/
+
 Ruby Tutorial
 - https://www.geeksforgeeks.org/ruby-tutorial/
-
-Ruby in 20 minutes
-- https://www.ruby-lang.org/en/documentation/quickstart/
 
 Try Ruby
 - https://try.ruby-lang.org/
@@ -10,25 +10,28 @@ Try Ruby
 Ruby Dasar Bahasa Indonesia - Sekolah Koding
 - https://www.youtube.com/playlist?list=PLCZlgfAG0GXDx2lN_PuWEfPM26YFcEJHI
 
-Ruby - Rails | Learning Videos
-- https://dev.to/thecodepixi/a-ruby-on-rails-roadmap-34i4
-
-Ruby - Rails | Roadmap 2018
-- https://gist.github.com/onlurking/857b1b3a06f6b77c1bc411edb339e603
+Ruby in 20 minutes
+- https://www.ruby-lang.org/en/documentation/quickstart/
 
 Menjalankan Ruby di Android (Termux)
 - https://blog.bivekoli.com.np/posts/run-ruby-programs-offline-on-android.html
 
 ## Ebook
 
-- http://ruby-hacking-guide.github.io/
-
 Free Programming Books (Ruby)
 - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby
+
+- http://ruby-hacking-guide.github.io/
 
 ## Framework: 
 
 #### Rails (Web)
+
+Rails 6 Book (One page one chapter)
+- https://www.railstutorial.org/book
+
+Rails Guide
+- https://guides.rubyonrails.org/getting_started.html
 
 Ruby on Rails | FreeCodeCamp
 - https://www.youtube.com/watch?v=fmyvWz5TUWg
@@ -38,6 +41,12 @@ Ruby on Rails | Artivisi
 
 Belajar Rails | Agung Setiawan
 - https://www.youtube.com/playlist?list=PLbQ1u0HDV6ETB7XNmK_A2yG4ElHXHGl9X
+
+Ruby - Rails | Learning Videos
+- https://dev.to/thecodepixi/a-ruby-on-rails-roadmap-34i4
+
+Ruby - Rails | Roadmap 2018
+- https://gist.github.com/onlurking/857b1b3a06f6b77c1bc411edb339e603
 
 Best practices
 - https://shopify.engineering/write-fast-code-ruby-rails
