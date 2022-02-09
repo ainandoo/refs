@@ -1,4 +1,13 @@
 
+## Tutorial
+
+- https://www.javatpoint.com/javascript-tutorial
+- https://learnjavascript.online/
+
+MDN
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
 
 ## Projects
 
@@ -13,10 +22,6 @@ JS for Web Development | Thread
 
 Learning JavaScript Road-Map | CodeX | Medium
 - https://medium.com/codex/learning-javascript-road-map-1d97d20aef5d
-
-
-## Tutorial
-- https://www.javatpoint.com/javascript-tutorial
 
 
 ## Library
