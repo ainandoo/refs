@@ -3,6 +3,9 @@
 Belajar SEO 101 - Ibrahim Vatih
 - https://www.youtube.com/watch?v=eU7NBFNptqA&list=PLoo_iv3Jf0C8hCqbE-3a5LmHS8ca2ZV18
 
+DM Tutorial
+- https://www.simplilearn.com/tutorials/digital-marketing-tutorial
+
 DM Beginer overview | Simplilearn
 - https://www.youtube.com/watch?v=kpgerCE095A
 
