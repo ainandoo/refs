@@ -26,6 +26,7 @@ How to Learn Digital Marketing in 2020
 - https://www.digitalvidya.com/blog/digital-marketing-tutorial/
 - https://neilpatel.com/what-is-digital-marketing/
 - https://www.upgrad.com/blog/digital-marketing-tutorial/
+- https://www.edureka.co/blog/digital-marketing-tutorial/
 
 ## Reference
 
