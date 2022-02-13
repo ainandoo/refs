@@ -24,7 +24,6 @@ How to Learn Digital Marketing in 2020
 - https://neilpatel.com/what-is-digital-marketing/
 - https://www.upgrad.com/blog/digital-marketing-tutorial/
 
-
 ## Reference
 
 Gaji DM 2020 - Purwadhika
@@ -50,3 +49,6 @@ Google Search Central
 
 Linkedin Learning
 - https://www.linkedin.com/learning/search?keywords=digital+marketing
+
+(paid) Udemy Digital Marketing
+- https://www.udemy.com/course/learn-digital-marketing-course/
