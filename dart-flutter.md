@@ -39,7 +39,11 @@ Dart Tutorial
     
     https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
 
-2. https://flutter.dev/docs
+2. Flutter Documentation
+- https://docs.flutter.dev/
+
+4. Flutter Engage | Learn Flutter Development
+- https://events.flutter.dev/engage/learn/beginner
 
 3. Tutorial Singkat
 
