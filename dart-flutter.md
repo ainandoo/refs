@@ -3,7 +3,6 @@
 ## A. Dart
 
 1. Dart PBO - Erico Darmawan Handoyo
-
    https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
 
 2. Dart Docs | https://dart.dev/guides
@@ -31,21 +30,29 @@ Dart Tutorial
 
 1. Flutter Fundamental - Erico Darmawan Handoyo
 
-    Part 1:
+Part 1:
+https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV
 
-    https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV
-	
-    Part 2:
-    
-    https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
+Part 2:
+https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
 
 2. Flutter Documentation
 - https://docs.flutter.dev/
 
-4. Flutter Engage | Learn Flutter Development
+3. Flutter Engage | Learn Flutter Development
 - https://events.flutter.dev/engage/learn/beginner
 
-3. Tutorial Singkat
+4. Flutter Codelabs
+	
+	https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
+	
+	https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
+	
+	https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
+	
+	https://codelabs.developers.google.com/?cat=Flutter
+
+5. Tutorial Singkat
 
 - http://thetechnocafe.com/flutter-crash-course-1-installation-and-overview/
 - http://thetechnocafe.com/flutter-crash-course-2-application-and-ui-basics/
@@ -53,6 +60,16 @@ Dart Tutorial
 - http://thetechnocafe.com/flutter-crash-course-4-dive-into-more-flutter-widgets/
 - http://thetechnocafe.com/flutter-crash-course-5-building-lists-and-pages/
 - http://thetechnocafe.com/flutter-crash-course-6-networking-basics/
+
+6. Build With Angga | BWA
+
+- https://buildwithangga.com/kelas/dart-pemula
+
+- https://buildwithangga.com/kelas/flutter-fundamentals
+
+- https://buildwithangga.com/kelas/flutter-mobile-apps
+
+- https://buildwithangga.com/kelas/flutter-development-apis-ui-animation
 
 HTTP Request dengan Flutter
 - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VC-Adfpl5D0k9N8psiDXrir
@@ -62,26 +79,6 @@ Flutter Widget of the Week
 
 Flutter Widget 101
 - https://www.youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd
-
-3. Flutter Codelabs
-	
-	https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
-	
-	https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index
-	
-	https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/index.html?index=..%2F..index
-	
-	https://codelabs.developers.google.com/?cat=Flutter
-
-4. Kelas daring
-
-	https://buildwithangga.com/kelas/dart-pemula
-	
-	https://buildwithangga.com/kelas/flutter-fundamentals
-	
-	https://buildwithangga.com/kelas/flutter-mobile-apps
-	
-	https://buildwithangga.com/kelas/flutter-development-apis-ui-animation
 
 Flutter short video
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth3sKRTffwvwloxb4snyDDI
