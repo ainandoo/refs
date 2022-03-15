@@ -44,13 +44,14 @@ https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
 
 4. Flutter Codelabs
 	
-	https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
-	
-	https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
-	
-	https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
-	
-	https://codelabs.developers.google.com/?cat=Flutter
+- https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
+
+- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
+	- https://www.youtube.com/watch?v=Z6KZ3cTGBWw (versi video)
+
+- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
+
+- https://codelabs.developers.google.com/?cat=Flutter
 
 5. Tutorial Singkat
 
