@@ -3,7 +3,7 @@
 ## A. Dart
 
 1. Dart PBO - Erico Darmawan Handoyo
-   https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
+   - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
 
 2. Dart Docs | https://dart.dev/guides
 
