@@ -5,6 +5,9 @@ Ruby Tutorial
 - https://www.geeksforgeeks.org/ruby-tutorial/
 - https://www.rubyguides.com/ruby-tutorial/
 
+Ruby Video Tutorial | freeCodeCamp
+https://www.youtube.com/watch?v=t_ispmWmdjY
+
 Try Ruby
 - https://try.ruby-lang.org/
 
