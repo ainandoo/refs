@@ -3,6 +3,7 @@ Ruby Documentation
 
 Ruby Tutorial
 - https://www.geeksforgeeks.org/ruby-tutorial/
+- https://www.rubyguides.com/ruby-tutorial/
 
 Try Ruby
 - https://try.ruby-lang.org/
