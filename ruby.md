@@ -55,6 +55,9 @@ Ruby - Rails | Roadmap 2018
 Best practices
 - https://shopify.engineering/write-fast-code-ruby-rails
 
+[Premium] Gorails
+- https://gorails.com/
+
 ## Artikel
 
 Ruby Machine Learning
