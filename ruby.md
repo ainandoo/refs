@@ -31,8 +31,11 @@ Free Programming Books (Ruby)
 
 #### Rails (Web)
 
-Ruby on Rails 6 Crash Course
+Ruby on Rails 6 Crash Course | Traversy Media
 - https://www.youtube.com/watch?v=B3Fbujmgo60
+
+Learn Ruby on Rails 6 | freeCodeCamp
+- https://www.youtube.com/watch?v=fmyvWz5TUWg
 
 Rails 6 Book (One page one chapter)
 - https://www.railstutorial.org/book
