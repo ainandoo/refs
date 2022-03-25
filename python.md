@@ -98,8 +98,7 @@ Visualisasi data dengan python
 - https://kotakode.com/blogs/13634/Mengenal-Visualisasi-Data-dengan-Python
 
 Progate Python ATM
-- Visualisasi data dengan python
-- https://kotakode.com/blogs/13634/Mengenal-Visualisasi-Data-dengan-Python
+- https://docs.google.com/presentation/d/1QK82AuEz43OSdDZvgcaVFqagTLzRsIX6nobzD1tZHY0/edit?usp=sharing
 
 Microsoft + Python project
 - https://docs.microsoft.com/id-id/learn/paths/beginner-python/
