@@ -48,6 +48,9 @@ Roadmap
 
 ## VueJS
 
+VueJS 3 Crash Course | Traversy Media
+- https://www.youtube.com/watch?v=qZXt1Aom3Cs
+
 Roadmap
 - https://medium.com/js-dojo/roadmap-how-to-get-started-with-vuejs-afcf8f18d1f6
 - https://github.com/marekbrainhub/vue-developer-roadmap
