@@ -34,3 +34,44 @@ AR JS
 
 The JavaScript Survival Guide
 - https://www.youtube.com/watch?v=9emXNzqCKyg 
+
+## ReactJS
+
+Roadmap
+- https://javascript.plainenglish.io/react-learning-roadmap-for-2021-a1c0f7456186
+- https://github.com/adam-golab/react-developer-roadmap
+- https://github.com/arvinazs/react-developer-roadmap
+- https://github.com/pkkballer/react-developer-roadmap
+- https://github.com/taduyde/react-developer-roadmap
+- https://github.com/devcodedao/Reactjs-developer-roadmap
+- https://github.com/harry-chiu/react-developer-roadmap-challenge
+
+## VueJS
+
+Roadmap
+- https://medium.com/js-dojo/roadmap-how-to-get-started-with-vuejs-afcf8f18d1f6
+- https://github.com/marekbrainhub/vue-developer-roadmap
+- https://flaviocopes.com/vue-developer-roadmap/
+- https://github.com/flaviocopes/vue-developer-roadmap
+- https://github.com/marekbrainhub/vue-developer-roadmap
+- https://github.com/kgmsoft/vue-developer-roadmap
+
+Tools Umum dan Ekosistem
+
+- VueJS Guide | https://v3.vuejs.org/ ; https://vuejs.org/v2/guide/
+- vuex (State Management) | https://vuex.vuejs.org/
+- vue-cli (Scaffolding) | https://cli.vuejs.org/
+- Nuxt (SSG) | https://nuxtjs.org/
+- vue-router (SPA Routing) | https://router.vuejs.org/
+
+- vue-loader (for webpack)
+- vue-server-renderer
+- vue-class-component
+- vue-rx (RxJS)
+- vue-devtools
+
+Tools Terkait
+
+- Axios (Ajax)
+- Apollo (GraphQL)
+- Mocha (Testing)
