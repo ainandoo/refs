@@ -160,9 +160,13 @@ Artoo | robotics, iot
 mysql2
 - https://rubygems.org/gems/mysql2/versions/0.5.2
 
+data viz
+- https://ruby.libhunt.com/categories/122-data-visualization
+
 gem guides
 - https://guides.rubygems.org/command-reference/
 - https://guides.rubygems.org/
 
 Find actively maintained & popular gem
 - https://www.ruby-toolbox.com/
+- https://ruby.libhunt.com/
