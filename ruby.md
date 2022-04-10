@@ -64,6 +64,9 @@ Best practices
 [Premium] Gorails
 - https://gorails.com/
 
+Boring Rails
+- https://boringrails.com/
+
 ## Artikel
 
 Ruby Machine Learning
