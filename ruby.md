@@ -69,6 +69,10 @@ Boring Rails
 
 ## Artikel
 
+Rails CRUD
+- https://rairizky.my.id/crud-dengan-ruby-on-rails
+- https://medium.com/swlh/build-your-first-rails-application-crud-tutorial-70740244b76f
+
 Ruby Machine Learning
 - https://dev.to/daviducolo/machinelearning-with-ruby-3m75
 - https://github.com/arbox/machine-learning-with-ruby
