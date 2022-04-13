@@ -22,6 +22,9 @@ Sekolah / Universitas
 
 ## Tutorial WordPress
 
+Learn PHP for WordPress | Envanto FREE COURSE
+- https://www.youtube.com/watch?v=O0XHaN1-5eo
+
 Tutorial Wordpress untuk Pemula (Bahasa Indonesia) | JuniorDev YouTube
 - https://www.youtube.com/playlist?list=PLFLsT6z_5FzlOlJqYiMHUcRuFkF2fHMRq
 
