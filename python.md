@@ -38,14 +38,14 @@ Python3 Data, 2016
 - https://pythonbasics.org/
 - https://www.pythontutorial.net/
 - https://github.com/Akuli/python-tutorial
+- https://www.faridrifaie.my.id/2018/09/top-5-youtube-channels-to-learn-basic.html
+- https://realpython.com/
 
 Colab tutorial & resource
 - https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
 
-## Reference
-
-- https://www.faridrifaie.my.id/2018/09/top-5-youtube-channels-to-learn-basic.html
-- https://realpython.com/
+YouTube - Programmer Zaman Now | Belajar Pemrograman Python untuk Pemula
+- https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H
 
 ## Ide Proyek
 
