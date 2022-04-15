@@ -3,9 +3,12 @@
 HTML Table Generator
 - https://www.cssportal.com/html-table-generator/
 
+- https://htmlreference.io/
+
 ## CSS References
 
 - https://www.cssportal.com/
+- https://cssreference.io/
 
 CSS Flexbox Generator
 - https://www.cssportal.com/css-flexbox-generator/ 
