@@ -4,6 +4,9 @@
 - https://www.javatpoint.com/javascript-tutorial
 - https://learnjavascript.online/
 
+Modern Javascript Tutorial
+- https://javascript.info/
+
 MDN
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
