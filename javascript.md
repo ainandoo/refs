@@ -11,6 +11,12 @@ MDN
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
+## Reference
+JavaScript (ES2015+) Enlightenment
+- https://frontendmasters.com/guides/javascript-enlightenment/
+
+Frontend Developer Learning Roadmap
+- https://frontendmasters.com/guides/learning-roadmap/
 
 ## Projects
 
