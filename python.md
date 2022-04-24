@@ -139,6 +139,8 @@ PyTorch Fundamental Course
 - https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/
 
 TensorFlow
+TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
+- https://www.youtube.com/watch?v=tPYj3fFJGjk
 
 Microsoft + Tensorflow
 - https://docs.microsoft.com/id-id/learn/paths/tensorflow-fundamentals/
@@ -156,6 +158,16 @@ OpenCV
 
 OpenCV AI Lite
 - https://www.indiegogo.com/projects/opencv-ai-kit-lite#/
+
+Django
+- https://www.geeksforgeeks.org/django-tutorial/
+
+Python Backend Web Development Course (with Django)
+- https://www.youtube.com/watch?v=jBzwzrDvZ18
+
+Django API
+- https://blog.logrocket.com/django-rest-framework-create-api/
+- https://www.geeksforgeeks.org/how-to-create-a-basic-api-using-django-rest-framework/
 
 ## Perusahaan Pengguna
 
