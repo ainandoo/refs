@@ -60,6 +60,9 @@ Roadmap
 VueJS 3 Crash Course | Traversy Media
 - https://www.youtube.com/watch?v=qZXt1Aom3Cs
 
+Vue.js 3 Course for Beginners [2021 Tutorial] | freeCodeCamp
+- https://www.youtube.com/watch?v=FXpIoQ_rT_c
+
 Roadmap
 - https://medium.com/js-dojo/roadmap-how-to-get-started-with-vuejs-afcf8f18d1f6
 - https://github.com/marekbrainhub/vue-developer-roadmap
