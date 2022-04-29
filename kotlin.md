@@ -25,6 +25,13 @@ Programmer Zaman Now
 6. Kotlin Restful API
 - https://www.youtube.com/watch?v=J3YeD3km68g
 
+## Tutorial
+
+- https://www.w3schools.com/kotlin/index.php
+- https://developer.android.com/kotlin/campaign/learn
+- https://www.atomickotlin.com/atomickotlin/
+- https://hyperskill.org/tracks/18
+
 ## Articles
 
 - https://hub.packtpub.com/getting-started-with-kotlin-programming/
