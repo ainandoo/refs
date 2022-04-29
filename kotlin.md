@@ -11,8 +11,19 @@ Kotlin For Android Development | Devsloper
 - https://www.youtube.com/watch?v=SXLmr4Qp4OM
 
 Programmer Zaman Now
+1. Kotlin dasar untuk Pemula
 - https://github.com/ProgrammerZamanNow/belajar-kotlin-dasar
 - https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa
+2. Kotlin OOP
+- https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog
+3. Kotlin Generic
+- https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR
+4. Kotlin Collection
+- https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr
+5. Kotlin Unit Test
+- https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up
+6. Kotlin Restful API
+- https://www.youtube.com/watch?v=J3YeD3km68g
 
 ## Articles
 
