@@ -111,6 +111,9 @@ Microsoft + Python project
 
 - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
 
+Python API Development with FastAPI | freeCodeCamp
+- https://www.youtube.com/watch?v=0sOvCWFmrtA
+
 ## Tools 
 
 Matplotlib Crash Course | FreeCodeCamp
