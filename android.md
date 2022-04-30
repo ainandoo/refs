@@ -1,3 +1,5 @@
+TUTORIAL ANDROID DASAR (BAHASA INDONESIA)
+- https://www.youtube.com/watch?v=pUTz5IOkBtE
 
 Google reference
 - https://developer.android.com/courses/
@@ -30,6 +32,7 @@ Build Native Apps with Kotlin | FreeCodeCamp
 - https://www.youtube.com/watch?v=Iz08OTTjR04
 
 ## Course
+
 - https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0
 - https://developer.android.com/codelabs/kotlin-coroutines#0
 - https://developer.android.com/codelabs/kotlin-coroutines#0
