@@ -72,6 +72,9 @@ Dart Tutorial
 
 - https://buildwithangga.com/kelas/flutter-development-apis-ui-animation
 
+7. Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
+-  https://www.youtube.com/watch?v=VPvVD8t02U8
+
 HTTP Request dengan Flutter
 - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VC-Adfpl5D0k9N8psiDXrir
 
