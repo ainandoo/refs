@@ -3,6 +3,9 @@
 Kotlin Playground | Online editor
 - https://play.kotlinlang.org
 
+Kotlin Hands-on | Online Labs
+- https://play.kotlinlang.org/hands-on/overview
+
 ## Dokumentasi
 
 https://kotlinlang.org/docs/home.html
@@ -15,7 +18,7 @@ Kotlin Course | FreeCodeCamp
 Kotlin For Android Development | Devsloper
 - https://www.youtube.com/watch?v=SXLmr4Qp4OM
 
-Programmer Zaman Now
+\[Bahasa Indonesia] Programmer Zaman Now
 1. Kotlin dasar untuk Pemula
 - https://github.com/ProgrammerZamanNow/belajar-kotlin-dasar
 - https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa
