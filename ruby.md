@@ -67,6 +67,11 @@ Best practices
 Boring Rails
 - https://boringrails.com/
 
+Website/Perusahaan Pengguna
+- https://www.alodokter.com/
+- https://progate.com/
+- 
+
 ## Artikel
 
 Rails CRUD
