@@ -77,6 +77,18 @@ Clever Programmer
 - https://github.com/CleverProgrammers
 - https://github.com/CleverProgrammer
 
+Array.id
+- https://github.com/array-id
+- https://www.youtube.com/channel/UCQzfClEEDfuVuES-GQUy6aw/featured
+Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript
+- https://www.youtube.com/watch?v=JS5w4rUbjQE
+
+Prawito Hudoro
+- https://prawito.com/home
+- https://link.prawito.com/
+- https://www.youtube.com/c/prawitohudoro/about
+- https://buildwithangga.com/mentor/prawitobwa
+- https://github.com/prawito
 
 ## VueJS
 
