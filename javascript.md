@@ -72,6 +72,10 @@ Javascript Mastery
 - https://www.instagram.com/javascriptmastery/
 - https://taplink.cc/javascriptmastery
 
+Clever Programmer
+- https://www.youtube.com/c/CleverProgrammer/featured
+- https://github.com/CleverProgrammers
+- https://github.com/CleverProgrammer
 
 
 ## VueJS
