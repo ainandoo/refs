@@ -11,12 +11,6 @@ MDN
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
-## Reference
-JavaScript (ES2015+) Enlightenment
-- https://frontendmasters.com/guides/javascript-enlightenment/
-
-Frontend Developer Learning Roadmap
-- https://frontendmasters.com/guides/learning-roadmap/
 
 ## Projects
 
@@ -31,6 +25,14 @@ JS for Web Development | Thread
 
 Learning JavaScript Road-Map | CodeX | Medium
 - https://medium.com/codex/learning-javascript-road-map-1d97d20aef5d
+
+
+## Reference
+JavaScript (ES2015+) Enlightenment
+- https://frontendmasters.com/guides/javascript-enlightenment/
+
+Frontend Developer Learning Roadmap
+- https://frontendmasters.com/guides/learning-roadmap/
 
 
 ## Library
@@ -54,6 +56,23 @@ Roadmap
 - https://github.com/taduyde/react-developer-roadmap
 - https://github.com/devcodedao/Reactjs-developer-roadmap
 - https://github.com/harry-chiu/react-developer-roadmap-challenge
+
+Tutorial ReactJS Bahasa Indonesia
+- https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V
+
+Full Modern React Tutorial
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+
+Sonny Sangha | Papa React
+- https://www.youtube.com/c/SonnySangha/featured
+- https://medium.com/sonny-sangha
+- https://compassionate-leakey-e9b16b.netlify.app/
+
+Javascript Mastery
+- https://www.instagram.com/javascriptmastery/
+- https://taplink.cc/javascriptmastery
+
+
 
 ## VueJS
 
