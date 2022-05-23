@@ -37,14 +37,8 @@ Frontend Developer Learning Roadmap
 
 ## Library
 
-AR JS
+### AR JS
 - https://github.com/AR-js-org/AR.js
-
-
-## Talks
-
-The JavaScript Survival Guide
-- https://www.youtube.com/watch?v=9emXNzqCKyg 
 
 ## ReactJS
 
@@ -103,7 +97,24 @@ Wahidev Academy
 - https://www.youtube.com/c/WahidevAcademy
 - https://www.wahidevacademy.com/
 
-## VueJS
+### ThreeJS
+
+- https://threejs.org/
+- https://github.com/mrdoob/three.js/
+- https://www.freecodecamp.org/news/three-js-tutorial/
+- https://www.freecodecamp.org/news/render-3d-objects-in-browser-drawing-a-box-with-threejs/
+- https://devdojo.com/tnylea/getting-started-with-three-js
+- https://freefrontend.com/three-js-examples/
+
+## Talks
+
+The JavaScript Survival Guide
+- https://www.youtube.com/watch?v=9emXNzqCKyg 
+
+
+## Frameworks
+
+### VueJS
 
 VueJS 3 Crash Course | Traversy Media
 - https://www.youtube.com/watch?v=qZXt1Aom3Cs
