@@ -90,6 +90,12 @@ Prawito Hudoro
 - https://buildwithangga.com/mentor/prawitobwa
 - https://github.com/prawito
 
+Parsinta
+- https://www.youtube.com/c/Parsinta/featured
+
+Wahidev Academy
+- https://www.youtube.com/c/WahidevAcademy
+
 ## VueJS
 
 VueJS 3 Crash Course | Traversy Media
