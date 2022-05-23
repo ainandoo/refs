@@ -60,8 +60,14 @@ Roadmap
 Tutorial ReactJS Bahasa Indonesia
 - https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V
 
-Full Modern React Tutorial
+Full Modern React Tutorial | The Net Ninja
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+
+React Course - Beginner's Tutorial for React JavaScript Library [2022] | FreeCodeCamp
+- https://www.youtube.com/watch?v=bMknfKXIFA8
+
+Redux Tutorial
+- https://www.youtube.com/watch?v=zrs7u6bdbUw
 
 Sonny Sangha | Papa React
 - https://www.youtube.com/c/SonnySangha/featured
@@ -95,6 +101,7 @@ Parsinta
 
 Wahidev Academy
 - https://www.youtube.com/c/WahidevAcademy
+- https://www.wahidevacademy.com/
 
 ## VueJS
 
