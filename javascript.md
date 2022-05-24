@@ -60,6 +60,9 @@ Full Modern React Tutorial | The Net Ninja
 React Course - Beginner's Tutorial for React JavaScript Library [2022] | FreeCodeCamp
 - https://www.youtube.com/watch?v=bMknfKXIFA8
 
+React JS Course for Beginners - 2021 Tutorial
+- https://www.youtube.com/watch?v=nTeuhbP7wdE&ab_channel=freeCodeCamp.org
+
 Redux Tutorial
 - https://www.youtube.com/watch?v=zrs7u6bdbUw
 
@@ -80,6 +83,7 @@ Clever Programmer
 Array.id
 - https://github.com/array-id
 - https://www.youtube.com/channel/UCQzfClEEDfuVuES-GQUy6aw/featured
+
 Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript
 - https://www.youtube.com/watch?v=JS5w4rUbjQE
 
