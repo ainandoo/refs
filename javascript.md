@@ -51,6 +51,11 @@ Roadmap
 - https://github.com/devcodedao/Reactjs-developer-roadmap
 - https://github.com/harry-chiu/react-developer-roadmap-challenge
 
+Tutorial
+- https://www.w3schools.com/REACT/DEFAULT.ASP
+- https://mfikri.com/blog/kategori/reactjs
+- https://ibaslogic.com/series/
+
 Tutorial ReactJS Bahasa Indonesia
 - https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V
 
