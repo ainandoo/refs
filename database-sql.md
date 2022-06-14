@@ -11,6 +11,9 @@ TUTORIAL MYSQL DATABASE BAHASA INDONESIA - Programmer Zaman Now
 Belajar MySQL / MariaDB - Guntur Budi
 - https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF
 
+Indonesia Belajar
+- https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_
+
 SQL Database Programming | Mike Dane
 - https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49
 
@@ -19,6 +22,7 @@ SQL Tutorial
 - https://www.sqltutorial.org/
 - https://www.guru99.com/sql.html
 
+
 ## Tutorial Database
 
 - https://www.javatpoint.com/mongodb-tutorial
@@ -26,6 +30,7 @@ SQL Tutorial
 - https://www.javatpoint.com/sqlite-tutorial
 - https://www.javatpoint.com/pl-sql-tutorial
 - https://www.javatpoint.com/dbms-tutorial
+
 
 ## Lainnya
 
@@ -44,10 +49,12 @@ Full MySQL Database
 MongoDB NoSQL
 - https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao
 
+
 ## Ebook
 
 Database Design, 2nd Edition. 2014.
 - https://open.umn.edu/opentextbooks/textbooks/354
+
 
 ## Database Design
 
@@ -68,13 +75,16 @@ UML Diagram Full Course | FreeCodeCamp
 Cara Membuat Desain Database | Pojok Programmer
 - https://www.youtube.com/playlist?list=PLuWJxlFnq2hP3elqJebfwQE9oxgbIpn5I
 
+
 ## DBMS
 
 - https://www.guru99.com/dbms-tutorial.html
 
+
 ## PL/SQL
 
 - https://www.guru99.com/pl-sql-tutorials.html
+
 
 ## Others
 
