@@ -158,3 +158,26 @@ Tools Terkait
 - Axios (Ajax)
 - Apollo (GraphQL)
 - Mocha (Testing)
+
+### Angular
+
+- https://angular.io/
+
+Tutorial
+
+Angular 12 Crash Course
+- https://www.youtube.com/watch?v=LA_v8isNp5E
+
+Angular Tutorial for Beginners - Web Framework with Typescript Course
+- https://www.youtube.com/watch?v=AAu8bjj6-UI
+
+Angular Crash Course
+- https://www.youtube.com/watch?v=3dHNOWTI7H8
+
+Angular 11 Indonesia
+- https://www.youtube.com/playlist?list=PL9At9z2rvOC9eOWtl_-8vVm5jtc_O8ytu
+
+Angular 12 Indonesia
+- https://www.youtube.com/playlist?list=PLyrvZoXwfFP-hk4SkWghdPvw4z1NPDuee
+
+
