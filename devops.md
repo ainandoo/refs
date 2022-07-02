@@ -1,4 +1,11 @@
+Cara Jadi DevOps Engineer di 2022 (UNTUK PEMULA)
+- https://www.youtube.com/watch?v=6kDpqHRE0BE
 
+DevOps Roadmap 2022 - How to become a DevOps Engineer? What is DevOps?
+- https://www.youtube.com/watch?v=9pZ2xmsSDdo
+
+DevOps Engineering Course for Begineer
+- https://www.youtube.com/watch?v=j5Zsa_eOXeY
 
 Belajar Docker untuk Pemula
 - https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao
