@@ -8,14 +8,14 @@ Ruby Tutorial
 Ruby Video Tutorial | freeCodeCamp
 - https://www.youtube.com/watch?v=t_ispmWmdjY
 
+Ruby in 20 minutes
+- https://www.ruby-lang.org/en/documentation/quickstart/
+
 Try Ruby
 - https://try.ruby-lang.org/
 
 Ruby Dasar Bahasa Indonesia - Sekolah Koding
 - https://www.youtube.com/playlist?list=PLCZlgfAG0GXDx2lN_PuWEfPM26YFcEJHI
-
-Ruby in 20 minutes
-- https://www.ruby-lang.org/en/documentation/quickstart/
 
 Menjalankan Ruby di Android (Termux)
 - https://blog.bivekoli.com.np/posts/run-ruby-programs-offline-on-android.html
@@ -67,10 +67,16 @@ Best practices
 Boring Rails
 - https://boringrails.com/
 
-Website/Perusahaan Pengguna
+Website dan Perusahaan Pengguna Ruby/Rails
+- GOTO (Gojek services)
 - https://www.alodokter.com/
 - https://progate.com/
-- 
+- https://dribbble.com/
+- https://stackblitz.com/
+- https://www.slideshare.net/
+- https://www.airbnb.com/
+- https://themes.shopify.com/
+- https://burst.shopify.com/
 
 ## Artikel
 
