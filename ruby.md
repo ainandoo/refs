@@ -77,6 +77,7 @@ Website dan Perusahaan Pengguna Ruby/Rails
 - https://www.airbnb.com/
 - https://themes.shopify.com/
 - https://burst.shopify.com/
+- https://dev.to/
 
 ## Artikel
 
