@@ -1,4 +1,11 @@
+## Getting Started
 
+- https://dave.cheney.net/resources-for-new-go-programmers
+- https://yourbasic.org/golang/getting-started-hello-world/
+- https://go.dev/tour/welcome/1
+
+Write, Build, Install, Testing Go code
+- https://www.youtube.com/watch?v=XCsL89YtqCs
 ## Tutorial
 
 - https://dasarpemrogramangolang.novalagung.com/
@@ -28,8 +35,6 @@ PZN: Golang Web
 
 Golang go-to guide
 - https://yourbasic.org/golang/
-
-- https://dave.cheney.net/resources-for-new-go-programmers
 
 German Golang Slides
 - http://hackingmondays.github.io/golang-slides/#/
