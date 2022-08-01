@@ -26,6 +26,9 @@ PZN: Golang Web
 
 ## Resources
 
+Golang go-to guide
+- https://yourbasic.org/golang/
+
 - https://dave.cheney.net/resources-for-new-go-programmers
 
 German Golang Slides
