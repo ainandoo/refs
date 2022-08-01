@@ -33,5 +33,8 @@ German Golang Slides
 
 ## References
 
+Go advantages over Java and Python
+- https://yourbasic.org/golang/advantages-over-java-python/
+
 Why Go is not good
 - http://yager.io/programming/go.html
