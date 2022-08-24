@@ -1,3 +1,13 @@
+## IoT Boards
+
+Arduino UNO R3
+- https://docs.arduino.cc/hardware/uno-rev3
+
+Arduino Resources
+- https://docs.arduino.cc/learn/
+- https://docs.arduino.cc/built-in-examples/
+- https://www.arduino.cc/reference/en/
+
 
 ## simulation website
 
@@ -13,6 +23,7 @@ Objectblocks | IoT Education Platform
 - https://create.arduino.cc/projecthub/jimmykh/objectblocks-makes-easy-arduino-and-iot-development-3d7dfc
 - https://lms.onnocenter.or.id/wiki/index.php/ObjectBlocks
 - https://www.hackster.io/jimmykh/objectblocks-makes-easy-arduino-and-iot-development-3d7dfc
+
 
 ## Raspi OS
 
