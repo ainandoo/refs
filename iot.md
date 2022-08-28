@@ -1,6 +1,7 @@
 ## Electronics and programming
 
 - https://techexplorations.com/
+- https://learn.sparkfun.com/resources
 
 ## IoT Boards
 
@@ -16,6 +17,7 @@ Arduino tutorial
 - https://www.tutorialspoint.com/arduino/index.htm
 - https://www.arduinoindonesia.id/
 - https://arduinogetstarted.com/arduino-tutorials
+- https://learn.sparkfun.com/tutorials/what-is-an-arduino/all
 
 Arduino Course for Beginner | freeCodeCamp
 - https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org
