@@ -7,6 +7,10 @@ Arduino Resources
 - https://docs.arduino.cc/learn/
 - https://docs.arduino.cc/built-in-examples/
 - https://www.arduino.cc/reference/en/
+- https://www.arduinoindonesia.id/
+
+Arduino Course for Beginner | freeCodeCamp
+- https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org
 
 
 ## simulation website
