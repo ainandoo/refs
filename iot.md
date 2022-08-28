@@ -7,6 +7,9 @@ Arduino Resources
 - https://docs.arduino.cc/learn/
 - https://docs.arduino.cc/built-in-examples/
 - https://www.arduino.cc/reference/en/
+
+Arduino tutorial
+- https://www.tutorialspoint.com/arduino/index.htm
 - https://www.arduinoindonesia.id/
 
 Arduino Course for Beginner | freeCodeCamp
