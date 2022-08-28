@@ -1,3 +1,7 @@
+## Electronics and programming
+
+- https://techexplorations.com/
+
 ## IoT Boards
 
 Arduino UNO R3
@@ -11,6 +15,7 @@ Arduino Resources
 Arduino tutorial
 - https://www.tutorialspoint.com/arduino/index.htm
 - https://www.arduinoindonesia.id/
+- https://arduinogetstarted.com/arduino-tutorials
 
 Arduino Course for Beginner | freeCodeCamp
 - https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org
