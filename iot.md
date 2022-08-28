@@ -18,6 +18,13 @@ Arduino tutorial
 - https://www.arduinoindonesia.id/
 - https://arduinogetstarted.com/arduino-tutorials
 - https://learn.sparkfun.com/tutorials/what-is-an-arduino/all
+- https://www.makerspaces.com/arduino-uno-tutorial-beginners/
+- https://toptechboy.com/arduino-lessons/
+- https://arduino-tutorials.net/
+- https://learn.adafruit.com/category/learn-arduino
+
+Arduino + Python
+- https://toptechboy.com/using-python-with-arduino-lessons/
 
 Arduino Course for Beginner | freeCodeCamp
 - https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org
@@ -43,6 +50,9 @@ Objectblocks | IoT Education Platform
 
 - https://retropie.org.uk/
 
+Tutorials
+- https://toptechboy.com/raspberry-pi-with-linux-lessons/
+
 ## tutorial
 
 iot simulation
@@ -50,3 +60,6 @@ iot simulation
 
 Experimenting with Java and Electronics on the Raspberry Pi
 - https://www.youtube.com/watch?v=yKuFmgmPb7E
+
+Robotics
+- https://toptechboy.com/robotic-tutorial-for-beginners/
