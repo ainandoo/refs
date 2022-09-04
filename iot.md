@@ -53,6 +53,12 @@ Objectblocks | IoT Education Platform
 Tutorials
 - https://toptechboy.com/raspberry-pi-with-linux-lessons/
 
+## Tools
+
+Platform.io
+- https://platformio.org/
+- https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
+
 ## tutorial
 
 iot simulation
