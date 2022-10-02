@@ -6,6 +6,8 @@
 
 Write, Build, Install, Testing Go code
 - https://www.youtube.com/watch?v=XCsL89YtqCs
+
+
 ## Tutorial
 
 - https://dasarpemrogramangolang.novalagung.com/
@@ -30,6 +32,11 @@ PZN: Golang Database MySQL
 
 PZN: Golang Web
 - https://www.youtube.com/watch?v=Iq3RITuUlr4
+
+GoLang Tutorials | NerdCademy
+- https://www.youtube.com/playlist?list=PLujhHB_uAFJws6Vv5q1KDoaQ4YcpS9UOm
+
+
 
 ## Resources
 
