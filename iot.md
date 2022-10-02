@@ -29,6 +29,9 @@ Arduino + Python
 Arduino Course for Beginner | freeCodeCamp
 - https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org
 
+Arduino & Mikrokontroler | Poltek Bengkalis - Indobot
+- https://www.youtube.com/playlist?list=PL3BHTmA5aQcJAvq1FM9ay4rn18rIujGoe
+
 
 ## simulation website
 
