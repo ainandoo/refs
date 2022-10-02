@@ -180,4 +180,3 @@ Angular 11 Indonesia
 Angular 12 Indonesia
 - https://www.youtube.com/playlist?list=PLyrvZoXwfFP-hk4SkWghdPvw4z1NPDuee
 
-
