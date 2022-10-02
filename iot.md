@@ -32,6 +32,8 @@ Arduino Course for Beginner | freeCodeCamp
 Arduino & Mikrokontroler | Poltek Bengkalis - Indobot
 - https://www.youtube.com/playlist?list=PL3BHTmA5aQcJAvq1FM9ay4rn18rIujGoe
 
+Bosch XDK
+- https://www.youtube.com/playlist?list=PLjA7OoXwzRI2AUyyGuBT13P733eUaB2pE
 
 ## simulation website
 
@@ -72,3 +74,6 @@ Experimenting with Java and Electronics on the Raspberry Pi
 
 Robotics
 - https://toptechboy.com/robotic-tutorial-for-beginners/
+
+Private Talks & Reference
+- https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
