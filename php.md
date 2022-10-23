@@ -42,3 +42,18 @@ Laravel
 - https://github.com/Hasnayeen/laravel-developer-roadmap
 - https://www.javatpoint.com/laravel
 - https://www.tutorialspoint.com/laravel/index.htm
+
+
+## Framework / CMS
+
+Moodle
+- https://moodle.org/
+
+Why Moodle
+- https://www.quora.com/What-are-the-best-alternatives-to-Moodle?share=1
+
+Pengguna Moodle CMS
+- https://moodle.unai.edu/
+- https://elearn.uc.ac.id/ (???)
+- https://moodle.sgs.sch.id/ (moodle-based)
+- http://moodle.smadel.sch.id/
