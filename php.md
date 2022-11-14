@@ -38,6 +38,7 @@ PHP Skillset
 
 Laravel
 - https://www.javatpoint.com/php-oops-concepts
+- https://medium.com/@hayreddintuzel/how-to-learn-laravel-a-roadmap-from-beginner-to-advanced-5414640362e8
 - https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 - https://github.com/Hasnayeen/laravel-developer-roadmap
 - https://www.javatpoint.com/laravel
