@@ -42,6 +42,7 @@ Laravel
 - https://github.com/Hasnayeen/laravel-developer-roadmap
 - https://www.javatpoint.com/laravel
 - https://www.tutorialspoint.com/laravel/index.htm
+- https://laraveldaily.com/roadmap-learning-path
 
 
 ## Framework / CMS
