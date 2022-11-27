@@ -45,6 +45,11 @@ Laravel
 - https://www.tutorialspoint.com/laravel/index.htm
 - https://laraveldaily.com/roadmap-learning-path
 
+Laravel 9 REST API
+- https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-9
+- https://www.tutsmake.com/laravel-9-rest-api-crud-example-tutorial/
+- https://www.techiediaries.com/rest-api-laravel-9/
+
 
 ## Framework / CMS
 
