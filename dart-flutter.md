@@ -75,6 +75,12 @@ Dart Tutorial
 7. Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
 -  https://www.youtube.com/watch?v=VPvVD8t02U8
 
+x. project
+- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-66944e460bdb
+- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer%E3%83%BCpart-2-feedea6911b
+- https://blog.codemagic.io/flutter-widget-cheat-sheet/
+- https://blog.codemagic.io/rest-api-in-flutter/
+
 HTTP Request dengan Flutter
 - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VC-Adfpl5D0k9N8psiDXrir
 
