@@ -35,24 +35,25 @@ PHP For Absolute Beginners | Traversy Media
 
 PHP Skillset
 - https://infinite.education/expertise/PHP_Developer
+- https://www.javatpoint.com/php-oops-concepts
+
 
 Laravel
-- https://www.javatpoint.com/php-oops-concepts
 - https://medium.com/@hayreddintuzel/how-to-learn-laravel-a-roadmap-from-beginner-to-advanced-5414640362e8
 - https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 - https://github.com/Hasnayeen/laravel-developer-roadmap
-- https://www.javatpoint.com/laravel
-- https://www.tutorialspoint.com/laravel/index.htm
 - https://laraveldaily.com/roadmap-learning-path
 
-Laravel 9 REST API
+
+## Framework / CMS
+
+Laravel 9 && REST API
 - https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-9
 - https://santrikoding.com/tutorial-set/tutorial-laravel-9-untuk-pemula
 - https://www.tutsmake.com/laravel-9-rest-api-crud-example-tutorial/
 - https://www.techiediaries.com/rest-api-laravel-9/
-
-
-## Framework / CMS
+- https://www.javatpoint.com/laravel
+- https://www.tutorialspoint.com/laravel/index.htm
 
 Moodle
 - https://moodle.org/
