@@ -47,6 +47,7 @@ Laravel
 
 Laravel 9 REST API
 - https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-9
+- https://santrikoding.com/tutorial-set/tutorial-laravel-9-untuk-pemula
 - https://www.tutsmake.com/laravel-9-rest-api-crud-example-tutorial/
 - https://www.techiediaries.com/rest-api-laravel-9/
 
