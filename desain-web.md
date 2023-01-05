@@ -20,3 +20,8 @@ Relearn CSS Layout
 
 Every fukin Bootstrap website
 - http://dagusa.com/#
+
+## Design Reference
+
+- https://www.awwwards.com/
+- situs hape dan laptop
