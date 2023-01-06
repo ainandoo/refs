@@ -1,7 +1,7 @@
 
 ## Guide
 
-Elementor based
+Website redesign Elementor based
 - https://elementor.com/blog/website-redesign-guide/
 
 ## Layout
@@ -24,4 +24,5 @@ Every fukin Bootstrap website
 ## Design Reference
 
 - https://www.awwwards.com/
+- https://godly.website/
 - situs hape dan laptop
