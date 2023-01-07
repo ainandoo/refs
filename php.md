@@ -44,7 +44,6 @@ Laravel 9 && REST API
 Laravel 9 Login auth
 - https://codeanddeploy.com/blog/laravel/laravel-8-authentication-login-and-registration-with-username-or-email
   - NOTE: perlu set user migration: name jadi ->nullable() atau ->default()
-- 
 
 Moodle
 - https://moodle.org/
