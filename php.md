@@ -1,23 +1,5 @@
-## Programmer Zaman Now
 
-TUTORIAL PHP DASAR BAHASA INDONESIA
-- https://www.youtube.com/watch?v=TaBWhb5SPfc
-
-TUTORIAL PHP OOP BAHASA INDONESIA
-- https://www.youtube.com/watch?v=_P2t0lCzU-Q
-
-TUTORIAL PHP 8 FITUR BARU BAHASA INDONESIA
-- https://www.youtube.com/watch?v=CZPmqu6rMdo
-
-## Web Programming UNPAS
-
-Belajar PHP untuk PEMULA
-- https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6
-
-OOP DASAR pada PHP
-- https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p
-
-## Lain-lain
+## Tutorial
 
 W3schools: PHP Tutorial
 - https://www.w3schools.com/php/
@@ -28,6 +10,23 @@ Tutorialspoint: PHP Tutorial
 Javatpoint: PHP Tutorial
 - https://www.javatpoint.com/php-tutorial
 
+## Video
+
+Programmer Zaman Now | TUTORIAL PHP DASAR BAHASA INDONESIA
+- https://www.youtube.com/watch?v=TaBWhb5SPfc
+
+Programmer Zaman Now | TUTORIAL PHP OOP BAHASA INDONESIA
+- https://www.youtube.com/watch?v=_P2t0lCzU-Q
+
+Programmer Zaman Now | TUTORIAL PHP 8 FITUR BARU BAHASA INDONESIA
+- https://www.youtube.com/watch?v=CZPmqu6rMdo
+
+WP Unpas | Belajar PHP untuk PEMULA
+- https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6
+
+WP Unpas | OOP DASAR pada PHP
+- https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p
+
 PHP For Absolute Beginners | Traversy Media
 - https://www.youtube.com/watch?v=2eebptXfEvw
 
@@ -36,7 +35,6 @@ PHP For Absolute Beginners | Traversy Media
 PHP Skillset
 - https://infinite.education/expertise/PHP_Developer
 - https://www.javatpoint.com/php-oops-concepts
-
 
 Laravel
 - https://medium.com/@hayreddintuzel/how-to-learn-laravel-a-roadmap-from-beginner-to-advanced-5414640362e8
@@ -54,6 +52,11 @@ Laravel 9 && REST API
 - https://www.techiediaries.com/rest-api-laravel-9/
 - https://www.javatpoint.com/laravel
 - https://www.tutorialspoint.com/laravel/index.htm
+
+Laravel 9 Login auth
+- https://codeanddeploy.com/blog/laravel/laravel-8-authentication-login-and-registration-with-username-or-email
+  - NOTE: perlu set user migration: name jadi ->nullable() atau ->default()
+- 
 
 Moodle
 - https://moodle.org/
