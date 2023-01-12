@@ -11,6 +11,18 @@
 
 ## IoT Boards
 
+ESP32
+- https://randomnerdtutorials.com/projects-esp32/
+- https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/index.html#
+
+ESP8266
+- https://randomnerdtutorials.com/projects-esp8266/
+- https://arduino-esp8266.readthedocs.io/en/latest/
+- https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf
+- https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/index.html
+- http://arduino.esp8266.com/Arduino/versions/2.0.0/doc/installing.html
+- https://github.com/esp8266/Arduino
+
 Arduino UNO R3
 - https://docs.arduino.cc/hardware/uno-rev3
 
