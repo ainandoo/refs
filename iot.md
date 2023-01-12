@@ -70,6 +70,11 @@ Platform.io
 - https://platformio.org/
 - https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
 
+NodeRED
+- https://nodered.org/
+- https://github.com/node-red/node-red
+- https://stevesnoderedguide.com/
+
 ## tutorial
 
 iot simulation
