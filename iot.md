@@ -1,3 +1,9 @@
+## Roadmap
+
+- https://installtekz.com/iot-learning-roadmap/
+- https://github.com/mahmoodfathy/IoT-Roadmap
+- https://www.quora.com/What-is-a-best-path-road-map-to-learn-and-master-IOT-Internet-Of-Things
+
 ## Electronics and programming
 
 - https://techexplorations.com/
