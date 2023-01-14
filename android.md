@@ -12,6 +12,7 @@ Android Jetpack
 - https://developer.android.com/jetpack
 - https://developer.android.com/jetpack/compose/tutorial
 - https://developer.android.com/codelabs/jetpack-compose-basics#0
+- https://www.freecodecamp.org/news/jetpack-compose-beginner-tutorial-composables-recomposition/
 
 ## Kotlin
 
