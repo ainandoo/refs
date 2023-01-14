@@ -67,20 +67,6 @@ Best practices
 Boring Rails
 - https://boringrails.com/
 
-#### Website dan Perusahaan Pengguna Ruby/Rails
-- GOTO (Gojek services)
-- https://www.alodokter.com/
-- https://progate.com/
-- https://dribbble.com/
-- https://stackblitz.com/
-- https://www.slideshare.net/
-- https://www.airbnb.com/
-- https://themes.shopify.com/
-- https://burst.shopify.com/
-- https://dev.to/
-- https://create.arduino.cc/projecthub
-- https://sourceforge.net/
-
 ## Artikel
 
 Rails CRUD
@@ -191,3 +177,19 @@ gem guides
 Find actively maintained & popular gem
 - https://www.ruby-toolbox.com/
 - https://ruby.libhunt.com/
+
+
+## Website dan Perusahaan Pengguna Ruby/Rails
+- GOTO (Gojek services)
+- https://www.alodokter.com/
+- https://progate.com/
+- https://dribbble.com/
+- https://stackblitz.com/
+- https://www.slideshare.net/
+- https://www.airbnb.com/
+- https://themes.shopify.com/
+- https://burst.shopify.com/
+- https://dev.to/
+- https://create.arduino.cc/projecthub
+- https://sourceforge.net/
+- https://www.kodeco.com/
