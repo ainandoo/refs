@@ -12,3 +12,11 @@ GitHub MLOps
 
 Deep Learning Intro and Overview | Medium
 - https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0?linkId=63206779
+
+## Tools
+
+TensorFlow
+- https://www.tensorflow.org/tutorials
+- https://www.w3schools.in/tensorflow/tutorials/
+- https://www.datacamp.com/tutorial/tensorflow-tutorial
+- https://www.youtube.com/results?search_query=tensorflow+tutorial
