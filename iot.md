@@ -15,6 +15,7 @@ ESP32
 - https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/index.html#
 
 ESP8266
+- https://www.warriornux.com/beginners-guide-belajar-esp8266-iot-dari-dasar/
 - https://randomnerdtutorials.com/projects-esp8266/
 - https://arduino-esp8266.readthedocs.io/en/latest/
 - https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf
