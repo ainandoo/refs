@@ -7,6 +7,7 @@
 
 - https://techexplorations.com/
 - https://learn.sparkfun.com/resources
+- https://www.edukasielektronika.com/
 
 ## IoT Boards
 
