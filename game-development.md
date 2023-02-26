@@ -16,8 +16,12 @@ Godot Resources
 - https://gdquest.github.io/learn-gdscript
 - https://docs.godotengine.org/en/stable/
 - https://www.youtube.com/@Gdquest/playlists
+- https://www.facebook.com/groups/godotindonesia/
 
 ## Articles
+
+Game Dev Website
+- https://gamedevacademy.org/
 
 Game Dev Process
 - https://innovecs.com/blog/game-development-process/
