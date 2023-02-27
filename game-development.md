@@ -17,6 +17,8 @@ Godot Resources
 - https://docs.godotengine.org/en/stable/
 - https://www.youtube.com/@Gdquest/playlists
 - https://www.facebook.com/groups/godotindonesia/
+- https://www.javatpoint.com/godot-game-engine
+- https://godottutorials.com/
 
 ## Articles
 
