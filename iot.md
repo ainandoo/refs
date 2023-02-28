@@ -106,3 +106,7 @@ Robotics
 
 Private Talks & Reference
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
+
+
+## industri di tanah air
+- https://bardi.co.id/
