@@ -140,5 +140,9 @@ Private Talks & Reference
 Tutorials
 - https://toptechboy.com/raspberry-pi-with-linux-lessons/
 
-## industri di tanah air
+## Industri di Tanah Air
+
 - https://bardi.co.id/
+- http://www.geeknesia.com/
+- https://www.kmtech.id/
+- https://indobot.co.id/
