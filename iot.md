@@ -24,18 +24,18 @@ ESP8266
 - http://arduino.esp8266.com/Arduino/versions/2.0.0/doc/installing.html
 - https://github.com/esp8266/Arduino
 
-ESP8266 IoT Tutorials
+ESP8266: IoT Tutorials
 - https://vimalb.github.io/IoT-ESP8266-Starter/
 
 Arduino UNO R3
 - https://docs.arduino.cc/hardware/uno-rev3
 
-Arduino Resources
+Arduino: Resources
 - https://docs.arduino.cc/learn/
 - https://docs.arduino.cc/built-in-examples/
 - https://www.arduino.cc/reference/en/
 
-Arduino tutorial
+Arduino: Tutorials
 - https://www.tutorialspoint.com/arduino/index.htm
 - https://www.arduinoindonesia.id/
 - https://arduinogetstarted.com/arduino-tutorials
@@ -62,7 +62,13 @@ Bosch XDK
 EMQX
 - https://www.emqx.com/en/mqtt
 
-## simulation website
+Mosquitto
+
+CoAP
+
+LoRa
+
+## Simulation Website
 
 TinkerCAD
 - https://www.tinkercad.com
@@ -77,14 +83,7 @@ Objectblocks | IoT Education Platform
 - https://lms.onnocenter.or.id/wiki/index.php/ObjectBlocks
 - https://www.hackster.io/jimmykh/objectblocks-makes-easy-arduino-and-iot-development-3d7dfc
 
-## Raspi OS
-
-- https://retropie.org.uk/
-
-Tutorials
-- https://toptechboy.com/raspberry-pi-with-linux-lessons/
-
-## Tools
+## IoT Platform
 
 Platform.io
 - https://platformio.org/
@@ -95,7 +94,32 @@ NodeRED
 - https://github.com/node-red/node-red
 - https://stevesnoderedguide.com/
 
-## tutorial
+Thingspeak
+- https://thingspeak.com/
+
+IoT DSA
+- http://iot-dsa.org/
+
+Particle
+- https://www.particle.io/
+
+Sitewhere
+- https://sitewhere.io/en/
+
+Blynk
+- https://blynk.io/
+
+Node-RED
+- https://nodered.org/
+
+Thinger
+- https://thinger.io/
+
+Thingsboard
+- https://thingsboard.io/
+
+
+## Tutorial
 
 iot simulation
 - https://www.youtube.com/playlist?list=PLVx1qovxj-anaDdhHUB4gecxygXkLejwE
@@ -109,6 +133,12 @@ Robotics
 Private Talks & Reference
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
 
+## Raspi OS
+
+- https://retropie.org.uk/
+
+Tutorials
+- https://toptechboy.com/raspberry-pi-with-linux-lessons/
 
 ## industri di tanah air
 - https://bardi.co.id/
