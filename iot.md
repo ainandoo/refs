@@ -118,6 +118,9 @@ Thinger
 Thingsboard
 - https://thingsboard.io/
 
+Fogwing IIoT
+- https://www.fogwing.io/
+
 
 ## Tutorial
 
