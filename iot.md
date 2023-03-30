@@ -26,6 +26,7 @@ ESP8266
 
 ESP8266: IoT Tutorials
 - https://vimalb.github.io/IoT-ESP8266-Starter/
+- http://www.esp8266learning.com/
 
 Arduino UNO R3
 - https://docs.arduino.cc/hardware/uno-rev3
