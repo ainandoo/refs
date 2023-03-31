@@ -2,15 +2,11 @@
 
 - https://github.com/utilForever/game-developer-roadmap
 - https://dev.to/saifullahusmani/complete-game-development-roadmap-aaa-guide-included-detailed-guide-4mih
-- 
 
 ## Game Engine
 
 Godot Engine
 - https://godotengine.org/
-
-Game Maker 2D
-- https://gamemaker.io/en
 
 Godot Resources
 - https://gdquest.github.io/learn-gdscript
@@ -20,7 +16,19 @@ Godot Resources
 - https://www.javatpoint.com/godot-game-engine
 - https://godottutorials.com/
 
+GDevelop
+- https://gdevelop.io/
+
+Game Maker 2D
+- https://gamemaker.io/en
+
+Cocos
+- https://www.cocos.com/en
+
 ## Articles
+
+MDN Game Development
+- https://developer.mozilla.org/en-US/docs/Games
 
 Game Dev Website
 - https://gamedevacademy.org/
