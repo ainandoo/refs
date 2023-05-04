@@ -17,14 +17,19 @@
 - http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-03-classes-and-generics/
 - http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-04-asynchronous-and-libraries/
 
-4. Vogella Dart Basic Overview
-- https://www.vogella.com/tutorials/Dart/article.html
+4. YouTube
 
+Dart from Novice to Expert
+- https://www.youtube.com/watch?v=F3JuuYuOUK4&ab_channel=Flutterly
 Dart Tutorial for Beginner
 - https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
 
-Dart Tutorial
+5. Dart Tutorial
 - https://www.geeksforgeeks.org/dart-tutorial/
+- https://dart-tutorial.com/
+- https://www.javatpoint.com/dart-programming
+- https://www.darttutorial.org/
+- https://www.vogella.com/tutorials/Dart/article.html
 	
 ## B. Flutter
 
@@ -158,8 +163,6 @@ SKIA Library:
 - https://skia.org/user/modules/canvaskit
 
 DevTools: https://flutter.dev/docs/development/tools/devtools/overview
-
-Flutterplasma: https://flutterplasma.dev/
 
 Sentry-Flutter: https://docs.sentry.io/platforms/flutter/
 
