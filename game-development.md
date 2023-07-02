@@ -25,6 +25,15 @@ Game Maker 2D
 Cocos
 - https://www.cocos.com/en
 
+## Image Sprite Dev Tool
+
+LibreSprite
+- https://libresprite.github.io/#!/#page-top
+
+Aseprite
+- https://www.aseprite.org/
+- https://github.com/aseprite/aseprite/
+
 ## Articles
 
 MDN Game Development
