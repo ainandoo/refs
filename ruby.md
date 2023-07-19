@@ -4,6 +4,7 @@ Ruby Documentation
 Ruby Tutorial
 - https://www.geeksforgeeks.org/ruby-tutorial/
 - https://www.rubyguides.com/ruby-tutorial/
+- https://en.wikibooks.org/wiki/Ruby_Programming
 
 Ruby Video Tutorial | freeCodeCamp
 - https://www.youtube.com/watch?v=t_ispmWmdjY
