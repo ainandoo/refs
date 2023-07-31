@@ -1,4 +1,9 @@
 
+## Docs
+
+PHP Language references
+- https://www.php.net/manual/en/langref.php
+
 ## Tutorial
 
 W3schools: PHP Tutorial
@@ -9,6 +14,9 @@ Tutorialspoint: PHP Tutorial
 
 Javatpoint: PHP Tutorial
 - https://www.javatpoint.com/php-tutorial
+
+OOP PHP for beginner
+- https://code.tutsplus.com/object-oriented-php-for-beginners--net-12762t
 
 ## Video
 
@@ -56,3 +64,11 @@ Pengguna Moodle CMS
 - https://elearn.uc.ac.id/ (???)
 - https://moodle.sgs.sch.id/ (moodle-based)
 - http://moodle.smadel.sch.id/
+
+Yii Framework
+
+Yii2 framwork for beginner
+- https://www.youtube.com/playlist?list=PLLQuc_7jk__VZFYZa9uVbU2mYPbnfAMC6
+ 
+Yii framework docs
+- https://www.yiiframework.com/doc/guide/2.0/en
