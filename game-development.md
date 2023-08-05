@@ -55,5 +55,13 @@ Game Design Document
 - https://gamedevbeginner.com/how-to-write-a-game-design-document-with-examples/
 - https://en.wikipedia.org/wiki/Game_design_document
 - https://www.gamedeveloper.com/business/how-to-write-a-game-design-document
-- https://ifik.telkomuniversity.ac.id/assets/upload/thesis/rafiipp/PERANCANGAN_GAME_DESIGN_DOCUMENT_UNTUK_GAME_COCKATOO_DEFENDER3.pdf
 - https://gamedesignskills.com/game-design/document/
+- https://www.gamelab.id/news/54-tips-membuat-game-design-document-gdd-bagi-pemula
+- https://github.com/kosinaz/game-design-document-template-for-beginners
+- https://www.linkedin.com/pulse/free-game-design-doc-gdd-template-david-fox/
+
+GDD SKripsi
+- https://ifik.telkomuniversity.ac.id/assets/upload/thesis/rafiipp/PERANCANGAN_GAME_DESIGN_DOCUMENT_UNTUK_GAME_COCKATOO_DEFENDER3.pdf
+- https://repository.dinamika.ac.id/id/eprint/6293/2/16420100075-2022-UNIVERSITASDINAMIKA.pdf
+- https://repository.amikom.ac.id/files/Publikasi_10.11.4097.pdf
+- https://jtiik.ub.ac.id/index.php/jtiik/article/view/694
