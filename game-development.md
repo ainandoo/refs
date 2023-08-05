@@ -48,3 +48,12 @@ Game Dev Process
 - https://medium.com/nerd-for-tech/begin-with-game-development-102b6e09eddd
 - https://www.gamedeveloper.com/design/the-4-elements-of-game-mechanics
 - https://elearningindustry.com/5-tips-to-make-learning-games-effective
+
+Game Design Document
+- https://www.gameindustrycareerguide.com/how-to-write-a-game-design-document/
+- https://www.nuclino.com/articles/game-design-document-template
+- https://gamedevbeginner.com/how-to-write-a-game-design-document-with-examples/
+- https://en.wikipedia.org/wiki/Game_design_document
+- https://www.gamedeveloper.com/business/how-to-write-a-game-design-document
+- https://ifik.telkomuniversity.ac.id/assets/upload/thesis/rafiipp/PERANCANGAN_GAME_DESIGN_DOCUMENT_UNTUK_GAME_COCKATOO_DEFENDER3.pdf
+- https://gamedesignskills.com/game-design/document/
