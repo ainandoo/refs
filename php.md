@@ -53,6 +53,11 @@ Laravel 9 Login auth
 - https://codeanddeploy.com/blog/laravel/laravel-8-authentication-login-and-registration-with-username-or-email
   - NOTE: perlu set user migration: name jadi ->nullable() atau ->default()
 
+Laravel Livewire
+- https://laravel-livewire.com/screencasts/installation
+- https://blog.logrocket.com/deep-dive-into-laravel-livewire/
+- https://blog.logrocket.com/livewire-vs-inertia-js/
+
 Moodle
 - https://moodle.org/
 
