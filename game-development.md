@@ -16,6 +16,12 @@ Godot Resources
 - https://www.javatpoint.com/godot-game-engine
 - https://godottutorials.com/
 
+Godot Playlist
+Godot 4.0 Tutorial | Sulaeman Santoso
+- https://www.youtube.com/playlist?list=PL5gLq0nzeoztEBMofziHQVsqckcfZLP2r
+Programming dasar untuk game programmer | Sulaeman Santoso
+- https://www.youtube.com/playlist?list=PL5gLq0nzeozuGm7b675-9kj69Nt_R_Syn
+
 GDevelop
 - https://gdevelop.io/
 
