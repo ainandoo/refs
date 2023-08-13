@@ -24,23 +24,32 @@ Godot 4.0 Tutorial | Sulaeman Santoso
 Programming dasar untuk game programmer | Sulaeman Santoso
 - https://www.youtube.com/playlist?list=PL5gLq0nzeozuGm7b675-9kj69Nt_R_Syn
 
-GDevelop
+### GDevelop
 - https://gdevelop.io/
 
-Game Maker 2D
+### Game Maker 2D
 - https://gamemaker.io/en
 
-Cocos
+### Cocos Engine
 - https://www.cocos.com/en
 
-## Image Sprite Dev Tool
+LibGDX Framework
+- https://libgdx.com/
 
-LibreSprite
+Phaser Framework
+- https://phaser.io/
+
+## Image Sprite: Dev Tool
+
+### LibreSprite
 - https://libresprite.github.io/#!/#page-top
 
-Aseprite
+### Aseprite
 - https://www.aseprite.org/
 - https://github.com/aseprite/aseprite/
+
+### Piksel
+- https://www.piskelapp.com/
 
 ## Articles
 
