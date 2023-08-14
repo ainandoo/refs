@@ -41,6 +41,8 @@ Laravel
 
 ## Framework / CMS
 
+### Laravel
+
 Laravel 9 && REST API
 - https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-9
 - https://santrikoding.com/tutorial-set/tutorial-laravel-9-untuk-pemula
@@ -48,6 +50,9 @@ Laravel 9 && REST API
 - https://www.techiediaries.com/rest-api-laravel-9/
 - https://www.javatpoint.com/laravel
 - https://www.tutorialspoint.com/laravel/index.htm
+
+Laravel 9 From Scratch 2022 4+ Hour Course | Traversy Media
+- https://www.youtube.com/watch?v=MYyJ4PuL4pY&ab_channel=TraversyMedia
 
 Laravel 9 Login auth
 - https://codeanddeploy.com/blog/laravel/laravel-8-authentication-login-and-registration-with-username-or-email
@@ -57,6 +62,9 @@ Laravel Livewire
 - https://laravel-livewire.com/screencasts/installation
 - https://blog.logrocket.com/deep-dive-into-laravel-livewire/
 - https://blog.logrocket.com/livewire-vs-inertia-js/
+
+Full Livewire Tutorial 2022 (for Beginners)
+- https://www.youtube.com/watch?v=IH_rDSkxg-I&ab_channel=LukasMeier
 
 Moodle
 - https://moodle.org/
@@ -70,7 +78,7 @@ Pengguna Moodle CMS
 - https://moodle.sgs.sch.id/ (moodle-based)
 - http://moodle.smadel.sch.id/
 
-Yii Framework
+### Yii Framework
 
 Yii2 framework for beginner
 - https://www.youtube.com/playlist?list=PLLQuc_7jk__VZFYZa9uVbU2mYPbnfAMC6
