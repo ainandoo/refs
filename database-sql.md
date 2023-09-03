@@ -21,6 +21,7 @@ SQL Tutorial
 - https://mode.com/sql-tutorial/
 - https://www.sqltutorial.org/
 - https://www.guru99.com/sql.html
+- https://sqlbolt.com/
 
 
 ## Tutorial Database
@@ -30,9 +31,6 @@ SQL Tutorial
 - https://www.javatpoint.com/sqlite-tutorial
 - https://www.javatpoint.com/pl-sql-tutorial
 - https://www.javatpoint.com/dbms-tutorial
-
-
-## Lainnya
 
 W3Schools - SQL Tutorial
 - https://www.w3schools.com/sql/default.asp
@@ -62,6 +60,8 @@ Database Design, 2nd Edition. 2014.
 - https://www.lucidchart.com/pages/database-diagram/database-design
 - https://www.guru99.com/database-design.html
 - https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
+- https://web.archive.org/web/20190326200142/http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html
+- https://www.lucidchart.com/pages/database-diagram/database-design#discovery__top
 
 Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)
 - https://www.youtube.com/watch?v=4cWkVbC2bNE
