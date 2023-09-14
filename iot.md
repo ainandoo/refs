@@ -125,6 +125,9 @@ Fogwing IIoT
 
 ## Tutorial
 
+Belajar Internet Of Things - Level Dasar
+- https://www.youtube.com/playlist?list=PLF1krL_nkpHjnXb51rbeVkHfBglRbsrvP
+
 iot simulation
 - https://www.youtube.com/playlist?list=PLVx1qovxj-anaDdhHUB4gecxygXkLejwE
 
