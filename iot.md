@@ -37,14 +37,19 @@ Arduino: Resources
 - https://www.arduino.cc/reference/en/
 
 Arduino: Tutorials
+- https://arduino-tutorials.net/
+- https://arduinogetstarted.com/arduino-tutorials
 - https://www.tutorialspoint.com/arduino/index.htm
 - https://www.arduinoindonesia.id/
-- https://arduinogetstarted.com/arduino-tutorials
 - https://learn.sparkfun.com/tutorials/what-is-an-arduino/all
 - https://www.makerspaces.com/arduino-uno-tutorial-beginners/
 - https://toptechboy.com/arduino-lessons/
-- https://arduino-tutorials.net/
 - https://learn.adafruit.com/category/learn-arduino
+
+YouTube
+- https://www.youtube.com/playlist?list=PLsUpCsWzk7DD0GDxHsbvkwGPM9Ogz0q6z
+- https://www.youtube.com/playlist?list=PLH58vgh-ncjXpGVtwFPllYirfZ1IV4Dd4
+- https://www.youtube.com/@dentech3d413/videos
 
 Arduino + Python
 - https://toptechboy.com/using-python-with-arduino-lessons/
