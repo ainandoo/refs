@@ -24,6 +24,9 @@ Godot 4.0 Tutorial | Sulaeman Santoso
 Programming dasar untuk game programmer | Sulaeman Santoso
 - https://www.youtube.com/playlist?list=PL5gLq0nzeozuGm7b675-9kj69Nt_R_Syn
 
+Godot 4.0 Crash Course | FreeCodeCamp
+- https://www.youtube.com/watch?v=S8lMTwSRoRg&ab_channel=freeCodeCamp.org
+
 ### GDevelop
 - https://gdevelop.io/
 
