@@ -82,6 +82,12 @@ TinkerCAD
 Wokwi - Arduino / ESP32 Simulator
 - https://wokwi.com/
 
+Falstad | Circuit Simulator
+- https://www.falstad.com/circuit/circuitjs.html
+
+DCACLab | Online Circuit Simulator
+- https://dcaclab.com/en/lab
+
 Objectblocks | IoT Education Platform
 - https://www.objectblocks.cc/
 - https://play.google.com/store/apps/details?id=cc.objectblocks.objectblockstools&gl=US
