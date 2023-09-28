@@ -7,9 +7,9 @@
 
 2. Dart Docs | https://dart.dev/guides
 
-	1. Language tour -> Language samples
-	2. Iterable collections -> generic
-	3. Asynchronous programming -> concurrent
+	1. Language tour
+	2. Effective Dart
+	3. Asynchronous programming
 
 3. Tutorial Singkat
 - http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-01-variables-types-and-functions/
@@ -70,17 +70,14 @@ Dart Tutorial for Beginner
 6. Build With Angga | BWA
 
 - https://buildwithangga.com/kelas/dart-pemula
-
 - https://buildwithangga.com/kelas/flutter-fundamentals
-
 - https://buildwithangga.com/kelas/flutter-mobile-apps
-
 - https://buildwithangga.com/kelas/flutter-development-apis-ui-animation
 
 7. Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
 -  https://www.youtube.com/watch?v=VPvVD8t02U8
 
-x. project
+99. project
 - https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-66944e460bdb
 - https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer%E3%83%BCpart-2-feedea6911b
 - https://blog.codemagic.io/flutter-widget-cheat-sheet/
@@ -154,7 +151,7 @@ Online IDE
 - https://flutlab.io/
 - https://flutterflow.io/
 
-RIVE - Animation: https://rive.app/
+RIVE (Animation): https://rive.app/
 
 Flutter Plasma: https://flutterplasma.dev/
 
@@ -179,4 +176,6 @@ Flutter adaptive UI: https://aloisdeniel.com/#/posts/adaptative-ui
 Flame Game Engine: https://flame-engine.org/
 
 Sprite Widget Game Engine: https://www.spritewidget.com/
+
+Flutter Awesome (Collection): https://flutterawesome.com/
 
