@@ -36,10 +36,10 @@ Godot 4.0 Crash Course | FreeCodeCamp
 ### Cocos Engine
 - https://www.cocos.com/en
 
-LibGDX Framework
+### LibGDX Framework
 - https://libgdx.com/
 
-Phaser Framework
+### Phaser Framework
 - https://phaser.io/
 
 ## Image Sprite: Dev Tool
@@ -54,13 +54,18 @@ Phaser Framework
 ### Piksel
 - https://www.piskelapp.com/
 
-## Articles
+## Resources
+
+Game Programming Pattern
+- https://gameprogrammingpatterns.com/contents.html
 
 MDN Game Development
 - https://developer.mozilla.org/en-US/docs/Games
 
 Game Dev Website
 - https://gamedevacademy.org/
+
+## Articles
 
 Game Dev Process
 - https://innovecs.com/blog/game-development-process/
