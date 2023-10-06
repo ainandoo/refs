@@ -26,6 +26,9 @@ Javatpoint: PHP Tutorial
 geeksforgeeks
 - https://www.geeksforgeeks.org/php-tutorial/
 
+The PHP Handbook 2022
+https://www.freecodecamp.org/news/the-php-handbook/
+
 ## Video
 
 TUTORIAL PHP DASAR BAHASA INDONESIA | Programmer Zaman Now
