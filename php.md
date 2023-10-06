@@ -1,13 +1,21 @@
 
 ## Docs
 
-PHP Language references
+PHP Documentation
+- https://www.php.net/manual/en/index.php
 - https://www.php.net/manual/en/langref.php
+
+PHP the right way
+- https://phptherightway.com/
 
 ## Tutorial
 
-W3schools: PHP Tutorial
-- https://www.w3schools.com/php/
+Learn Modern PHP
+- https://odan.github.io/learn-php/
+
+w3schools.in
+- https://www.w3schools.in/php/tutorials/
+- https://www.w3schools.in/php8/intro
 
 Tutorialspoint: PHP Tutorial
 - https://www.tutorialspoint.com/php/index.htm
@@ -15,8 +23,8 @@ Tutorialspoint: PHP Tutorial
 Javatpoint: PHP Tutorial
 - https://www.javatpoint.com/php-tutorial
 
-OOP PHP for beginner
-- https://code.tutsplus.com/object-oriented-php-for-beginners--net-12762t
+geeksforgeeks
+- https://www.geeksforgeeks.org/php-tutorial/
 
 ## Video
 
