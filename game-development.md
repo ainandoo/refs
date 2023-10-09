@@ -16,7 +16,19 @@ Godot Resources
 - https://www.javatpoint.com/godot-game-engine
 - https://godottutorials.com/
 
-Godot Playlist
+**Godot Playlist**
+
+Crash Course
+- https://www.youtube.com/watch?v=Luf2Kr5s3BM&ab_channel=Chris%27Tutorials
+- https://www.youtube.com/watch?v=NlzTmL_eB-U&ab_channel=Zenva
+- https://www.youtube.com/watch?v=S8lMTwSRoRg&ab_channel=freeCodeCamp.org
+
+Ultimate introduction 
+- https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&ab_channel=ClearCode
+- https://www.youtube.com/watch?v=TMhimQceLos&ab_channel=ClearCode
+
+Heart game platformer
+- https://www.youtube.com/playlist?list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ
 
 Godot 4.0 Tutorial | Sulaeman Santoso
 - https://www.youtube.com/playlist?list=PL5gLq0nzeoztEBMofziHQVsqckcfZLP2r
@@ -26,6 +38,18 @@ Programming dasar untuk game programmer | Sulaeman Santoso
 
 Godot 4.0 Crash Course | FreeCodeCamp
 - https://www.youtube.com/watch?v=S8lMTwSRoRg&ab_channel=freeCodeCamp.org
+
+ARPG in Godot 4.0
+- https://www.youtube.com/playlist?list=PLMQtM2GgbPEVuTgD4Ln17ombTg6EahSLr
+
+Godot 4 for Beginner
+- https://www.youtube.com/playlist?list=PLunu3bntN83mlHsReiGGuXvu1sc269W81
+
+2D Tower Defense in Godot 4.0
+- https://www.youtube.com/playlist?list=PLPuNhh82sRgk7S85quXb2_XI8b_jbmruB
+
+Online Multiplayer FPS
+- https://www.youtube.com/watch?v=n8D3vEx7NAE&ab_channel=DevLogLogan
 
 ### GDevelop
 - https://gdevelop.io/
