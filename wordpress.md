@@ -20,6 +20,9 @@ Sekolah / Universitas
 - https://www.wpbeginner.com/wp-themes/how-to-create-a-custom-page-in-wordpress/
 - https://vegibit.com/wordpress-theme-development-tutorial-step-by-step/
 
+Membuat WP Theme dari Nol | Iskael
+- https://www.youtube.com/playlist?list=PLDblNOVtq804jFyHrPAf3ap-dw9-XAbnj
+
 ## Tutorial WordPress
 
 Learn PHP for WordPress | Envanto FREE COURSE
