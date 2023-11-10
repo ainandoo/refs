@@ -9,10 +9,10 @@
 - https://godotengine.org/
 
 Godot Resources
-- https://gdquest.github.io/learn-gdscript
 - https://docs.godotengine.org/en/stable/
-- https://www.facebook.com/groups/godotindonesia/
 - https://godottutorials.com/
+- https://gdquest.github.io/learn-gdscript
+- https://www.facebook.com/groups/godotindonesia/
 
 Godot Playlist
 
