@@ -11,12 +11,10 @@
 Godot Resources
 - https://gdquest.github.io/learn-gdscript
 - https://docs.godotengine.org/en/stable/
-- https://www.youtube.com/@Gdquest/playlists
 - https://www.facebook.com/groups/godotindonesia/
-- https://www.javatpoint.com/godot-game-engine
 - https://godottutorials.com/
 
-**Godot Playlist**
+Godot Playlist
 
 Crash Course
 - https://www.youtube.com/watch?v=Luf2Kr5s3BM&ab_channel=Chris%27Tutorials
