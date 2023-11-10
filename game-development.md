@@ -1,11 +1,11 @@
-## Roadmap
+## A. Roadmap
 
 - https://github.com/utilForever/game-developer-roadmap
 - https://dev.to/saifullahusmani/complete-game-development-roadmap-aaa-guide-included-detailed-guide-4mih
 
-## Game Engine
+## B. Game Engine
 
-### Godot Engine
+### 1. Godot Engine
 - https://godotengine.org/
 
 Godot Resources
@@ -51,34 +51,34 @@ Godot 4 for Beginner
 Online Multiplayer FPS
 - https://www.youtube.com/watch?v=n8D3vEx7NAE&ab_channel=DevLogLogan
 
-### GDevelop
+### 2. GDevelop
 - https://gdevelop.io/
 
-### Game Maker 2D
+### 3. Game Maker 2D
 - https://gamemaker.io/en
 
-### Cocos Engine
+### 4. Cocos Engine
 - https://www.cocos.com/en
 
-### LibGDX Framework
+### 5. LibGDX Framework
 - https://libgdx.com/
 
-### Phaser Framework
+### 6. Phaser Framework
 - https://phaser.io/
 
-## Image Sprite: Dev Tool
+## C. Image Sprite: Dev Tool
 
-### LibreSprite
+### 1. LibreSprite
 - https://libresprite.github.io/#!/#page-top
 
-### Aseprite
+### 2. Aseprite
 - https://www.aseprite.org/
 - https://github.com/aseprite/aseprite/
 
-### Piksel
+### 3. Piksel
 - https://www.piskelapp.com/
 
-## Resources
+## D. Resources
 
 Game Programming Pattern
 - https://gameprogrammingpatterns.com/contents.html
@@ -89,7 +89,7 @@ MDN Game Development
 Game Dev Website
 - https://gamedevacademy.org/
 
-## Articles
+## E. Articles
 
 Game Dev Process
 - https://innovecs.com/blog/game-development-process/
