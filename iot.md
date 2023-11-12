@@ -46,29 +46,29 @@ Arduino: Tutorials
 - https://toptechboy.com/arduino-lessons/
 - https://learn.adafruit.com/category/learn-arduino
 
-YouTube
+Arduino: YouTube
 - https://www.youtube.com/playlist?list=PLsUpCsWzk7DD0GDxHsbvkwGPM9Ogz0q6z
 - https://www.youtube.com/playlist?list=PLH58vgh-ncjXpGVtwFPllYirfZ1IV4Dd4
 - https://www.youtube.com/@dentech3d413/videos
+- https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org
+- https://www.youtube.com/playlist?list=PL3BHTmA5aQcJAvq1FM9ay4rn18rIujGoe
 
 Arduino + Python
 - https://toptechboy.com/using-python-with-arduino-lessons/
-
-Arduino Course for Beginner | freeCodeCamp
-- https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org
-
-Arduino & Mikrokontroler | Poltek Bengkalis - Indobot
-- https://www.youtube.com/playlist?list=PL3BHTmA5aQcJAvq1FM9ay4rn18rIujGoe
 
 Bosch XDK
 - https://www.youtube.com/playlist?list=PLjA7OoXwzRI2AUyyGuBT13P733eUaB2pE
 
 ## Protocol: MQTT
 
+Practical MQTT
+- http://www.steves-internet-guide.com/
+
 EMQX
 - https://www.emqx.com/en/mqtt
 
-Mosquitto
+Mosquitto Broker
+- https://mosquitto.org/
 
 CoAP
 
@@ -121,9 +121,6 @@ Sitewhere
 
 Blynk
 - https://blynk.io/
-
-Node-RED
-- https://nodered.org/
 
 Thinger
 - https://thinger.io/
