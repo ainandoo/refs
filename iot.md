@@ -2,6 +2,12 @@
 
 - https://github.com/mahmoodfathy/IoT-Roadmap
 - https://www.quora.com/What-is-a-best-path-road-map-to-learn-and-master-IOT-Internet-Of-Things
+- https://www.enhancelearn.com/courses/internet-of-things-iot-training-43#Curriculum
+- https://danielelizalde.com/iot-roadmap/
+- https://installtekz.com/iot-learning-roadmap/
+
+Course
+- https://microsoft.github.io/IoT-For-Beginners/#/
 
 ## Electronics and programming
 
@@ -140,14 +146,15 @@ Belajar Internet Of Things - Level Dasar
 iot simulation
 - https://www.youtube.com/playlist?list=PLVx1qovxj-anaDdhHUB4gecxygXkLejwE
 
-Experimenting with Java and Electronics on the Raspberry Pi
-- https://www.youtube.com/watch?v=yKuFmgmPb7E
-
 Robotics
 - https://toptechboy.com/robotic-tutorial-for-beginners/
 
-Private Talks & Reference
+Private Talks
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
+
+Reference
+- https://diyi0t.com/blog/
+- https://lastminuteengineers.com/
 
 ## Raspi OS
 
