@@ -4,7 +4,7 @@ DevOps Roadmap
 - https://github.com/milanm/DevOps-Roadmap
 
 DevOps Roadmap | LinkedIn Pulse
-https://www.linkedin.com/pulse/devops-roadmap-guide-becoming-engineer-%D9%85-%D8%AD-%D9%85-%D8%AF-%D8%B7-%D8%B1-%D9%8A-%D9%81-/
+- https://www.linkedin.com/pulse/devops-roadmap-guide-becoming-engineer-%D9%85-%D8%AD-%D9%85-%D8%AF-%D8%B7-%D8%B1-%D9%8A-%D9%81-/
 
 Cara Jadi DevOps Engineer di 2022 (UNTUK PEMULA)
 - https://www.youtube.com/watch?v=6kDpqHRE0BE
