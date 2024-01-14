@@ -1,8 +1,15 @@
+## Roadmap
+
 Cara Jadi DevOps Engineer di 2022 (UNTUK PEMULA)
 - https://www.youtube.com/watch?v=6kDpqHRE0BE
 
 DevOps Roadmap 2022 - How to become a DevOps Engineer? What is DevOps?
 - https://www.youtube.com/watch?v=9pZ2xmsSDdo
+
+## Tutorial
+
+DevOps Course | FreeCodeCamp
+- https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs
 
 DevOps Engineering Course for Begineer
 - https://www.youtube.com/watch?v=j5Zsa_eOXeY
