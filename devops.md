@@ -1,5 +1,11 @@
 ## Roadmap
 
+Roadmap.sh
+- https://roadmap.sh/devops
+
+Complete DevOpes Roadmap | geeksforgeeks
+- https://www.geeksforgeeks.org/devops-roadmap/
+
 DevOps Roadmap
 - https://github.com/milanm/DevOps-Roadmap
 
