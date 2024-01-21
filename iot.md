@@ -143,14 +143,14 @@ Fogwing IIoT
 Belajar Internet Of Things - Level Dasar
 - https://www.youtube.com/playlist?list=PLF1krL_nkpHjnXb51rbeVkHfBglRbsrvP
 
-iot simulation
+IoT Tutorial for Beginners: Start your IoT Journey Here | Microsoft Reactor
+- https://www.youtube.com/playlist?list=PLmsFUfdnGr3wlvG0PzIyYOxRFp5fAsxe1
+
+IoT Simulation
 - https://www.youtube.com/playlist?list=PLVx1qovxj-anaDdhHUB4gecxygXkLejwE
 
 Robotics
 - https://toptechboy.com/robotic-tutorial-for-beginners/
-
-Private Talks
-- https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
 
 Reference
 - https://diyi0t.com/blog/
@@ -169,3 +169,6 @@ Tutorials
 - http://www.geeknesia.com/
 - https://www.kmtech.id/
 - https://indobot.co.id/
+
+Private Talks | Ainan IDV
+- https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
