@@ -6,8 +6,29 @@
 - https://danielelizalde.com/iot-roadmap/
 - https://installtekz.com/iot-learning-roadmap/
 
+## Tutorial
+
+Belajar Internet Of Things - Level Dasar
+- https://www.youtube.com/playlist?list=PLF1krL_nkpHjnXb51rbeVkHfBglRbsrvP
+
+IoT Tutorial for Beginners: Start your IoT Journey Here | Microsoft Reactor
+- https://www.youtube.com/playlist?list=PLmsFUfdnGr3wlvG0PzIyYOxRFp5fAsxe1
+
+IoT Simulation
+- https://www.youtube.com/playlist?list=PLVx1qovxj-anaDdhHUB4gecxygXkLejwE
+
+IoT Tutorial for Beginner | Edureka
+- https://www.youtube.com/playlist?list=PL9ooVrP1hQOGccfBbP5tJWZ1hv5sIUWJl
+
+Robotics
+- https://toptechboy.com/robotic-tutorial-for-beginners/
+
 Course
 - https://microsoft.github.io/IoT-For-Beginners/#/
+
+Reference
+- https://diyi0t.com/blog/
+- https://lastminuteengineers.com/
 
 ## Electronics and programming
 
@@ -136,25 +157,6 @@ Thingsboard
 
 Fogwing IIoT
 - https://www.fogwing.io/
-
-
-## Tutorial
-
-Belajar Internet Of Things - Level Dasar
-- https://www.youtube.com/playlist?list=PLF1krL_nkpHjnXb51rbeVkHfBglRbsrvP
-
-IoT Tutorial for Beginners: Start your IoT Journey Here | Microsoft Reactor
-- https://www.youtube.com/playlist?list=PLmsFUfdnGr3wlvG0PzIyYOxRFp5fAsxe1
-
-IoT Simulation
-- https://www.youtube.com/playlist?list=PLVx1qovxj-anaDdhHUB4gecxygXkLejwE
-
-Robotics
-- https://toptechboy.com/robotic-tutorial-for-beginners/
-
-Reference
-- https://diyi0t.com/blog/
-- https://lastminuteengineers.com/
 
 ## Raspi OS
 
