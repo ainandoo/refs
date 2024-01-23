@@ -13,17 +13,12 @@ PHP the right way
 Learn Modern PHP
 - https://odan.github.io/learn-php/
 
-w3schools.in
+- https://www.w3schools.com/php/
+- https://www.learn-php.org/
 - https://www.w3schools.in/php/tutorials/
 - https://www.w3schools.in/php8/intro
-
-Tutorialspoint: PHP Tutorial
 - https://www.tutorialspoint.com/php/index.htm
-
-Javatpoint: PHP Tutorial
 - https://www.javatpoint.com/php-tutorial
-
-geeksforgeeks
 - https://www.geeksforgeeks.org/php-tutorial/
 
 The PHP Handbook 2022
@@ -33,9 +28,6 @@ https://www.freecodecamp.org/news/the-php-handbook/
 
 TUTORIAL PHP DASAR BAHASA INDONESIA | Programmer Zaman Now
 - https://www.youtube.com/playlist?list=PL-CtdCApEFH9EmZy4zYfW1ATIJ-qMXxGt
-
-Jalur Belajar Backend Web Development: PHP | Web Programming Unpas
-- https://www.youtube.com/@sandhikagalihWPU/playlists?view=50&sort=dd&shelf_id=3
 
 ## Roadmap
 
@@ -48,7 +40,6 @@ Laravel
 - https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 - https://github.com/Hasnayeen/laravel-developer-roadmap
 - https://laraveldaily.com/roadmap-learning-path
-
 
 ## Framework / CMS
 
@@ -77,7 +68,7 @@ Laravel Livewire
 Full Livewire Tutorial 2022 (for Beginners)
 - https://www.youtube.com/watch?v=IH_rDSkxg-I&ab_channel=LukasMeier
 
-Moodle
+### Moodle
 - https://moodle.org/
 
 Why Moodle
