@@ -22,7 +22,7 @@ Learn Modern PHP
 - https://www.geeksforgeeks.org/php-tutorial/
 
 The PHP Handbook 2022
-https://www.freecodecamp.org/news/the-php-handbook/
+- https://www.freecodecamp.org/news/the-php-handbook/
 
 ## Video
 
