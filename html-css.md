@@ -1,9 +1,25 @@
+## HTML Tutorial
+
+PZN HTML
+- https://www.youtube.com/playlist?list=PL-CtdCApEFH8cjnZbv3o6G0kHEPc3GYVO
+
+W3schools HTML
+- https://www.w3schools.com/html/default.asp
+
 ## HTML References
 
 HTML Table Generator
 - https://www.cssportal.com/html-table-generator/
 
 - https://htmlreference.io/
+
+## CSS Tutorial
+
+W3schools CSS
+- https://www.w3schools.com/css/default.asp
+
+PZN CSS
+- https://www.youtube.com/playlist?list=PL-CtdCApEFH9EVHI2JfQ16EPtpoO1fJ3y
 
 ## CSS References
 
@@ -20,7 +36,6 @@ CSS Grid Generator
 - https://grid.layoutit.com/
 - https://grid-wiz.vercel.app/
 - https://cssgr.id/
-- 
 
 CSS Layout Generator
 - https://www.cssportal.com/layout-generator/
