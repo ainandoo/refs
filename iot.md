@@ -36,11 +36,11 @@ Reference
 - https://learn.sparkfun.com/resources
 - https://www.edukasielektronika.com/
 
-## IoT Boards
+Types and list of sensors
+- https://www.thomasnet.com/articles/instruments-controls/types-of-sensors/
+- https://robu.in/list-of-sensors-detailed-guide-2020/
 
-ESP32
-- https://randomnerdtutorials.com/projects-esp32/
-- https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/index.html#
+## IoT Boards
 
 ESP8266
 - https://www.warriornux.com/beginners-guide-belajar-esp8266-iot-dari-dasar/
@@ -82,6 +82,13 @@ Arduino: YouTube
 
 Arduino + Python
 - https://toptechboy.com/using-python-with-arduino-lessons/
+
+ESP32
+- https://randomnerdtutorials.com/projects-esp32/
+- https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/index.html#
+
+ESP32 on Rust
+- https://esp-rs.github.io/std-training/01_intro.html
 
 Bosch XDK
 - https://www.youtube.com/playlist?list=PLjA7OoXwzRI2AUyyGuBT13P733eUaB2pE
