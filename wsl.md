@@ -12,8 +12,9 @@
 ## resource
 belajar linux di mesin windows
 - https://learn.microsoft.com/en-us/linux/
+
 install gui apps
 - https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
 
-training pengantar wsl
+kelas: pengantar wsl
 - https://learn.microsoft.com/en-us/training/modules/wsl-introduction/
