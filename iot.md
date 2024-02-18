@@ -6,7 +6,21 @@
 - https://danielelizalde.com/iot-roadmap/
 - https://installtekz.com/iot-learning-roadmap/
 
-## Tutorial
+## Electronics
+
+PCB Design
+- https://librepcb.org/
+
+Electronics tutorial
+- https://techexplorations.com/
+- https://learn.sparkfun.com/resources
+- https://www.edukasielektronika.com/
+
+Types and list of sensors
+- https://www.thomasnet.com/articles/instruments-controls/types-of-sensors/
+- https://robu.in/list-of-sensors-detailed-guide-2020/
+
+## IoT Tutorial
 
 Belajar Internet Of Things - Level Dasar
 - https://www.youtube.com/playlist?list=PLF1krL_nkpHjnXb51rbeVkHfBglRbsrvP
@@ -30,19 +44,9 @@ Reference
 - https://diyi0t.com/blog/
 - https://lastminuteengineers.com/
 
-## Electronics and programming
-
-- https://techexplorations.com/
-- https://learn.sparkfun.com/resources
-- https://www.edukasielektronika.com/
-
-Types and list of sensors
-- https://www.thomasnet.com/articles/instruments-controls/types-of-sensors/
-- https://robu.in/list-of-sensors-detailed-guide-2020/
-
 ## IoT Boards
 
-ESP8266
+### ESP8266
 - https://www.warriornux.com/beginners-guide-belajar-esp8266-iot-dari-dasar/
 - https://randomnerdtutorials.com/projects-esp8266/
 - https://arduino-esp8266.readthedocs.io/en/latest/
@@ -55,7 +59,7 @@ ESP8266: IoT Tutorials
 - https://vimalb.github.io/IoT-ESP8266-Starter/
 - http://www.esp8266learning.com/
 
-Arduino UNO R3
+### Arduino UNO R3
 - https://docs.arduino.cc/hardware/uno-rev3
 
 Arduino: Resources
@@ -83,17 +87,19 @@ Arduino: YouTube
 Arduino + Python
 - https://toptechboy.com/using-python-with-arduino-lessons/
 
-ESP32
+### ESP32
 - https://randomnerdtutorials.com/projects-esp32/
 - https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/index.html#
 
 ESP32 on Rust
 - https://esp-rs.github.io/std-training/01_intro.html
 
-Bosch XDK
+### Bosch XDK
 - https://www.youtube.com/playlist?list=PLjA7OoXwzRI2AUyyGuBT13P733eUaB2pE
 
-## Protocol: MQTT
+## Protocol
+
+### MQTT
 
 Practical MQTT
 - http://www.steves-internet-guide.com/
@@ -104,9 +110,13 @@ EMQX
 Mosquitto Broker
 - https://mosquitto.org/
 
-CoAP
+### CoAP
 
-LoRa
+### LoRa
+
+### CAN
+
+### ODB2
 
 ## Simulation Website
 
@@ -133,37 +143,37 @@ Objectblocks | IoT Education Platform
 
 ## IoT Platform
 
-Platform.io
+### Platform.io
 - https://platformio.org/
 - https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
 
-NodeRED
+### NodeRED
 - https://nodered.org/
 - https://github.com/node-red/node-red
 - https://stevesnoderedguide.com/
 
-Thingspeak
+### Thingspeak
 - https://thingspeak.com/
 
-IoT DSA
+### IoT DSA
 - http://iot-dsa.org/
 
-Particle
+### Particle
 - https://www.particle.io/
 
-Sitewhere
+### Sitewhere
 - https://sitewhere.io/en/
 
-Blynk
+### Blynk
 - https://blynk.io/
 
-Thinger
+### Thinger
 - https://thinger.io/
 
-Thingsboard
+### Thingsboard
 - https://thingsboard.io/
 
-Fogwing IIoT
+### Fogwing IIoT
 - https://www.fogwing.io/
 
 ## Raspi OS
