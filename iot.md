@@ -119,6 +119,7 @@ Wokwi - Arduino / ESP32 Simulator
 
 Falstad | Circuit Simulator
 - https://www.falstad.com/circuit/circuitjs.html
+- https://www.falstad.com/circuit/jsinterface.html
 
 DCACLab | Online Circuit Simulator
 - https://dcaclab.com/en/lab
