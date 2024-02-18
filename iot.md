@@ -134,6 +134,9 @@ Falstad | Circuit Simulator
 DCACLab | Online Circuit Simulator
 - https://dcaclab.com/en/lab
 
+KiCad
+- https://www.kicad.org/
+
 Objectblocks | IoT Education Platform
 - https://www.objectblocks.cc/
 - https://play.google.com/store/apps/details?id=cc.objectblocks.objectblockstools&gl=US
