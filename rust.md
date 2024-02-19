@@ -1,4 +1,4 @@
-## books
+## Books
 
 Rust Programming Language
 - https://doc.rust-lang.org/book/
