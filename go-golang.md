@@ -1,5 +1,8 @@
 ## Getting Started
 
+Roadmap
+- https://www.freecodecamp.org/news/golang-developer-roadmap/
+
 - https://dave.cheney.net/resources-for-new-go-programmers
 - https://yourbasic.org/golang/getting-started-hello-world/
 - https://go.dev/tour/welcome/1
