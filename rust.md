@@ -1,5 +1,11 @@
 ## books
 
+Rust Programming Language
+- https://doc.rust-lang.org/book/
+
+Rust on ESP
+- https://esp-rs.github.io/book/
+
 Embedded Rust Book
 - https://docs.rust-embedded.org/book/
 - https://doc.rust-lang.org/stable/embedded-book/
