@@ -140,6 +140,9 @@ DCACLab | Online Circuit Simulator
 KiCad
 - https://www.kicad.org/
 
+EasyEDA
+- https://easyeda.com/
+
 Objectblocks | IoT Education Platform
 - https://www.objectblocks.cc/
 - https://play.google.com/store/apps/details?id=cc.objectblocks.objectblockstools&gl=US
