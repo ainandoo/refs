@@ -4,3 +4,7 @@
 - https://droneblocks.io/
 - http://dronekit.io/
 - https://www.dronecode.org/
+
+## Drone Simulator
+
+- https://www.droneblog.com/best-free-drone-simulators/
