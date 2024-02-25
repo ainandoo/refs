@@ -20,6 +20,9 @@ Types and list of sensors
 - https://www.thomasnet.com/articles/instruments-controls/types-of-sensors/
 - https://robu.in/list-of-sensors-detailed-guide-2020/
 
+Belajar Elektronika
+- https://www.youtube.com/playlist?list=PLQOmSxTVQG9-xUCOprH1pn15OxlUn1eQF
+
 ## IoT Tutorial
 
 Belajar Internet Of Things - Level Dasar
