@@ -97,6 +97,11 @@ Arduino + Python
 ESP32 on Rust
 - https://esp-rs.github.io/std-training/01_intro.html
 
+### STM32
+- https://stm32-base.org/
+- https://wiki.st.com/stm32mcu/
+- https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
+
 ### Bosch XDK
 - https://www.youtube.com/playlist?list=PLjA7OoXwzRI2AUyyGuBT13P733eUaB2pE
 
