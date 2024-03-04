@@ -46,6 +46,11 @@ CSS Generator
 - https://cssgenerator.org/
 - https://html-css-js.com/css/generator/
 
+## Other
+
+Interneting is Hard | Friendly web development tutorials for complete beginners
+- https://internetingishard.netlify.app/
+
 ## Web Tools
 
 Free web tools
