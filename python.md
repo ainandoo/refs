@@ -13,12 +13,6 @@ Belajar Python untuk Pemula | Onno W. Purbo
 - https://www.youtube.com/watch?v=1YBnENHft8o
 
 
-## Ebook
-
-Python3 Data, 2016
-- https://open.umn.edu/opentextbooks/textbooks/python-for-everybody-exploring-data-using-python-3
-
-
 ## Roadmap
 
 - https://pythonlearning.medium.com/the-roadmap-for-python-from-beginner-to-pyguru-48503ca4e794
@@ -59,6 +53,12 @@ Agung Setiawan
 
 YouTube - Programmer Zaman Now | Belajar Pemrograman Python untuk Pemula
 - https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H
+
+
+## Ebook
+
+Python3 Data, 2016
+- https://open.umn.edu/opentextbooks/textbooks/python-for-everybody-exploring-data-using-python-3
 
 
 ## Ide Proyek
@@ -146,7 +146,6 @@ Numpy for Beginner | FreeCodeCamp
 - https://www.youtube.com/watch?v=QUT1VHiLmmI&ab_channel=freeCodeCamp.org
 
 Pandas 
-
 - https://pandas.pydata.org/
 - https://realpython.com/pandas-dataframe/
 - https://www.w3schools.com/python/pandas/default.asp
@@ -179,6 +178,8 @@ OpenCV AI Lite
 - https://www.indiegogo.com/projects/opencv-ai-kit-lite#/
 
 Django
+
+Django Tutorial
 - https://www.geeksforgeeks.org/django-tutorial/
 
 Python Backend Web Development Course (with Django)
