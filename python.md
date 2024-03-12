@@ -130,12 +130,15 @@ Python API Development with FastAPI | freeCodeCamp
 - https://www.youtube.com/watch?v=0sOvCWFmrtA
 
 
-## Tools 
+## Library
+
+### Matplotlib
 
 Matplotlib Crash Course | FreeCodeCamp
 - https://www.youtube.com/watch?v=3Xc3CA655Y4&ab_channel=freeCodeCamp.org
 
-Numpy
+### Numpy
+
 - https://numpy.org/
 - https://www.w3schools.com/python/numpy/default.asp
 - https://www.tutorialspoint.com/numpy/index.htm
@@ -145,18 +148,25 @@ Numpy
 Numpy for Beginner | FreeCodeCamp
 - https://www.youtube.com/watch?v=QUT1VHiLmmI&ab_channel=freeCodeCamp.org
 
-Pandas 
+### Pandas 
+
 - https://pandas.pydata.org/
 - https://realpython.com/pandas-dataframe/
 - https://www.w3schools.com/python/pandas/default.asp
 - https://www.tutorialspoint.com/python_pandas/index.htm
 
-PyTorch
+### PyTorch
 
 PyTorch Fundamental Course
 - https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/
 
-TensorFlow
+### TensorFlow
+
+- https://www.tensorflow.org/tutorials
+- https://www.w3schools.in/tensorflow/tutorials/
+- https://www.datacamp.com/tutorial/tensorflow-tutorial
+- https://www.youtube.com/results?search_query=tensorflow+tutorial
+
 TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
 - https://www.youtube.com/watch?v=tPYj3fFJGjk
 
@@ -166,7 +176,8 @@ Microsoft + Tensorflow
 TensorFlow 2 Quickstart | Google Colaboratory
 - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb
 
-OpenCV
+### OpenCV
+
 - https://realpython.com/face-recognition-with-python/
 - https://realpython.com/face-detection-in-python-using-a-webcam/
 - https://sonsuzdesign.blog/2020/06/28/simple-face-detection-in-python/
@@ -177,7 +188,7 @@ OpenCV
 OpenCV AI Lite
 - https://www.indiegogo.com/projects/opencv-ai-kit-lite#/
 
-Django
+### Django
 
 Django Tutorial
 - https://www.geeksforgeeks.org/django-tutorial/
