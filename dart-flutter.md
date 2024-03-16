@@ -33,41 +33,41 @@
 	Part 2:
 	- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
 
-3. Flutter Documentation
-- https://docs.flutter.dev/
+2. Flutter Documentation
+	- https://docs.flutter.dev/
 
 3. Flutter Engage | Learn Flutter Development
-- https://events.flutter.dev/engage/learn/beginner
+	- https://events.flutter.dev/engage/learn/beginner
 
 4. Flutter Codelabs
 	
-- https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
-
-- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
-	- https://www.youtube.com/watch?v=Z6KZ3cTGBWw (versi video)
-
-- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
-
-- https://codelabs.developers.google.com/?cat=Flutter
+	- https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
+	
+	- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
+		- https://www.youtube.com/watch?v=Z6KZ3cTGBWw (versi video)
+	
+	- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
+	
+	- https://codelabs.developers.google.com/?cat=Flutter
 
 5. Tutorial Singkat
 
-- http://thetechnocafe.com/flutter-crash-course-1-installation-and-overview/
-- http://thetechnocafe.com/flutter-crash-course-2-application-and-ui-basics/
-- http://thetechnocafe.com/dive-into-flutter-widgets/
-- http://thetechnocafe.com/flutter-crash-course-4-dive-into-more-flutter-widgets/
-- http://thetechnocafe.com/flutter-crash-course-5-building-lists-and-pages/
-- http://thetechnocafe.com/flutter-crash-course-6-networking-basics/
+	- http://thetechnocafe.com/flutter-crash-course-1-installation-and-overview/
+	- http://thetechnocafe.com/flutter-crash-course-2-application-and-ui-basics/
+	- http://thetechnocafe.com/dive-into-flutter-widgets/
+	- http://thetechnocafe.com/flutter-crash-course-4-dive-into-more-flutter-widgets/
+	- http://thetechnocafe.com/flutter-crash-course-5-building-lists-and-pages/
+	- http://thetechnocafe.com/flutter-crash-course-6-networking-basics/
 
 6. Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
--  https://www.youtube.com/watch?v=VPvVD8t02U8
+	-  https://www.youtube.com/watch?v=VPvVD8t02U8
 
 99. project
-- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-66944e460bdb
-- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer%E3%83%BCpart-2-feedea6911b
-- https://blog.codemagic.io/flutter-widget-cheat-sheet/
-- https://blog.codemagic.io/rest-api-in-flutter/
-- https://howtodothisinflutter.com/
+	- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-66944e460bdb
+	- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer%E3%83%BCpart-2-feedea6911b
+	- https://blog.codemagic.io/flutter-widget-cheat-sheet/
+	- https://blog.codemagic.io/rest-api-in-flutter/
+	- https://howtodothisinflutter.com/
 
 HTTP Request dengan Flutter
 - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VC-Adfpl5D0k9N8psiDXrir
