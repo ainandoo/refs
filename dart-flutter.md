@@ -3,25 +3,25 @@
 ## A. Dart
 
 1. Dart PBO - Erico Darmawan Handoyo
-- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
+	- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
 
 2. Dart Docs
-- https://dart.dev/guides
+	- https://dart.dev/guides
 
 3. YouTube
 
-Dart from Novice to Expert
-- https://www.youtube.com/watch?v=F3JuuYuOUK4&ab_channel=Flutterly
+	Dart from Novice to Expert
+	- https://www.youtube.com/watch?v=F3JuuYuOUK4&ab_channel=Flutterly
 
-Dart Tutorial for Beginner
-- https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
+	Dart Tutorial for Beginner
+	- https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
 
 4. Dart Tutorial
-- https://www.geeksforgeeks.org/dart-tutorial/
-- https://dart-tutorial.com/
-- https://www.javatpoint.com/dart-programming
-- https://www.darttutorial.org/
-- https://www.vogella.com/tutorials/Dart/article.html
+	- https://www.geeksforgeeks.org/dart-tutorial/
+	- https://dart-tutorial.com/
+	- https://www.javatpoint.com/dart-programming
+	- https://www.darttutorial.org/
+	- https://www.vogella.com/tutorials/Dart/article.html
 	
 ## B. Flutter
 
