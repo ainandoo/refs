@@ -3,28 +3,20 @@
 ## A. Dart
 
 1. Dart PBO - Erico Darmawan Handoyo
-   - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
+- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
 
-2. Dart Docs | https://dart.dev/guides
+2. Dart Docs
+- https://dart.dev/guides
 
-	1. Language tour
-	2. Effective Dart
-	3. Asynchronous programming
-
-3. Tutorial Singkat
-- http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-01-variables-types-and-functions/
-- http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-02-control-flow-and-exception-handling/
-- http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-03-classes-and-generics/
-- http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-04-asynchronous-and-libraries/
-
-4. YouTube
+3. YouTube
 
 Dart from Novice to Expert
 - https://www.youtube.com/watch?v=F3JuuYuOUK4&ab_channel=Flutterly
+
 Dart Tutorial for Beginner
 - https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
 
-5. Dart Tutorial
+4. Dart Tutorial
 - https://www.geeksforgeeks.org/dart-tutorial/
 - https://dart-tutorial.com/
 - https://www.javatpoint.com/dart-programming
@@ -41,7 +33,7 @@ Dart Tutorial for Beginner
 	Part 2:
 	- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
 
-2. Flutter Documentation
+3. Flutter Documentation
 - https://docs.flutter.dev/
 
 3. Flutter Engage | Learn Flutter Development
