@@ -67,14 +67,7 @@ Dart Tutorial for Beginner
 - http://thetechnocafe.com/flutter-crash-course-5-building-lists-and-pages/
 - http://thetechnocafe.com/flutter-crash-course-6-networking-basics/
 
-6. Build With Angga | BWA
-
-- https://buildwithangga.com/kelas/dart-pemula
-- https://buildwithangga.com/kelas/flutter-fundamentals
-- https://buildwithangga.com/kelas/flutter-mobile-apps
-- https://buildwithangga.com/kelas/flutter-development-apis-ui-animation
-
-7. Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
+6. Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
 -  https://www.youtube.com/watch?v=VPvVD8t02U8
 
 99. project
@@ -173,9 +166,29 @@ Flutter folio:
 
 Flutter adaptive UI: https://aloisdeniel.com/#/posts/adaptative-ui
 
+Flutter Awesome (Collection): https://flutterawesome.com/
+
 Flame Game Engine: https://flame-engine.org/
 
 Sprite Widget Game Engine: https://www.spritewidget.com/
 
-Flutter Awesome (Collection): https://flutterawesome.com/
+### Game Dev Resource
 
+Demo Game Asset
+- https://drive.google.com/drive/folders/11YlD8F-CRIO__oh3rkj7iNs7WLLzacEz
+
+Flutter Game Toolkit
+- https://docs.flutter.dev/resources/games-toolkit
+- https://flutter.dev/games
+
+Flame Toolkit Gamelab
+- https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker#0
+
+Climate Game Toolkit
+- https://www.youtube.com/watch?v=GaEAyeW-UlU&ab_channel=ArnaudFayolle
+
+Environmental Game Design Playbook
+- https://igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/04/06100719/EnvironmentalGameDesignPlaybook_Alpha_Release_Adj.pdf
+
+Green Game Desing
+- https://www.greengamedesign.com/
