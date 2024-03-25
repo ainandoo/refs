@@ -54,6 +54,14 @@ Agung Setiawan
 YouTube - Programmer Zaman Now | Belajar Pemrograman Python untuk Pemula
 - https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H
 
+## Python Packaging
+
+- https://packaging.python.org/en/latest/
+- https://pip.pypa.io/en/stable/getting-started/
+
+Tools
+- https://python-poetry.org/
+- https://pdm-project.org/latest/
 
 ## Ebook
 
