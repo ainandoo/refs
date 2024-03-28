@@ -1,44 +1,19 @@
 
 ## Tutorial
 
-- https://www.javatpoint.com/javascript-tutorial
-- https://learnjavascript.online/
-
 Modern Javascript Tutorial
 - https://javascript.info/
+
+Other tutorials
+- https://www.javatpoint.com/javascript-tutorial
+- https://learnjavascript.online/
 
 MDN
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
 
-## Projects
-
-JS Project for Beginner
-- https://www.freecodecamp.org/news/javascript-projects-for-beginners/
-
-Discord bot
-- https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
-
-JS for Web Development | Thread
-- https://twitter.com/Prathkum/status/1406298132737150976
-
-Learning JavaScript Road-Map | CodeX | Medium
-- https://medium.com/codex/learning-javascript-road-map-1d97d20aef5d
-
-
-## Reference
-JavaScript (ES2015+) Enlightenment
-- https://frontendmasters.com/guides/javascript-enlightenment/
-
-Frontend Developer Learning Roadmap
-- https://frontendmasters.com/guides/learning-roadmap/
-
-
 ## Library
-
-### AR JS
-- https://github.com/AR-js-org/AR.js
 
 ## ReactJS
 
@@ -56,8 +31,8 @@ Tutorial
 - https://mfikri.com/blog/kategori/reactjs
 - https://ibaslogic.com/series/
 
-Tutorial ReactJS Bahasa Indonesia
-- https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V
+Tutorial ReactJS Bahasa Indonesia | Vip Code Studio
+- https://www.youtube.com/playlist?list=PLmF_zPV9ZcP346sttD4Vs2VROLlIp5kPz
 
 Full Modern React Tutorial | The Net Ninja
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
@@ -115,6 +90,9 @@ Wahidev Academy
 - https://devdojo.com/tnylea/getting-started-with-three-js
 - https://freefrontend.com/three-js-examples/
 
+### AR JS
+- https://github.com/AR-js-org/AR.js
+
 ## Talks
 
 The JavaScript Survival Guide
@@ -122,6 +100,10 @@ The JavaScript Survival Guide
 
 
 ## Frameworks
+
+### NextJS
+Tutorial NextJS Bahasa Indonesia | Vip Code Studio
+- https://www.youtube.com/playlist?list=PLmF_zPV9ZcP2aYRuoEsMla5gqNjxP-V20
 
 ### VueJS
 
@@ -174,9 +156,30 @@ Angular Tutorial for Beginners - Web Framework with Typescript Course
 Angular Crash Course
 - https://www.youtube.com/watch?v=3dHNOWTI7H8
 
+## Projects
+
+JS Project for Beginner
+- https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+Discord bot
+- https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
+
+JS for Web Development | Thread
+- https://twitter.com/Prathkum/status/1406298132737150976
+
+Learning JavaScript Road-Map | CodeX | Medium
+- https://medium.com/codex/learning-javascript-road-map-1d97d20aef5d
+
+
+## Reference
+JavaScript (ES2015+) Enlightenment
+- https://frontendmasters.com/guides/javascript-enlightenment/
+
+Frontend Developer Learning Roadmap
+- https://frontendmasters.com/guides/learning-roadmap/
+
 Angular 11 Indonesia
 - https://www.youtube.com/playlist?list=PL9At9z2rvOC9eOWtl_-8vVm5jtc_O8ytu
 
 Angular 12 Indonesia
 - https://www.youtube.com/playlist?list=PLyrvZoXwfFP-hk4SkWghdPvw4z1NPDuee
-
