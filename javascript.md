@@ -147,14 +147,21 @@ Tools Terkait
 
 Tutorial
 
-Angular 12 Crash Course
-- https://www.youtube.com/watch?v=LA_v8isNp5E
-
 Angular Tutorial for Beginners - Web Framework with Typescript Course
 - https://www.youtube.com/watch?v=AAu8bjj6-UI
 
-Angular Crash Course
+Angular 11 Crash Course
 - https://www.youtube.com/watch?v=3dHNOWTI7H8
+
+Angular 12 Crash Course
+- https://www.youtube.com/watch?v=LA_v8isNp5E
+
+Angular 11 Indonesia
+- https://www.youtube.com/playlist?list=PL9At9z2rvOC9eOWtl_-8vVm5jtc_O8ytu
+
+Angular 12 Indonesia
+- https://www.youtube.com/playlist?list=PLyrvZoXwfFP-hk4SkWghdPvw4z1NPDuee
+
 
 ## Projects
 
@@ -177,9 +184,3 @@ JavaScript (ES2015+) Enlightenment
 
 Frontend Developer Learning Roadmap
 - https://frontendmasters.com/guides/learning-roadmap/
-
-Angular 11 Indonesia
-- https://www.youtube.com/playlist?list=PL9At9z2rvOC9eOWtl_-8vVm5jtc_O8ytu
-
-Angular 12 Indonesia
-- https://www.youtube.com/playlist?list=PLyrvZoXwfFP-hk4SkWghdPvw4z1NPDuee
