@@ -165,6 +165,7 @@ Objectblocks | IoT Education Platform
 - https://nodered.org/
 - https://github.com/node-red/node-red
 - https://stevesnoderedguide.com/
+- https://noderedguide.com/
 
 ### Thingspeak
 - https://thingspeak.com/
