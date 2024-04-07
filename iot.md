@@ -115,6 +115,9 @@ Practical MQTT
 EMQX
 - https://www.emqx.com/en/mqtt
 
+HiveMQ
+- https://www.hivemq.com/mqtt/
+
 Mosquitto Broker
 - https://mosquitto.org/
 - https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-debian-10
