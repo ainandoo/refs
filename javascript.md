@@ -12,6 +12,14 @@ MDN
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
+## Books
+
+Eloquent Javascript
+- https://eloquentjavascript.net/
+
+You Don't Know JS
+- https://kbpsystem777.github.io/You-Dont-Know-JS/
+- https://djangocas.dev/free-books/you-dont-know-js/
 
 ## Library
 
@@ -92,11 +100,6 @@ Wahidev Academy
 
 ### AR JS
 - https://github.com/AR-js-org/AR.js
-
-## Talks
-
-The JavaScript Survival Guide
-- https://www.youtube.com/watch?v=9emXNzqCKyg 
 
 
 ## Frameworks
@@ -184,3 +187,9 @@ JavaScript (ES2015+) Enlightenment
 
 Frontend Developer Learning Roadmap
 - https://frontendmasters.com/guides/learning-roadmap/
+
+
+## Talks
+
+The JavaScript Survival Guide
+- https://www.youtube.com/watch?v=9emXNzqCKyg 
