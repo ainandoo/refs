@@ -1,3 +1,6 @@
+Ruby in 100 seconds | Fireship
+- https://www.youtube.com/watch?v=UYm0kfnRTJk
+
 Ruby Documentation
 - https://www.ruby-lang.org/en/documentation/
 
