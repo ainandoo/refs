@@ -11,6 +11,7 @@ PHP the right way
 ## Tutorial
 
 Learn Modern PHP
+- https://www.php.engineer/
 - https://odan.github.io/learn-php/
 
 - https://www.w3schools.com/php/
@@ -23,6 +24,9 @@ Learn Modern PHP
 
 The PHP Handbook 2022
 - https://www.freecodecamp.org/news/the-php-handbook/
+
+PHP Reference
+- https://www.codecademy.com/catalog/language/php
 
 ## Video
 
@@ -69,6 +73,7 @@ Full Livewire Tutorial 2022 (for Beginners)
 - https://www.youtube.com/watch?v=IH_rDSkxg-I&ab_channel=LukasMeier
 
 ### Moodle
+
 - https://moodle.org/
 
 Why Moodle
