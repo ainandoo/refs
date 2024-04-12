@@ -21,3 +21,17 @@ Awesome Embedded Rust
 
 Embedded OS development in Rust
 - https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+
+## Tutorials
+
+Rust on ESP
+- https://dev.to/apollolabsbin/iot-with-rust-on-esp-connecting-wifi-4be6
+
+## Articles
+
+Why Rust
+- https://blockchain.works-hub.com/learn/what-is-rust-programming-language-and-why-it-is-popular-8fe8d
+- https://www.iotforall.com/rust-bridging-the-gap-in-high-level-language-iot-innovation
+- https://medium.com/dwelo-r-d/we-rewrote-our-iot-platform-in-rust-and-got-away-with-it-2c8867c61b67
+- https://darkghosthunter.medium.com/from-php-to-rust-part-i-what-is-a-system-language-871136fae31d
+- https://betterprogramming.pub/rust-for-iot-is-it-time-67b14ab34b8
