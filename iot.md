@@ -114,9 +114,18 @@ Practical MQTT
 
 EMQX
 - https://www.emqx.com/en/mqtt
+- https://www.emqx.io/
+- https://mqttx.app/
+- https://nanomq.io/
 
 HiveMQ
 - https://www.hivemq.com/mqtt/
+
+MQTT Guide
+- https://www.emqx.com/en/mqtt-guide
+- https://www.emqx.com/en/blog/essential-things-to-know-about-mqtt-security
+- https://www.emqx.com/en/mqtt/public-mqtt5-broker
+- https://www.emqx.com/en/mqtt-client-sdk
 
 Mosquitto Broker
 - https://mosquitto.org/
@@ -127,6 +136,10 @@ Mosquitto Broker
 - https://medium.com/@potekh.anastasia/a-beginners-guide-to-mqtt-understanding-mqtt-mosquitto-broker-and-paho-python-mqtt-client-990822274923
 
 Tutorial MQTT
+
+How to use MQTT in X
+- https://www.emqx.com/en/search?keywords=how+to+use+mqtt+in
+
 - https://www.youtube.com/playlist?list=PLRkdoPznE1EMXLW6XoYLGd4uUaB6wB0wd
 - https://www.youtube.com/watch?v=QE1n7ubTDF0&ab_channel=HendriyawanAchmad
 - https://www.youtube.com/watch?v=TNHAZxwB-9o&ab_channel=HighVoltages
