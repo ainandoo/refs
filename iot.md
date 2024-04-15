@@ -233,6 +233,9 @@ Objectblocks | IoT Education Platform
 Tutorials
 - https://toptechboy.com/raspberry-pi-with-linux-lessons/
 
+## IoT in ScyllaDB
+- https://iot.scylladb.com/stable/getting-started.html
+- 
 ## Industri di Tanah Air
 
 - https://bardi.co.id/
