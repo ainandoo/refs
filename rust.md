@@ -29,6 +29,9 @@ Rust on ESP
 
 ## Articles
 
+Rust Exploration
+- https://medium.com/@jhiner
+
 Why Rust
 - https://blockchain.works-hub.com/learn/what-is-rust-programming-language-and-why-it-is-popular-8fe8d
 - https://www.iotforall.com/rust-bridging-the-gap-in-high-level-language-iot-innovation
