@@ -49,16 +49,24 @@ Laravel
 
 ### Laravel
 
+Laravel 11 Dasar | SantriKoding
+- https://www.youtube.com/playlist?list=PL-2rLYVN9WCzs7fBt0W27LLrg_3MsuNdS
+
+Laravel 11 REST API | SantriKoding
+- https://www.youtube.com/playlist?list=PL-2rLYVN9WCw34_TXFwl84r7DW9vwnj5s
+
+Laravel 11 Dari Awal
+- https://www.youtube.com/playlist?list=PLRKMmwY3-5MyxehZjs_S_KBvI3pnPk0mi
+
+Laravel 11 | WP UNPAS
+- https://www.youtube.com/playlist?list=PLFIM0718LjIW1Xb7cVj7LdAr32ATDQMdr
+
+Laravel 11 crash course
+- https://www.youtube.com/watch?v=eUNWzJUvkCA&ab_channel=TheCodeholic
+
 Laravel 9 && REST API
 - https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-9
 - https://santrikoding.com/tutorial-set/tutorial-laravel-9-untuk-pemula
-- https://www.tutsmake.com/laravel-9-rest-api-crud-example-tutorial/
-- https://www.techiediaries.com/rest-api-laravel-9/
-- https://www.javatpoint.com/laravel
-- https://www.tutorialspoint.com/laravel/index.htm
-
-Laravel 9 From Scratch 2022 4+ Hour Course | Traversy Media
-- https://www.youtube.com/watch?v=MYyJ4PuL4pY&ab_channel=TraversyMedia
 
 Laravel 9 Login auth
 - https://codeanddeploy.com/blog/laravel/laravel-8-authentication-login-and-registration-with-username-or-email
