@@ -137,6 +137,10 @@ Mosquitto Broker
 
 Tutorial MQTT
 
+- https://arduinogetstarted.com/tutorials/arduino-mqtt
+- https://newbiely.com/tutorials/esp8266/esp8266-mqtt
+- https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker
+
 How to use MQTT in X
 - https://www.emqx.com/en/search?keywords=how+to+use+mqtt+in
 
