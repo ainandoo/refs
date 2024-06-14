@@ -34,13 +34,13 @@ Roadmap
 - https://github.com/devcodedao/Reactjs-developer-roadmap
 - https://github.com/harry-chiu/react-developer-roadmap-challenge
 
+Tutorial ReactJS Bahasa Indonesia | Vip Code Studio
+- https://www.youtube.com/playlist?list=PLmF_zPV9ZcP346sttD4Vs2VROLlIp5kPz
+
 Tutorial
 - https://www.w3schools.com/REACT/DEFAULT.ASP
 - https://mfikri.com/blog/kategori/reactjs
 - https://ibaslogic.com/series/
-
-Tutorial ReactJS Bahasa Indonesia | Vip Code Studio
-- https://www.youtube.com/playlist?list=PLmF_zPV9ZcP346sttD4Vs2VROLlIp5kPz
 
 Full Modern React Tutorial | The Net Ninja
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
@@ -101,12 +101,18 @@ Wahidev Academy
 ### AR JS
 - https://github.com/AR-js-org/AR.js
 
-
 ## Frameworks
 
 ### NextJS
+
 Tutorial NextJS Bahasa Indonesia | Vip Code Studio
 - https://www.youtube.com/playlist?list=PLmF_zPV9ZcP2aYRuoEsMla5gqNjxP-V20
+
+### ReactNative
+
+- https://expo.dev/
+- https://reactnative.dev/
+- https://reactnavigation.org/
 
 ### VueJS
 
@@ -132,17 +138,11 @@ Tools Umum dan Ekosistem
 - Nuxt (SSG) | https://nuxtjs.org/
 - vue-router (SPA Routing) | https://router.vuejs.org/
 
-- vue-loader (for webpack)
-- vue-server-renderer
-- vue-class-component
-- vue-rx (RxJS)
-- vue-devtools
-
 Tools Terkait
 
 - Axios (Ajax)
 - Apollo (GraphQL)
-- Mocha (Testing)
+- Mocha/Jest (Testing)
 
 ### Angular
 
