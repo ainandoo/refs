@@ -16,6 +16,9 @@ Electronics tutorial
 - https://learn.sparkfun.com/resources
 - https://www.edukasielektronika.com/
 
+Digital Electronics
+- https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/
+
 Types and list of sensors
 - https://www.thomasnet.com/articles/instruments-controls/types-of-sensors/
 - https://robu.in/list-of-sensors-detailed-guide-2020/
