@@ -145,8 +145,8 @@ Tutorial MQTT
 - https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker
 
 How to use MQTT in X
-- https://www.emqx.com/en/search?keywords=how+to+use+mqtt+in
 
+- https://www.emqx.com/en/search?keywords=how+to+use+mqtt+in
 - https://www.youtube.com/playlist?list=PLRkdoPznE1EMXLW6XoYLGd4uUaB6wB0wd
 - https://www.youtube.com/watch?v=QE1n7ubTDF0&ab_channel=HendriyawanAchmad
 - https://www.youtube.com/watch?v=TNHAZxwB-9o&ab_channel=HighVoltages
@@ -242,7 +242,7 @@ Tutorials
 
 ## IoT in ScyllaDB
 - https://iot.scylladb.com/stable/getting-started.html
-- 
+
 ## Industri di Tanah Air
 
 - https://bardi.co.id/
