@@ -1,3 +1,21 @@
+Blender 4.x basic
+- https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V
+
+Blender product modelling basic
+- https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
+
+Blender 4.0 Tutorial
+- https://www.youtube.com/playlist?list=PLTXqiXCTqQVPVj-R3Mrmignlb-fplHW89
+
+Belajar blender mixed video
+- https://www.youtube.com/playlist?list=PL8HhwgdyOCv8HLvF9ewKA3jk0cRtu-B0K
+- https://www.youtube.com/watch?v=pQFaMpgM7IY
+- https://www.youtube.com/watch?v=hYNM1z5nEt4
+- https://www.youtube.com/playlist?list=PLWaTDYWPOysmadmmuiyHNTamu4ChFADw8
+- https://www.youtube.com/playlist?list=PLWaTDYWPOysm7CY3S-0ySkytQgR827O5x
+
+Blender 2.9 dasar
+- https://www.youtube.com/playlist?list=PL1mw9iOvdPzH4k1vmhz2JvgYFZpmdOGvw
 
 Blender 2.8 Fundamental | Blender
 - https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
