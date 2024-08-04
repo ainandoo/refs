@@ -102,8 +102,12 @@ Story Bible
 - https://www.gamedeveloper.com/design/building-a-basic-story-bible-for-your-game
 - https://squareblind.wordpress.com/2017/07/08/writing-the-game-bible/
 - https://www.reddit.com/r/gamedev/comments/zmdvvk/where_can_i_find_examples_of_game_bibles_style/
+- https://5years.doomworld.com/doombible/
+
 
 Game Design Document
+- https://archive.org/details/vghf_design_doc_archive/Grand-Theft-Auto-Design-Document/
+- https://duckduckgo.com/?q=Ultima+VII+design+document&ia=web
 - https://www.gameindustrycareerguide.com/how-to-write-a-game-design-document/
 - https://www.nuclino.com/articles/game-design-document-template
 - https://gamedevbeginner.com/how-to-write-a-game-design-document-with-examples/
