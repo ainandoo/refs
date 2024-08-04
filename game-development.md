@@ -96,6 +96,13 @@ Game Dev Process
 - https://www.gamedeveloper.com/design/the-4-elements-of-game-mechanics
 - https://elearningindustry.com/5-tips-to-make-learning-games-effective
 
+Story Bible
+- https://dvnc.itch.io/story-bible-template
+- https://www.linkedin.com/pulse/gaming-narrative-story-bible-nick-jones/
+- https://www.gamedeveloper.com/design/building-a-basic-story-bible-for-your-game
+- https://squareblind.wordpress.com/2017/07/08/writing-the-game-bible/
+- https://www.reddit.com/r/gamedev/comments/zmdvvk/where_can_i_find_examples_of_game_bibles_style/
+
 Game Design Document
 - https://www.gameindustrycareerguide.com/how-to-write-a-game-design-document/
 - https://www.nuclino.com/articles/game-design-document-template
