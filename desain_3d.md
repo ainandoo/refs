@@ -1,3 +1,6 @@
+Blender LTS
+2.83, 2.93, 3.3, 3.6, 4.2
+
 Blender 4.x basic
 - https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V
 
