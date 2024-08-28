@@ -1,8 +1,6 @@
-Blender LTS
+## Blender LTS: 2.83, 2.93, 3.3, 3.6, 4.2
 
-2.83, 2.93, 3.3, 3.6, 4.2
-
-Blender 4.x basic
+Blender 4.x basic course
 - https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V
 
 Blender product modelling basic
@@ -24,11 +22,15 @@ Blender 2.9 dasar
 Blender 2.8 Fundamental | Blender
 - https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
 
-Blender 2.8 Beginner Tutorial | 
+Blender 2.8 Beginner Tutorial
 - https://www.youtube.com/playlist?list=PLrjIgEdKLivgpCMmFC0_sV60Y_Ftp-WLD
+- https://www.youtube.com/playlist?list=PL1mw9iOvdPzGVFpok1ZFzeaL3RMAwa1yq
 
 Blender 2.8 Tutorial | CG Geeks
 - https://www.youtube.com/playlist?list=PLrjIgEdKLiviSQO_Xi1hdu7FKdQWlLaws
+
+Blender 2.7 | Dody Priyatmono
+- https://www.youtube.com/playlist?list=PL1mw9iOvdPzExcp1k-vTQNN-5RGOhZIJx
 
 Blender Scripting | Blender
 - https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
