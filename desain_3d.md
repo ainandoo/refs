@@ -9,19 +9,21 @@ Blender 4.0 for Complete Beginners Tutorial Series | Ryan King Art
 Blender 4.x Basic Course | CG Cookie
 - https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V
 
-Tutorial Blender 3D 3.4.1 pemula | Mr. Fauzi
-- https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
-
 Blender 4.0 Tutorial | Leeloo Pixelbottom
 - https://www.youtube.com/playlist?list=PLTXqiXCTqQVPVj-R3Mrmignlb-fplHW89
+
+Tutorial Blender 3.4.1 pemula | Mr. Fauzi
+- https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
+
+Blender 3.0 Anya Chibi Modelling
+- https://www.youtube.com/watch?v=pQFaMpgM7IY
+- https://www.youtube.com/watch?v=hYNM1z5nEt4
 
 Blender 2.9.1 Complete Beginner Tutorial Series | Ryan King Art
 - https://www.youtube.com/playlist?list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHocF1
 
-Belajar blender mixed video
+Tutorial Blender Mixed Video
 - https://www.youtube.com/playlist?list=PL8HhwgdyOCv8HLvF9ewKA3jk0cRtu-B0K
-- https://www.youtube.com/watch?v=pQFaMpgM7IY
-- https://www.youtube.com/watch?v=hYNM1z5nEt4
 - https://www.youtube.com/playlist?list=PLWaTDYWPOysmadmmuiyHNTamu4ChFADw8
 - https://www.youtube.com/playlist?list=PLWaTDYWPOysm7CY3S-0ySkytQgR827O5x
 
@@ -43,4 +45,3 @@ Blender 2.7 | Dody Priyatmono
 
 Blender Scripting | Blender
 - https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
-
