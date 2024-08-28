@@ -1,9 +1,12 @@
 ## Blender LTS: 2.83, 2.93, 3.3, 3.6, 4.2
 
-Blender 4.x basic course
+Blender 4 Beginner Donut Tutorial | Blender Guru
+- https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z
+
+Blender 4.x Basic Course | CG Cookie
 - https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V
 
-Blender product modelling basic
+Tutorial Blender 3D pemula | 
 - https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
 
 Blender 4.0 Tutorial
