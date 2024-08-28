@@ -1,4 +1,4 @@
-## Blender LTS: 2.83, 2.93, 3.3, 3.6, 4.2
+## Blender 3D LTS (2.83, 2.93, 3.3, 3.6, 4.2)
 
 Blender 4 Beginner Donut Tutorial | Blender Guru
 - https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z
