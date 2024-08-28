@@ -3,14 +3,20 @@
 Blender 4 Beginner Donut Tutorial | Blender Guru
 - https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z
 
+Blender 4.0 for Complete Beginners Tutorial Series | Ryan King Art
+- https://www.youtube.com/playlist?list=PLsGl9GczcgBumq6fLmmR1ZYYn4EDkIg5B
+
 Blender 4.x Basic Course | CG Cookie
 - https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V
 
-Tutorial Blender 3D pemula | 
+Tutorial Blender 3D 3.4.1 pemula | Mr. Fauzi
 - https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
 
-Blender 4.0 Tutorial
+Blender 4.0 Tutorial | Leeloo Pixelbottom
 - https://www.youtube.com/playlist?list=PLTXqiXCTqQVPVj-R3Mrmignlb-fplHW89
+
+Blender 2.9.1 Complete Beginner Tutorial Series | Ryan King Art
+- https://www.youtube.com/playlist?list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHocF1
 
 Belajar blender mixed video
 - https://www.youtube.com/playlist?list=PL8HhwgdyOCv8HLvF9ewKA3jk0cRtu-B0K
