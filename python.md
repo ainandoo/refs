@@ -68,6 +68,8 @@ Tools
 Python3 Data, 2016
 - https://open.umn.edu/opentextbooks/textbooks/python-for-everybody-exploring-data-using-python-3
 
+Automate The Boring Stuff with Python 2nd Edition, 2020
+- https://automatetheboringstuff.com/2e/chapter0/
 
 ## Ide Proyek
 
