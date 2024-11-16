@@ -1,9 +1,14 @@
 ## Artificial Intelligence
 
+How to Learn AI in 2024
+- https://www.datacamp.com/blog/how-to-learn-ai
+
+Microsoft AI for Beginner
+- https://microsoft.github.io/AI-For-Beginners/
+
 Microsoft AI (Machine Learning)
 - https://docs.microsoft.com/id-id/learn/paths/scale-ai-organizations/
 - https://docs.microsoft.com/id-id/learn/paths/introduction-ai-for-business-users/
-
 
 ## Machine Learning
 
