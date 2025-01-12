@@ -89,6 +89,9 @@ Game Dev Website
 
 ## E. Articles
 
+- https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/
+- https://hacks.mozilla.org/2016/02/html-5-game-development-video-series/
+
 Game Dev Process
 - https://innovecs.com/blog/game-development-process/
 - https://gamemaker.io/en/blog/stages-of-game-development
@@ -103,7 +106,6 @@ Story Bible
 - https://squareblind.wordpress.com/2017/07/08/writing-the-game-bible/
 - https://www.reddit.com/r/gamedev/comments/zmdvvk/where_can_i_find_examples_of_game_bibles_style/
 - https://5years.doomworld.com/doombible/
-
 
 Game Design Document
 - https://archive.org/details/vghf_design_doc_archive/Grand-Theft-Auto-Design-Document/
