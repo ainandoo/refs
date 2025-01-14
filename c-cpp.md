@@ -1,3 +1,6 @@
+C tutorials
+- https://www.geeksforgeeks.org/c-programming-language/
+
 C language doc | microsoft learn
 - https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
 
