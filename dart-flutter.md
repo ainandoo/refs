@@ -19,8 +19,8 @@
 4. Dart Tutorial
 	- https://www.geeksforgeeks.org/dart-tutorial/
 	- https://dart-tutorial.com/
+ 	- https://www.darttutorial.org/
 	- https://www.javatpoint.com/dart-programming
-	- https://www.darttutorial.org/
 	- https://www.vogella.com/tutorials/Dart/article.html
 	
 ## B. Flutter
