@@ -250,5 +250,12 @@ Tutorials
 - https://www.kmtech.id/
 - https://indobot.co.id/
 
+# ARM
+
+- https://www.keil.arm.com/
+- https://developer.arm.com/
+- https://www.arm.com/resources/education/academic-developer-platforms
+- https://www.arm.com/resources/developer-program
+
 Private Talks | Ainan IDV
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
