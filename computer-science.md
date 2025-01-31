@@ -1,5 +1,6 @@
 ## Curriculum
 - https://github.com/ForrestKnight/open-source-cs
+- https://csfirst.withgoogle.com/s/en/home
 
 ## Ebook
 
