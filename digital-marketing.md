@@ -31,6 +31,26 @@ How to Learn Digital Marketing in 2020
 - https://www.upgrad.com/blog/digital-marketing-tutorial/
 - https://www.edureka.co/blog/digital-marketing-tutorial/
 
+## Facebook Professional (FB Pro)
+
+- https://kumparan.com/how-to-tekno/cara-mengaktifkan-fb-pro-agar-dapat-uang-dari-konten-22GVPkMTk6s
+- https://rri.co.id/iptek/896518/tips-bagi-pemula-fb-pro-agar-cepat-viral
+- https://creators.facebook.com/expanding-professional-mode-for-profiles?locale=id_ID
+- https://web.facebook.com/business/help/2680340558863560?_rdc=1&_rdr#
+
+## Google
+
+Google Search Central
+- https://developers.google.com/search 
+
+## Review
+
+Linkedin Learning
+- https://www.linkedin.com/learning/search?keywords=digital+marketing
+
+(paid) Udemy Digital Marketing
+- https://www.udemy.com/course/learn-digital-marketing-course/
+
 ## Reference
 
 Gaji DM 2020 - Purwadhika
@@ -46,16 +66,3 @@ HootSuite: We Are Social
 - https://wearesocial.com/digital-2021
 - https://wearesocial.com/blog/2021/01/digital-2021-the-latest-insights-into-the-state-of-digital
 - https://www.hootsuite.com/pages/digital-trends-2021
-
-## Google
-
-Google Search Central
-- https://developers.google.com/search 
-
-## Review
-
-Linkedin Learning
-- https://www.linkedin.com/learning/search?keywords=digital+marketing
-
-(paid) Udemy Digital Marketing
-- https://www.udemy.com/course/learn-digital-marketing-course/
