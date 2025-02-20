@@ -197,6 +197,9 @@ Objectblocks | IoT Education Platform
 - https://lms.onnocenter.or.id/wiki/index.php/ObjectBlocks
 - https://www.hackster.io/jimmykh/objectblocks-makes-easy-arduino-and-iot-development-3d7dfc
 
+CounterFit | A simulator for IoT sensors and actuators.
+https://github.com/CounterFit-IoT/CounterFit
+
 ## IoT Platform
 
 ### Platform.io
@@ -242,6 +245,9 @@ Tutorials
 
 ## IoT in ScyllaDB
 - https://iot.scylladb.com/stable/getting-started.html
+
+## Embedded System Engineering
+- https://github.com/m3y54m/Embedded-Engineering-Roadmap
 
 ## Industri di Tanah Air
 
