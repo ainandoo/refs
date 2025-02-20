@@ -243,6 +243,10 @@ https://github.com/CounterFit-IoT/CounterFit
 Tutorials
 - https://toptechboy.com/raspberry-pi-with-linux-lessons/
 
+## RTOS
+
+- https://zephyrproject.org/
+
 ## IoT in ScyllaDB
 - https://iot.scylladb.com/stable/getting-started.html
 
