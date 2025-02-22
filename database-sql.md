@@ -1,4 +1,12 @@
-## SQL
+## MariaDB
+
+MariaDB Tutorial
+- https://www.mariadbtutorial.com/
+
+MariaDB Knowledge Base
+- https://mariadb.com/kb/en/
+
+## MySQL
 
 XAMPP SQL Tutorial
 - https://kotakode.com/blogs/6995/Tutorial-MySQL-Part-1
