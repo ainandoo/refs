@@ -15,8 +15,10 @@ Sekolah / Universitas
 
 ## WordPress Development
 
-- https://codex.wordpress.org/Main_Page
+- https://learn.wordpress.org/
 - https://developer.wordpress.org/
+- https://codex.wordpress.org/Main_Page
+- https://wordpress.org/documentation/
 
 ## Theme Development
 
