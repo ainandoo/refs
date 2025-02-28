@@ -26,6 +26,17 @@ Types and list of sensors
 Belajar Elektronika
 - https://www.youtube.com/playlist?list=PLQOmSxTVQG9-xUCOprH1pn15OxlUn1eQF
 
+Beginner Electronics | CodeNMore
+- https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs
+
+## C Programming
+
+C Programming Tutorials
+- https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m
+
+C pointers
+- https://www.youtube.com/watch?v=MIL2BK02X8A
+
 ## IoT Tutorial
 
 Belajar Internet Of Things - Level Dasar
