@@ -1,3 +1,8 @@
+## Tutorial
+
+Introduction to GIS Programming
+- https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPfb18kNe2luWX9xKg1233i9
+
 ## Ebook
 
 Organizing, 2013
