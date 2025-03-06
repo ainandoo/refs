@@ -100,6 +100,7 @@ Arduino: YouTube
 - https://www.youtube.com/@dentech3d413/videos
 - https://www.youtube.com/watch?v=zJ-LqeX_fLU&ab_channel=freeCodeCamp.org
 - https://www.youtube.com/playlist?list=PL3BHTmA5aQcJAvq1FM9ay4rn18rIujGoe
+- https://www.youtube.com/playlist?list=PLFOrHC8Xh8wTA8alIl1wi9LoWIBWpttId
 
 Arduino + Python
 - https://toptechboy.com/using-python-with-arduino-lessons/
@@ -108,6 +109,9 @@ Arduino + Python
 - https://randomnerdtutorials.com/projects-esp32/
 - https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/index.html#
 
+ESP32 Tutorial
+- https://www.youtube.com/playlist?list=PLFOrHC8Xh8wSouMvpmL_iCjtg6cVHL7fD
+
 ESP32 on Rust
 - https://esp-rs.github.io/std-training/01_intro.html
 
@@ -115,6 +119,11 @@ ESP32 on Rust
 - https://stm32-base.org/
 - https://wiki.st.com/stm32mcu/
 - https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
+
+STM32 Tutorial
+- https://www.youtube.com/playlist?list=PLqW5gGcVyOC4eS39_4362RSZzOfu8u2nl
+- https://www.youtube.com/playlist?list=PLMlgXB7ESsualAhuW3TIlPMZp9hiI5Lx3
+- https://www.youtube.com/playlist?list=PLj8M4wG2gfDpVCCR3jC3Rep-7p3PQnoB2
 
 ### Bosch XDK
 - https://www.youtube.com/playlist?list=PLjA7OoXwzRI2AUyyGuBT13P733eUaB2pE
@@ -277,6 +286,19 @@ Tutorials
 - https://developer.arm.com/
 - https://www.arm.com/resources/education/academic-developer-platforms
 - https://www.arm.com/resources/developer-program
+
+# Computer architecture
+
+Processor design (risc-v)
+- https://www.youtube.com/playlist?list=PLq5K7Zq6zbGO2OO7Y9a7h0iEWK5gDYw_q
+
+# Industrial talks
+
+Industrial IOT
+- https://www.youtube.com/playlist?list=PLEAkx69Ut5eUh0sy5WBKgnJiAPKqUQLf5
+
+IOT wireless communication
+- https://www.youtube.com/playlist?list=PLgX6jnGLEjLtLbXbPrBMpxhkdhrCl9hcK
 
 Private Talks | Ainan IDV
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
