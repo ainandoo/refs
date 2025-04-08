@@ -2,6 +2,7 @@
 
 - https://github.com/utilForever/game-developer-roadmap
 - https://dev.to/saifullahusmani/complete-game-development-roadmap-aaa-guide-included-detailed-guide-4mih
+- https://develop.games/
 
 ## B. Game Engine
 
@@ -111,6 +112,7 @@ Story Bible
 - https://5years.doomworld.com/doombible/
 
 Game Design Document
+- https://docs.google.com/document/d/1Vl7BMvzUOhbunJrI_X1gUc6x-LAp3aaBiPwHUf27B70/edit?tab=t.0#heading=h.lr899156xjnx
 - https://archive.org/details/vghf_design_doc_archive/Grand-Theft-Auto-Design-Document/
 - https://duckduckgo.com/?q=Ultima+VII+design+document&ia=web
 - https://www.gameindustrycareerguide.com/how-to-write-a-game-design-document/
