@@ -53,22 +53,7 @@ Godot 4 for Beginner
 Online Multiplayer FPS
 - https://www.youtube.com/watch?v=n8D3vEx7NAE&ab_channel=DevLogLogan
 
-### 2. GDevelop
-- https://gdevelop.io/
-
-### 3. Game Maker 2D
-- https://gamemaker.io/en
-
-### 4. Cocos Engine
-- https://www.cocos.com/en
-
-### 5. LibGDX Framework
-- https://libgdx.com/
-
-### 6. Phaser Framework
-- https://phaser.io/
-
-### 7. Unity
+### 2. Unity
 - https://unity.com/
 - https://unity.com/learn/get-started
 - https://unity.com/resources?filters=e-book
@@ -83,7 +68,7 @@ Online Multiplayer FPS
 - https://www.aseprite.org/
 - https://github.com/aseprite/aseprite/
 
-### 3. Piksel
+### 3. Piskel
 - https://www.piskelapp.com/
 
 ## D. Resources
@@ -108,6 +93,9 @@ Game Dev Process
 - https://medium.com/nerd-for-tech/begin-with-game-development-102b6e09eddd
 - https://www.gamedeveloper.com/design/the-4-elements-of-game-mechanics
 - https://elearningindustry.com/5-tips-to-make-learning-games-effective
+
+Game development stages
+- https://gamemaker.io/en/blog/stages-of-game-development
 
 Story Bible
 - https://dvnc.itch.io/story-bible-template
