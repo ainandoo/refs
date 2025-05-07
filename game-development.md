@@ -53,6 +53,9 @@ Godot 4 for Beginner
 Online Multiplayer FPS
 - https://www.youtube.com/watch?v=n8D3vEx7NAE&ab_channel=DevLogLogan
 
+Godot Learning Path
+- https://www.gdquest.com/tutorial/godot/learning-paths/
+
 ### 2. Unity
 - https://unity.com/
 - https://unity.com/learn/get-started
@@ -81,6 +84,9 @@ MDN Game Development
 
 Game Dev Website
 - https://gamedevacademy.org/
+
+Book of Shader
+- https://thebookofshaders.com/
 
 ## E. Articles
 
