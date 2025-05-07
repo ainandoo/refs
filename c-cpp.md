@@ -2,6 +2,7 @@
 
 C tutorials
 - https://www.geeksforgeeks.org/c-programming-language/
+- https://www.learn-c.org/
 
 C programming books
 - https://github.com/MTJailed/C-Programming-Books/tree/master
