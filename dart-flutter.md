@@ -128,6 +128,8 @@ Making Animations in Flutter
 Discussion | Flutter Apprentice Book
 - https://www.youtube.com/playlist?list=PL4dBIh1xps-HAaadBRWQobCO_IJ4gMOG2
 
+Flutter Agentic Apps
+- https://flutter.dev/events/building-agentic-apps#starter-kits
 
 ## D. Tools & lain-lain
 
