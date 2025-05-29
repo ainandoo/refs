@@ -76,6 +76,10 @@ Godot Learning Path
 
 ## D. Resources
 
+Game Asset
+- https://kenney.nl/
+- https://opengameart.org/
+
 Game Programming Pattern
 - https://gameprogrammingpatterns.com/contents.html
 
