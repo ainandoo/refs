@@ -80,6 +80,9 @@ Game Asset
 - https://kenney.nl/
 - https://opengameart.org/
 
+Game Platform
+- https://itch.io/
+
 Game Programming Pattern
 - https://gameprogrammingpatterns.com/contents.html
 
