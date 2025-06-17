@@ -20,10 +20,13 @@ Godot Playlist
 Godot University
 - https://www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo
 
-Crash Course
+Godot Crash Course
 - https://www.youtube.com/watch?v=Luf2Kr5s3BM&ab_channel=Chris%27Tutorials
 - https://www.youtube.com/watch?v=NlzTmL_eB-U&ab_channel=Zenva
 - https://www.youtube.com/watch?v=S8lMTwSRoRg&ab_channel=freeCodeCamp.org
+
+Godot 4.0 Tutorial | Sulaeman Santoso
+- https://www.youtube.com/playlist?list=PL5gLq0nzeoztEBMofziHQVsqckcfZLP2r
 
 Ultimate introduction 
 - https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&ab_channel=ClearCode
@@ -32,14 +35,8 @@ Ultimate introduction
 Heart game platformer
 - https://www.youtube.com/playlist?list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ
 
-Godot 4.0 Tutorial | Sulaeman Santoso
-- https://www.youtube.com/playlist?list=PL5gLq0nzeoztEBMofziHQVsqckcfZLP2r
-
 Programming dasar untuk game programmer | Sulaeman Santoso
 - https://www.youtube.com/playlist?list=PL5gLq0nzeozuGm7b675-9kj69Nt_R_Syn
-
-Godot 4.0 Crash Course | FreeCodeCamp
-- https://www.youtube.com/watch?v=S8lMTwSRoRg&ab_channel=freeCodeCamp.org
 
 ARPG in Godot 4.0
 - https://www.youtube.com/playlist?list=PLMQtM2GgbPEVuTgD4Ln17ombTg6EahSLr
