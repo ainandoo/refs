@@ -1,5 +1,10 @@
 ## Artificial Intelligence
 
+Roadmap
+- https://www.youtube.com/watch?v=7MfBlmAomeM&ab_channel=codebasics
+- https://medium.com/madhukarkumar/a-developers-roadmap-to-getting-started-with-ai-in-2025-f3f000ef6770
+- https://www.datacamp.com/blog/ai-developer-roadmap
+
 How to Learn AI in 2024
 - https://www.datacamp.com/blog/how-to-learn-ai
 
