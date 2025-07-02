@@ -20,6 +20,10 @@ Godot Playlist
 Godot University
 - https://www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo
 
+Publish to Itch.io
+- https://www.kodeco.com/45341300-publishing-your-godot-project-to-itch-io
+- https://www.youtube.com/watch?v=6DVJIlYr7QE&ab_channel=Rungeon
+
 Godot Crash Course
 - https://www.youtube.com/watch?v=Luf2Kr5s3BM&ab_channel=Chris%27Tutorials
 - https://www.youtube.com/watch?v=NlzTmL_eB-U&ab_channel=Zenva
