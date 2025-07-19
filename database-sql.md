@@ -30,7 +30,8 @@ SQL Tutorial
 - https://www.sqltutorial.org/
 - https://www.guru99.com/sql.html
 - https://sqlbolt.com/
-
+- https://www.w3schools.com/sql/sql_create_db.asp
+- https://www.learnsqlonline.org/
 
 ## Tutorial Database
 
