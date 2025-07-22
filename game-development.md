@@ -8,17 +8,17 @@
 
 ### 1. Godot Engine
 - https://godotengine.org/
-
-Godot Resources
 - https://docs.godotengine.org/en/stable/
-- https://godottutorials.com/
-- https://gdquest.github.io/learn-gdscript
-- https://www.facebook.com/groups/godotindonesia/
 
 Godot Playlist
 
 Godot University
 - https://www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo
+
+Godot Resources
+- https://godottutorials.com/
+- https://gdquest.github.io/learn-gdscript
+- https://www.facebook.com/groups/godotindonesia/
 
 Publish to Itch.io
 - https://www.kodeco.com/45341300-publishing-your-godot-project-to-itch-io
