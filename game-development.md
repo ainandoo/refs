@@ -23,6 +23,11 @@ Godot University
 Publish to Itch.io
 - https://www.kodeco.com/45341300-publishing-your-godot-project-to-itch-io
 - https://www.youtube.com/watch?v=6DVJIlYr7QE&ab_channel=Rungeon
+- https://foosel.net/til/how-to-export-a-godot-4-game-to-run-on-the-web-on-itchio/
+- https://hedgiespresso.itch.io/itch-page-image-templates
+
+Export godot to web
+- https://www.youtube.com/watch?v=y_YAKzlEbxs&t=68s&ab_channel=MuddyWolf
 
 Godot Crash Course
 - https://www.youtube.com/watch?v=Luf2Kr5s3BM&ab_channel=Chris%27Tutorials
