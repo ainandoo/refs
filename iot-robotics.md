@@ -302,3 +302,8 @@ IOT wireless communication
 
 Private Talks | Ainan IDV
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
+
+# Robotics
+
+- https://cs123-stanford-2024.readthedocs.io/en/latest/
+- https://cs-123-stanford-2023.readthedocs.io/en/latest/
