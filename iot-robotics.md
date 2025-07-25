@@ -307,3 +307,5 @@ Private Talks | Ainan IDV
 
 - https://cs123-stanford-2024.readthedocs.io/en/latest/
 - https://cs-123-stanford-2023.readthedocs.io/en/latest/
+- https://cs123-stanford.readthedocs.io/en/latest/
+- https://web.stanford.edu/class/cs123/
