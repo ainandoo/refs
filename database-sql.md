@@ -1,3 +1,12 @@
+## PostgreSQL
+
+- https://www.postgresql.org/docs/current/index.html
+- https://www.postgresql.org/docs/current/tutorial.html
+- https://neon.com/postgresql/tutorial
+- https://www.w3schools.com/postgresql/index.php
+- https://www.pgtutorial.com/
+- https://roadmap.sh/postgresql-dba
+
 ## MariaDB
 
 MariaDB Tutorial
