@@ -17,6 +17,11 @@ Microsoft AI (Machine Learning)
 
 ## Machine Learning
 
+Machine Learning University
+- https://mlu-explain.github.io/
+- https://github.com/aws-samples/aws-mlu-explain
+- https://www.amazon.science/latest-news/amazon-machine-learning-university-new-courses-mlu-explains
+
 Machine Learning Mastery
 - https://machinelearningmastery.com/start-here/
 
