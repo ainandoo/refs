@@ -51,3 +51,7 @@ Microsoft ML (Machine Learning)
 
 Machine Learning Playlist | freeCodeCamp
 - https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
+
+## Computer Vision
+- https://opencv.org/university/
+- https://learnopencv.com/
