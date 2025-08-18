@@ -41,6 +41,10 @@ Blender 2.7 | Dody Priyatmono
 Blender Scripting | Blender
 - https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
 
+## roadmap belajar
+
+- https://www.youtube.com/watch?v=-ic0nCJWhgo&ab_channel=Blueframe
+
 ## Blender Projects
 
 Low Poly World | Blender 3.0/4.0
