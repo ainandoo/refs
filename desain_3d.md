@@ -86,4 +86,4 @@ Blender 3.0 Anya Chibi Modelling
 
 Blender character tutorial
 - https://www.youtube.com/playlist?list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5
-- 
+- https://www.youtube.com/playlist?list=PLWaTDYWPOysmadmmuiyHNTamu4ChFADw8
