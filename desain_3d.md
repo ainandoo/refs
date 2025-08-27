@@ -45,7 +45,37 @@ Blender Scripting | Blender
 
 - https://www.youtube.com/watch?v=-ic0nCJWhgo&ab_channel=Blueframe
 
+## Blender beginner
+
+- https://www.youtube.com/@ForeverDansky/search?query=blender
+
+Rendering differences
+- https://www.youtube.com/watch?v=4zRfqzNYDdo&ab_channel=Danang3D
+
+Faster rendering tips
+- https://www.youtube.com/watch?v=kIW648Cfo18&ab_channel=BlenderGuru
+
 ## Blender Projects
+
+animations basic
+- https://www.youtube.com/watch?v=feJY2wMPOIA&ab_channel=richstubbsanimation
+
+walk cycles
+- https://www.youtube.com/watch?v=e_COc0ZVHr0&ab_channel=MarkMasters
+
+easy way to rigging
+- https://www.youtube.com/watch?v=jIwrswJEFBQ&ab_channel=richstubbsanimation
+
+Hard surface modeling
+- https://www.youtube.com/watch?v=nsTjnQ067sw
+
+Material shading
+- https://www.youtube.com/watch?v=Wg244y2f9Fw
+- https://www.youtube.com/watch?v=jBT6MD7IzHU&ab_channel=Brandon3D
+
+Lighting project
+- https://www.youtube.com/watch?v=aCAppo3VhfA
+- https://www.youtube.com/watch?v=KO29y5eW61g
 
 Low Poly World | Blender 3.0/4.0
 - https://www.youtube.com/watch?v=ELiqWceCk0Q
@@ -53,3 +83,7 @@ Low Poly World | Blender 3.0/4.0
 Blender 3.0 Anya Chibi Modelling
 - https://www.youtube.com/watch?v=pQFaMpgM7IY
 - https://www.youtube.com/watch?v=hYNM1z5nEt4
+
+Blender character tutorial
+- https://www.youtube.com/playlist?list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5
+- 
