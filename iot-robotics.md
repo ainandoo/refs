@@ -108,6 +108,9 @@ Arduino + Python
 ### ESP32
 - https://randomnerdtutorials.com/projects-esp32/
 - https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/index.html#
+- https://randomnerdtutorials.com/getting-started-with-esp32/
+- https://deepbluembedded.com/esp32-programming-tutorials/
+- https://esp32io.com/
 
 ESP32 Tutorial
 - https://www.youtube.com/playlist?list=PLFOrHC8Xh8wSouMvpmL_iCjtg6cVHL7fD
@@ -159,13 +162,11 @@ Mosquitto Broker
 - https://medium.com/@potekh.anastasia/a-beginners-guide-to-mqtt-understanding-mqtt-mosquitto-broker-and-paho-python-mqtt-client-990822274923
 
 Tutorial MQTT
-
 - https://arduinogetstarted.com/tutorials/arduino-mqtt
 - https://newbiely.com/tutorials/esp8266/esp8266-mqtt
 - https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker
 
 How to use MQTT in X
-
 - https://www.emqx.com/en/search?keywords=how+to+use+mqtt+in
 - https://www.youtube.com/playlist?list=PLRkdoPznE1EMXLW6XoYLGd4uUaB6wB0wd
 - https://www.youtube.com/watch?v=QE1n7ubTDF0&ab_channel=HendriyawanAchmad
@@ -179,14 +180,6 @@ How to use MQTT in X
 - https://www.youtube.com/watch?v=EHOHVOnzPTI&ab_channel=BISAAIAcademy
 - https://www.emqx.com/en/blog/the-easiest-guide-to-getting-started-with-mqtt
 - https://cedalo.com/mqtt-academy/
-
-### CoAP
-
-### LoRa
-
-### CAN
-
-### ODB2
 
 ## Simulation Website
 
@@ -222,45 +215,46 @@ https://github.com/CounterFit-IoT/CounterFit
 
 ## IoT Platform
 
-### Platform.io
+Platform.io
 - https://platformio.org/
 - https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
 
-### NodeRED
+NodeRED
 - https://nodered.org/
 - https://github.com/node-red/node-red
 - https://stevesnoderedguide.com/
 - https://noderedguide.com/
 
-### Thingspeak
+Thingspeak
 - https://thingspeak.com/
 
-### IoT DSA
+IoT DSA
 - http://iot-dsa.org/
 
-### Particle
+Particle
 - https://www.particle.io/
 
-### Sitewhere
+Sitewhere
 - https://sitewhere.io/en/
 
-### Blynk
+Blynk
 - https://blynk.io/
 
-### Thinger
+Thinger
 - https://thinger.io/
 
-### Thingsboard
+Thingsboard
 - https://thingsboard.io/
 
-### Fogwing IIoT
+Fogwing IIoT
 - https://www.fogwing.io/
 
-## Raspi OS
+## Mini PC
 
+Raspi OS
 - https://retropie.org.uk/
 
-Tutorials
+Raspi Tutorials
 - https://toptechboy.com/raspberry-pi-with-linux-lessons/
 
 ## RTOS
@@ -280,19 +274,19 @@ Tutorials
 - https://www.kmtech.id/
 - https://indobot.co.id/
 
-# ARM
+## ARM
 
 - https://www.keil.arm.com/
 - https://developer.arm.com/
 - https://www.arm.com/resources/education/academic-developer-platforms
 - https://www.arm.com/resources/developer-program
 
-# Computer architecture
+## Computer architecture
 
 Processor design (risc-v)
 - https://www.youtube.com/playlist?list=PLq5K7Zq6zbGO2OO7Y9a7h0iEWK5gDYw_q
 
-# Industrial talks
+## Industrial talks
 
 Industrial IOT
 - https://www.youtube.com/playlist?list=PLEAkx69Ut5eUh0sy5WBKgnJiAPKqUQLf5
@@ -303,7 +297,7 @@ IOT wireless communication
 Private Talks | Ainan IDV
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth8BHYHb7yVNTFKbkJKZpXr
 
-# Robotics
+## Robotics
 
 - https://cs123-stanford-2024.readthedocs.io/en/latest/
 - https://cs-123-stanford-2023.readthedocs.io/en/latest/
