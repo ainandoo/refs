@@ -13,6 +13,9 @@ Sekolah / Universitas
 - https://saim.sch.id/ 
 - http://informatika.uc.ac.id/en/
 
+Instansi
+(website lawan covid pemda)
+
 ## WordPress Development
 
 - https://learn.wordpress.org/
