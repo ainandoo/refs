@@ -38,6 +38,9 @@ Blender 2.8 Tutorial | CG Geeks
 Blender 2.7 | Dody Priyatmono
 - https://www.youtube.com/playlist?list=PL1mw9iOvdPzExcp1k-vTQNN-5RGOhZIJx
 
+Blender 2.7.8 | Introduction to Blender by Brackeys
+- https://www.youtube.com/playlist?list=PLPV2KyIb3jR7NpThqBF78byFOrzPKiLmb
+
 Blender Scripting | Blender
 - https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
 
@@ -54,6 +57,9 @@ Rendering differences
 
 Faster rendering tips
 - https://www.youtube.com/watch?v=kIW648Cfo18&ab_channel=BlenderGuru
+
+Blender tutorial after donuts
+- https://www.youtube.com/playlist?list=PLL8svnS8fK0n8sENNU8CXbVn8DM2kK7ur
 
 ## Blender Projects
 
@@ -79,10 +85,6 @@ Lighting project
 
 Low Poly World | Blender 3.0/4.0
 - https://www.youtube.com/watch?v=ELiqWceCk0Q
-
-Blender 3.0 Anya Chibi Modelling
-- https://www.youtube.com/watch?v=pQFaMpgM7IY
-- https://www.youtube.com/watch?v=hYNM1z5nEt4
 
 Blender character tutorial
 - https://www.youtube.com/playlist?list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5
