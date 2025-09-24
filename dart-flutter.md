@@ -2,75 +2,56 @@
 
 ## A. Dart
 
-1. Dart PBO - Erico Darmawan Handoyo
-	- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
+Dart PBO - Erico Darmawan Handoyo
+- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
 
-2. Dart Docs
-	- https://dart.dev/guides
+Dart Docs
+- https://dart.dev/guides
 
-3. YouTube
+Dart Crash Course | Net Ninja
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh
 
-	Dart from Novice to Expert
-	- https://www.youtube.com/watch?v=F3JuuYuOUK4&ab_channel=Flutterly
+Dart from Novice to Expert
+- https://www.youtube.com/watch?v=F3JuuYuOUK4&ab_channel=Flutterly
 
-	Dart Tutorial for Beginner
-	- https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
+Dart Tutorial for Beginner
+- https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
 
-4. Dart Tutorial
-	- https://www.geeksforgeeks.org/dart-tutorial/
-	- https://dart-tutorial.com/
- 	- https://www.darttutorial.org/
-	- https://www.javatpoint.com/dart-programming
-	- https://www.vogella.com/tutorials/Dart/article.html
+Dart Tutorial
+- https://www.geeksforgeeks.org/dart-tutorial/
+- https://dart-tutorial.com/
+- https://www.darttutorial.org/
+- https://www.javatpoint.com/dart-programming
+- https://www.vogella.com/tutorials/Dart/article.html
 	
 ## B. Flutter
 
-1. Flutter Fundamental - Erico Darmawan Handoyo
+Flutter Fundamental | Erico Darmawan Handoyo
 
-	Part 1:
-	- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV
+Part 1:
+- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV
 
-	Part 2:
-	- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
+Part 2:
+- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
 
-2. Flutter Documentation
-	- https://docs.flutter.dev/
+Flutter Documentation
+- https://docs.flutter.dev/
 
-3. Flutter Engage | Learn Flutter Development
-	- https://events.flutter.dev/engage/learn/beginner
+Flutter Engage | Learn Flutter Development
+- https://events.flutter.dev/engage/learn/beginner
 
-4. Flutter Codelabs
-	
-	- https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
-	
-	- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
-		- https://www.youtube.com/watch?v=Z6KZ3cTGBWw (versi video)
-	
-	- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
-	
-	- https://codelabs.developers.google.com/?cat=Flutter
+Flutter Codelabs
+- https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
+- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
+	- https://www.youtube.com/watch?v=Z6KZ3cTGBWw (versi video)
+- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
+- https://codelabs.developers.google.com/?cat=Flutter
 
-5. Tutorial Singkat
+Flutter Apprentice Book 2021
+- https://www.youtube.com/playlist?list=PL4dBIh1xps-HAaadBRWQobCO_IJ4gMOG2
 
-	- http://thetechnocafe.com/flutter-crash-course-1-installation-and-overview/
-	- http://thetechnocafe.com/flutter-crash-course-2-application-and-ui-basics/
-	- http://thetechnocafe.com/dive-into-flutter-widgets/
-	- http://thetechnocafe.com/flutter-crash-course-4-dive-into-more-flutter-widgets/
-	- http://thetechnocafe.com/flutter-crash-course-5-building-lists-and-pages/
-	- http://thetechnocafe.com/flutter-crash-course-6-networking-basics/
-
-6. Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
-	-  https://www.youtube.com/watch?v=VPvVD8t02U8
-
-99. project
-	- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-66944e460bdb
-	- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer%E3%83%BCpart-2-feedea6911b
-	- https://blog.codemagic.io/flutter-widget-cheat-sheet/
-	- https://blog.codemagic.io/rest-api-in-flutter/
-	- https://howtodothisinflutter.com/
-
-HTTP Request dengan Flutter
-- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VC-Adfpl5D0k9N8psiDXrir
+Discussion | Flutter Apprentice Book
+- https://www.youtube.com/playlist?list=PL4dBIh1xps-HAaadBRWQobCO_IJ4gMOG2
 
 Flutter Widget of the Week
 - https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
@@ -78,11 +59,41 @@ Flutter Widget of the Week
 Flutter Widget 101
 - https://www.youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd
 
+Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
+-  https://www.youtube.com/watch?v=VPvVD8t02U8
+
+Tutorial Singkat
+- http://thetechnocafe.com/flutter-crash-course-1-installation-and-overview/
+- http://thetechnocafe.com/flutter-crash-course-2-application-and-ui-basics/
+- http://thetechnocafe.com/dive-into-flutter-widgets/
+- http://thetechnocafe.com/flutter-crash-course-4-dive-into-more-flutter-widgets/
+- http://thetechnocafe.com/flutter-crash-course-5-building-lists-and-pages/
+- http://thetechnocafe.com/flutter-crash-course-6-networking-basics/
+
+Flutter Projects
+- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-66944e460bdb
+- https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer%E3%83%BCpart-2-feedea6911b
+- https://blog.codemagic.io/flutter-widget-cheat-sheet/
+- https://blog.codemagic.io/rest-api-in-flutter/
+- https://howtodothisinflutter.com/
+
+Making Animations in Flutter
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua
+
+Flutter and Firebase course
+- https://www.youtube.com/playlist?list=PL78sHffDjI77iyUND7TrUOXud9NSf0eCr
+
+HTTP Request dengan Flutter
+- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VC-Adfpl5D0k9N8psiDXrir
+
 Flutter short video
 - https://www.youtube.com/playlist?list=PL9kmNQKNfIth3sKRTffwvwloxb4snyDDI
 
 Fireship Flutter Tutorial n Talks
 - https://www.youtube.com/playlist?list=PL0vfts4VzfNiQYtnn1TZ6U0Ec_vjCN9VY
+
+DeepSeek AI + Flutter
+- https://www.youtube.com/playlist?list=PL78sHffDjI74kIkoSFaqG0Rk9Y2ZCMn9O
 
 ## C. Referensi
 
@@ -121,12 +132,6 @@ Dart Conf 2018
 
 Flutter in Focus
 - https://www.youtube.com/playlist?list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2
-
-Making Animations in Flutter
-- https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua
-
-Discussion | Flutter Apprentice Book
-- https://www.youtube.com/playlist?list=PL4dBIh1xps-HAaadBRWQobCO_IJ4gMOG2
 
 Flutter Agentic Apps
 - https://flutter.dev/events/building-agentic-apps#starter-kits
