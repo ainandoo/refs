@@ -15,6 +15,12 @@ Microsoft AI (Machine Learning)
 - https://docs.microsoft.com/id-id/learn/paths/scale-ai-organizations/
 - https://docs.microsoft.com/id-id/learn/paths/introduction-ai-for-business-users/
 
+10 days of AI basics
+- https://www.youtube.com/playlist?list=PL-ocKywdn6lE9l4LIPL4gMY4nNRfjEswG
+
+Neural networks
+- https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
 ## Machine Learning
 
 Machine Learning University
@@ -55,3 +61,8 @@ Machine Learning Playlist | freeCodeCamp
 ## Computer Vision
 - https://opencv.org/university/
 - https://learnopencv.com/
+
+## python ai
+
+python, numpy, pandas crash course
+- https://www.youtube.com/playlist?list=PLZPZq0r_RZOO_wKfxdnAb9BgnffGtIHjR
