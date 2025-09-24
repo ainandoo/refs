@@ -82,6 +82,12 @@ Godot Learning Path
 
 ## D. Resources
 
+So you wanna make games?
+- https://www.youtube.com/playlist?list=PL42m9XiTqPHJdJuVXO6Vf5ta5D07peiVx
+
+Game Design Tutorial
+- https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHI3oYZfZ9nLEnQMBEhbmP8
+
 Game Asset
 - https://kenney.nl/
 - https://opengameart.org/
