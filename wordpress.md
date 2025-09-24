@@ -31,10 +31,10 @@ How To Make a Website With WordPress - 2021 (Beginners Tutorial) | FreeCodeCamp
 WordPress complete course
 - https://www.youtube.com/playlist?list=PL78sHffDjI76gnI78AhYJ3VwGvEFnGEJl
 
-## WordPress Powered Sites
+Desain Website WordPress |  Dokter Web
+- https://www.youtube.com/watch?v=mzBOc4KoGCM
 
-ZOOM Blog
-- https://blog.zoom.us/
+## WordPress Powered Sites
 
 White House Goverment
 - https://www.whitehouse.gov/
@@ -42,11 +42,14 @@ White House Goverment
 NASA
 - https://www.nasa.gov/
 
+ZOOM Blog
+- https://blog.zoom.us/
+
 Sekolah / Universitas
-- https://saim.sch.id/ 
+- https://www.its.ac.id/
+- https://unair.ac.id/
 - http://informatika.uc.ac.id/en/
+- https://saim.sch.id/ 
 
 Instansi
 (website lawan covid pemda)
-[Latihan] Desain Website WordPress |  Dokter Web
-- https://www.youtube.com/watch?v=mzBOc4KoGCM
