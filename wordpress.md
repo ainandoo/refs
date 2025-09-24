@@ -1,20 +1,3 @@
-## WordPress Powered Sites
-
-ZOOM Blog
-- https://blog.zoom.us/
-
-White House Goverment
-- https://www.whitehouse.gov/
-
-NASA
-- https://www.nasa.gov/
-
-Sekolah / Universitas
-- https://saim.sch.id/ 
-- http://informatika.uc.ac.id/en/
-
-Instansi
-(website lawan covid pemda)
 
 ## WordPress Development
 
@@ -45,5 +28,25 @@ Tutorial Dasar WordPress (Bahasa Indonesia) | Robby Dianputra
 How To Make a Website With WordPress - 2021 (Beginners Tutorial) | FreeCodeCamp
 - https://www.youtube.com/watch?v=O79pJ7qXwoE
 
+WordPress complete course
+- https://www.youtube.com/playlist?list=PL78sHffDjI76gnI78AhYJ3VwGvEFnGEJl
+
+## WordPress Powered Sites
+
+ZOOM Blog
+- https://blog.zoom.us/
+
+White House Goverment
+- https://www.whitehouse.gov/
+
+NASA
+- https://www.nasa.gov/
+
+Sekolah / Universitas
+- https://saim.sch.id/ 
+- http://informatika.uc.ac.id/en/
+
+Instansi
+(website lawan covid pemda)
 [Latihan] Desain Website WordPress |  Dokter Web
 - https://www.youtube.com/watch?v=mzBOc4KoGCM
