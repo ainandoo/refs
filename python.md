@@ -3,7 +3,6 @@
 - https://www.python.org/doc/ 
 - https://docs.python.org/3/tutorial/index.html
 
-
 ## Motivasi Belajar
 
 Mengapa Pilih Bahasa Pemrograman Python | Budi Rahardjo
@@ -11,7 +10,6 @@ Mengapa Pilih Bahasa Pemrograman Python | Budi Rahardjo
 
 Belajar Python untuk Pemula | Onno W. Purbo
 - https://www.youtube.com/watch?v=1YBnENHft8o
-
 
 ## Roadmap
 
@@ -44,6 +42,9 @@ Belajar Python untuk Pemula | Onno W. Purbo
 
 Colab tutorial & resource
 - https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
+
+Python tutorial for absolute  beginner
+- https://www.youtube.com/playlist?list=PL78sHffDjI746f7tHEep1FcPfbe9OXHlY
 
 Kelas Terbuka
 - https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY
