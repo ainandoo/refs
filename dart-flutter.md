@@ -2,7 +2,7 @@
 
 ## A. Dart
 
-Dart PBO - Erico Darmawan Handoyo
+Dart PBO | Erico Darmawan Handoyo
 - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
 
 Dart Docs
