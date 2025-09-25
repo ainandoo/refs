@@ -61,6 +61,9 @@ Reference
 - https://diyi0t.com/blog/
 - https://lastminuteengineers.com/
 
+Learn Embedded boards
+- https://www.electronicwings.com/
+
 ## IoT Boards
 
 ### ESP8266
@@ -108,6 +111,7 @@ Arduino + Python
 ### ESP32
 - https://randomnerdtutorials.com/projects-esp32/
 - https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/index.html#
+- https://docs.espressif.com/projects/arduino-esp32/en/latest/index.html
 - https://randomnerdtutorials.com/getting-started-with-esp32/
 - https://deepbluembedded.com/esp32-programming-tutorials/
 - https://esp32io.com/
