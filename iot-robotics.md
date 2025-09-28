@@ -116,6 +116,10 @@ Arduino + Python
 - https://deepbluembedded.com/esp32-programming-tutorials/
 - https://esp32io.com/
 
+Paid ESP32 Tutorial
+- https://learnesp32.com/videos/course-introduction/course-introduction
+- https://microsacademy.ezycourse.com/course-detail/learnesp32/17870/
+
 ESP32 Tutorial
 - https://www.youtube.com/playlist?list=PLFOrHC8Xh8wSouMvpmL_iCjtg6cVHL7fD
 
