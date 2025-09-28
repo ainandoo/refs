@@ -78,7 +78,7 @@ Mathematics
 - https://opencv.org/university/
 - https://learnopencv.com/
 
-## Python ai
+## Python AI
 
 python, numpy, pandas crash course
 - https://www.youtube.com/playlist?list=PLZPZq0r_RZOO_wKfxdnAb9BgnffGtIHjR
