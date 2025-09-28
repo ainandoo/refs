@@ -49,6 +49,12 @@ Machine Learning Tutorial
 Deep Learning Intro and Overview | Medium
 - https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0?linkId=63206779
 
+Standford 229: Machine Learning Full Course by Andrew Ng
+- https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
+Machine Learning specialization by Andrew Ng
+- https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI
+
 ### ML Course
 
 Microsoft ML (Machine Learning)
@@ -58,11 +64,21 @@ Microsoft ML (Machine Learning)
 Machine Learning Playlist | freeCodeCamp
 - https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
 
+## Math
+
+Mathematics for Machine Learning
+- https://mml-book.github.io/
+- https://mml-book.github.io/book/mml-book.pdf
+- https://course.ccs.neu.edu/ds4420sp20/readings/mml-book.pdf
+
+Mathematics
+- https://github.com/dair-ai/Mathematics-for-ML
+
 ## Computer Vision
 - https://opencv.org/university/
 - https://learnopencv.com/
 
-## python ai
+## Python ai
 
 python, numpy, pandas crash course
 - https://www.youtube.com/playlist?list=PLZPZq0r_RZOO_wKfxdnAb9BgnffGtIHjR
