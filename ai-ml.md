@@ -21,6 +21,12 @@ Microsoft AI (Machine Learning)
 Neural networks
 - https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
+Fast AI
+- https://www.fast.ai/
+
+Free AI Resources
+- https://github.com/mrsaeeddev/free-ai-resources
+
 ## Machine Learning
 
 Machine Learning University
