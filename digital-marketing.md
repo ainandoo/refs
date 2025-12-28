@@ -21,7 +21,13 @@ Marketing | JavaTpoint
 Digital Marketing | TutorialsPoint
 - https://www.tutorialspoint.com/digital_marketing_tutorials.htm
 
+Memulai karir sebagai SEO Specialist
+- https://www.youtube.com/playlist?list=PLckPadhsJwOwC2UzZPY9twFc5ulUg5GH0
+
 ## Article
+
+How to write for SEO
+- https://www.youtube.com/playlist?list=PLckPadhsJwOzyhm_36EyNbmt9n31p3APg
 
 How to Learn Digital Marketing in 2020
 - https://bettermarketing.pub/how-to-learn-digital-marketing-for-free-2018-updated-guide-d5970d4cbd98
