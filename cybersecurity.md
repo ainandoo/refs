@@ -16,3 +16,6 @@
 ## articles
 - https://www.coursera.org/articles/cybersecurity-career-paths
 - https://www.coursera.org/articles/how-to-become-a-penetration-tester
+
+## courses
+- https://www.udemy.com/course/ethical-hacking-complete-course-zero-to-expert/
