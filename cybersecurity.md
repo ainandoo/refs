@@ -4,9 +4,10 @@
 - https://www.sans.org/cyber-security-skills-roadmap/
 
 ## free resources
-- https://ctflearn.com/
 - https://picoctf.org/
 - https://tryhackme.com/
+
+- https://ctflearn.com/
 - (search) github lks cyber security
 
 ## websites
