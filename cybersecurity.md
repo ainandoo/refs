@@ -13,6 +13,7 @@
 ## websites
 - https://owasp.org/
 - https://www.hackerone.com/
+- https://ctftime.org/
 
 ## articles
 - https://www.coursera.org/articles/cybersecurity-career-paths
