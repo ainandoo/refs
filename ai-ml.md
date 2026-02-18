@@ -5,8 +5,8 @@ Roadmap
 - https://medium.com/madhukarkumar/a-developers-roadmap-to-getting-started-with-ai-in-2025-f3f000ef6770
 - https://www.datacamp.com/blog/ai-developer-roadmap
 
-How to Learn AI in 2024
-- https://www.datacamp.com/blog/how-to-learn-ai
+Neural networks playlist (Transformer, LLM, )
+- https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 Microsoft AI for Beginner
 - https://microsoft.github.io/AI-For-Beginners/
@@ -18,14 +18,14 @@ Microsoft AI (Machine Learning)
 10 days of AI basics
 - https://www.youtube.com/playlist?list=PL-ocKywdn6lE9l4LIPL4gMY4nNRfjEswG
 
-Neural networks
-- https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-
 Fast AI
 - https://www.fast.ai/
 
 Free AI Resources
 - https://github.com/mrsaeeddev/free-ai-resources
+
+How to Learn AI in 2024
+- https://www.datacamp.com/blog/how-to-learn-ai
 
 ## Machine Learning
 
