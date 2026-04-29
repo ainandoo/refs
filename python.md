@@ -49,6 +49,9 @@ Python tutorial for absolute  beginner
 Kelas Terbuka
 - https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY
 
+opinionated guide
+- https://docs.python-guide.org/intro/learning/
+
 Agung Setiawan
 - https://www.youtube.com/watch?v=rWC2iFlN3TM&ab_channel=AgungSetiawan
 - https://www.youtube.com/watch?v=b6Y5CzFM0Oc&ab_channel=AgungSetiawan
