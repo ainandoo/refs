@@ -33,4 +33,6 @@ ISO CPP
 
 cpp references
 - https://cppreference.com/
-- 
+
+C++ - Standards
+- https://www.open-std.org/jtc1/sc22/wg21/docs/standards
