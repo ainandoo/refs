@@ -5,13 +5,15 @@ Roadmap
 - https://medium.com/madhukarkumar/a-developers-roadmap-to-getting-started-with-ai-in-2025-f3f000ef6770
 - https://www.datacamp.com/blog/ai-developer-roadmap
 
-Neural networks playlist (Transformer, LLM, )
+Neural networks playlist (Transformer, LLM, etc.)
 - https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 Microsoft AI for Beginner
 - https://microsoft.github.io/AI-For-Beginners/
 
 Microsoft AI (Machine Learning)
+
+- https://microsoftlearning.github.io/mslearn-ai-studio/
 - https://docs.microsoft.com/id-id/learn/paths/scale-ai-organizations/
 - https://docs.microsoft.com/id-id/learn/paths/introduction-ai-for-business-users/
 
