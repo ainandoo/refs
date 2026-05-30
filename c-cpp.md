@@ -31,8 +31,14 @@ C language references
 ISO CPP
 - https://isocpp.org/
 
+CPlusPlus
+- https://cplusplus.com/doc/tutorial/
+
 cpp references
 - https://cppreference.com/
 
 C++ - Standards
 - https://www.open-std.org/jtc1/sc22/wg21/docs/standards
+
+- https://www.w3schools.com/cpp/default.asp
+- https://www.geeksforgeeks.org/cpp/c-plus-plus/
