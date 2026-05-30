@@ -24,7 +24,7 @@ C language references
 - https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 - https://www.w3schools.com/c/c_ref_reference.php
 - https://en.cppreference.com/w/c.html
-- 
+- https://chenweixiang.github.io/2016/07/08/c.html
 
 ## C++
 
@@ -42,3 +42,4 @@ C++ - Standards
 
 - https://www.w3schools.com/cpp/default.asp
 - https://www.geeksforgeeks.org/cpp/c-plus-plus/
+- https://chenweixiang.github.io/2016/07/10/c++.html
