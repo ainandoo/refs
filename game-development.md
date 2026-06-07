@@ -68,6 +68,11 @@ Godot Learning Path
 - https://unity.com/resources?filters=e-book
 - https://learn.unity.com/pathways
 
+Unity Sagala Nichol
+- https://www.youtube.com/watch?v=w1Qk5RVocA4
+- https://www.youtube.com/watch?v=pWnP4Aps7Fs
+- https://www.youtube.com/watch?v=jucT3J27l1Q
+
 ## C. Image Sprite: Dev Tool
 
 ### 1. LibreSprite
