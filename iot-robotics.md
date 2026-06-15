@@ -8,6 +8,11 @@
 
 ## Electronics
 
+All About Circuits
+- https://www.allaboutcircuits.com
+- https://www.allaboutcircuits.com/textbook
+- https://www.allaboutcircuits.com/video-tutorials/
+
 PCB Design
 - https://librepcb.org/
 
