@@ -59,6 +59,27 @@ Godot 4 for Beginner
 Online Multiplayer FPS
 - https://www.youtube.com/watch?v=n8D3vEx7NAE&ab_channel=DevLogLogan
 
+How to Make an RPG in Godot 4
+- https://www.youtube.com/playlist?list=PL3cGrGHvkwn0zoGLoGorwvGj6dHCjLaGd
+
+Make a 2D Action & Adventure RPG in God
+- https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa
+
+Farming Game - Godot - Tutorials Series - Croptails 
+- https://www.youtube.com/playlist?list=PLWTXKdBN8RZe3ytf6qdR4g1JRy0j-93v9
+
+Godot 4.5 Tutorial: The Basics!
+- https://www.youtube.com/playlist?list=PLVzjdZVCXNTz6ZCs_YcXTlXCZYzTOk-Q3
+
+Belajar Membuat Game dengan Godot Engine
+- https://www.youtube.com/playlist?list=PLtwD_Y7SI9ERdUq1tszUxRfHgqWssbPmC
+
+Godot 4 Tutorial
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF
+
+Godot 4 Beginners: Learn to make a 3D Platformer!
+- https://www.youtube.com/playlist?list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35
+
 Godot Learning Path
 - https://www.gdquest.com/tutorial/godot/learning-paths/
 
