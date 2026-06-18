@@ -1,6 +1,6 @@
 ## Blender 3D
-### *My Personal recommendation is, download LTS version and try which one doesn't lag your machine
-### Blender LTS: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5
+#### *My Personal recommendation is, download LTS version and try which one doesn't lag your machine
+#### Blender LTS version: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5
 
 Tutorial Blender 3.4.1 pemula | Mr. Fauzi
 - https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
@@ -68,6 +68,15 @@ Vanilla Modelling
 - https://www.youtube.com/playlist?list=PLLnvxH5YKLoIdntMT32edhbTIYG9JMTar
 
 ## Blender Projects
+
+Hard surface modelling
+- https://www.youtube.com/watch?v=vPeeybzxfLI
+- https://www.youtube.com/watch?v=hN1_qfyBg68
+- https://www.youtube.com/watch?v=nsTjnQ067sw&t=2s
+- https://www.youtube.com/playlist?list=PL-wV-1TET7yK_04n-5HD4bcV_ghM6v1oe
+- https://www.youtube.com/playlist?list=PL2aDImegRwZHQsA5_N4DpaOQmUXaIsBdN
+- https://www.youtube.com/watch?v=Ml2t8uxPAQU (trick)
+- https://www.youtube.com/watch?v=pSFeDo7aOp4 (old references mentioned)
 
 animations basic
 - https://www.youtube.com/watch?v=feJY2wMPOIA&ab_channel=richstubbsanimation
