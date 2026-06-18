@@ -1,4 +1,5 @@
-## Blender 3D (Recommendation Download LTS version: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5)
+## Blender 3D
+### Personal Recommendation, Download LTS version and try which one doesn't lag: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5
 
 Tutorial Blender 3.4.1 pemula | Mr. Fauzi
 - https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
@@ -44,7 +45,7 @@ Blender 2.7.8 | Introduction to Blender by Brackeys
 Blender Scripting | Blender
 - https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
 
-## roadmap belajar
+## Roadmap
 
 - https://www.youtube.com/watch?v=-ic0nCJWhgo&ab_channel=Blueframe
 
@@ -60,6 +61,9 @@ Faster rendering tips
 
 Blender tutorial after donuts
 - https://www.youtube.com/playlist?list=PLL8svnS8fK0n8sENNU8CXbVn8DM2kK7ur
+
+Vanilla Modelling
+- https://www.youtube.com/playlist?list=PLLnvxH5YKLoIdntMT32edhbTIYG9JMTar
 
 ## Blender Projects
 
