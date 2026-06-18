@@ -1,5 +1,6 @@
 ## Blender 3D
-### Personal Recommendation, Download LTS version and try which one doesn't lag: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5
+### *My Personal recommendation is, download LTS version and try which one doesn't lag your machine
+### Blender LTS: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5
 
 Tutorial Blender 3.4.1 pemula | Mr. Fauzi
 - https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
@@ -45,13 +46,14 @@ Blender 2.7.8 | Introduction to Blender by Brackeys
 Blender Scripting | Blender
 - https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
 
+Dansky Blender
+- https://www.youtube.com/@ForeverDansky/search?query=blender
+
 ## Roadmap
 
 - https://www.youtube.com/watch?v=-ic0nCJWhgo&ab_channel=Blueframe
 
 ## Blender beginner
-
-- https://www.youtube.com/@ForeverDansky/search?query=blender
 
 Rendering differences
 - https://www.youtube.com/watch?v=4zRfqzNYDdo&ab_channel=Danang3D
