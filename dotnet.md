@@ -9,6 +9,12 @@
 
 ## Learn
 
+Online C# editor
+- https://microsoftlearning.github.io/c-sharp-minor/
+
+Write your first C# code
+- https://learn.microsoft.com/en-us/training/modules/csharp-write-first
+
 Microsoft Learn | Dot Net
 - https://learn.microsoft.com/en-us/dotnet/core/tutorials/
 
