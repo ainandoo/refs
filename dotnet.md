@@ -12,6 +12,9 @@
 Online C# editor
 - https://microsoftlearning.github.io/c-sharp-minor/
 
+Basic C# Certification
+- https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
+
 Write your first C# code
 - https://learn.microsoft.com/en-us/training/modules/csharp-write-first
 
