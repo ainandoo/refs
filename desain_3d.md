@@ -2,6 +2,8 @@
 #### *My Personal recommendation is, download LTS version and try which one doesn't lag your machine
 #### Blender LTS version: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5
 
+## Blender beginner
+
 Tutorial Blender 3.4.1 pemula | Mr. Fauzi
 - https://www.youtube.com/playlist?list=PLpTBtbatXsb2N5psS6qvx_AEUNUi1B9Qz
 
@@ -49,12 +51,6 @@ Blender Scripting | Blender
 Dansky Blender
 - https://www.youtube.com/@ForeverDansky/search?query=blender
 
-## Roadmap
-
-- https://www.youtube.com/watch?v=-ic0nCJWhgo&ab_channel=Blueframe
-
-## Blender beginner
-
 Rendering differences
 - https://www.youtube.com/watch?v=4zRfqzNYDdo&ab_channel=Danang3D
 
@@ -66,6 +62,10 @@ Blender tutorial after donuts
 
 Vanilla Modelling
 - https://www.youtube.com/playlist?list=PLLnvxH5YKLoIdntMT32edhbTIYG9JMTar
+
+## Roadmap
+
+- https://www.youtube.com/watch?v=-ic0nCJWhgo&ab_channel=Blueframe
 
 ## Blender Projects
 
