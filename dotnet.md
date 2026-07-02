@@ -18,14 +18,17 @@ Basic C# Certification
 Write your first C# code
 - https://learn.microsoft.com/en-us/training/modules/csharp-write-first
 
-Dot Net hello world
+Microsoft Learn | .Net Core
+- https://learn.microsoft.com/en-us/dotnet/core/tutorials/
+
+.Net Documentation
+- https://learn.microsoft.com/en-us/dotnet/
+
+.Net hello world
 - https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro
 
-Dot Net blazor
+.Net blazor
 - https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro
-
-Microsoft Learn | Dot Net
-- https://learn.microsoft.com/en-us/dotnet/core/tutorials/
 
 Microsoft dot net | Learn back end web dev
 - https://dotnet.microsoft.com/en-us/learn/back-end-web-dev
