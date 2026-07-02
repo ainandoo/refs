@@ -12,20 +12,23 @@
 Online C# editor
 - https://microsoftlearning.github.io/c-sharp-minor/
 
+Write your first C# code
+- https://learn.microsoft.com/en-us/training/modules/csharp-write-first
+
+.Net hello world
+- https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro
+- https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world
+
 Basic C# Certification
 - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
 
-Write your first C# code
-- https://learn.microsoft.com/en-us/training/modules/csharp-write-first
+====== 
 
 Microsoft Learn | .Net Core
 - https://learn.microsoft.com/en-us/dotnet/core/tutorials/
 
 .Net Documentation
 - https://learn.microsoft.com/en-us/dotnet/
-
-.Net hello world
-- https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro
 
 .Net blazor
 - https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro
