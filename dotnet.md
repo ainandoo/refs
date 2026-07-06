@@ -22,16 +22,22 @@ Write your first C# code
 Basic C# Certification
 - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
 
+C# forBeginners | dotnet YouTube
+- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe
+
+C# References
+- https://dotnet.microsoft.com/en-us/learn/csharp
+- https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
 ====== 
 
 Microsoft Learn | .Net Core
 - https://learn.microsoft.com/en-us/dotnet/core/tutorials/
-
-.Net Documentation
-- https://learn.microsoft.com/en-us/dotnet/
 
 .Net blazor
 - https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro
 
 Microsoft dot net | Learn back end web dev
 - https://dotnet.microsoft.com/en-us/learn/back-end-web-dev
+
+.Net Documentation
+- https://learn.microsoft.com/en-us/dotnet/
