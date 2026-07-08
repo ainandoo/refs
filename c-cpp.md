@@ -37,6 +37,8 @@ CPlusPlus
 cpp references
 - https://cppreference.com/
 
+C and CPP in Visual Studio
+- https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170
 C++ - Standards
 - https://www.open-std.org/jtc1/sc22/wg21/docs/standards
 
