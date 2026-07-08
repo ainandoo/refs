@@ -41,3 +41,6 @@ Microsoft dot net | Learn back end web dev
 
 .Net Documentation
 - https://learn.microsoft.com/en-us/dotnet/
+
+Visual Studio
+- https://visualstudio.microsoft.com/vs/getting-started/
