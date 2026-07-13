@@ -1,3 +1,8 @@
+## Oracle
+
+Oracle FreeSQL
+- https://freesql.com/
+
 ## PostgreSQL
 
 - https://www.postgresql.org/docs/current/index.html
