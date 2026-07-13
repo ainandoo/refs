@@ -3,6 +3,12 @@
 Oracle FreeSQL
 - https://freesql.com/
 
+Oracle Database XE
+- https://www.oracle.com/database/technologies/appdev/xe.html
+
+Oracle AI Database 26ai
+- https://www.oracle.com/database/free/get-started/
+
 ## PostgreSQL
 
 - https://www.postgresql.org/docs/current/index.html
