@@ -11,6 +11,7 @@ Oracle AI Database 26ai
 
 Oracle Dabatase 21 documentation
 - https://docs.oracle.com/en/database/oracle/oracle-database/21/index.html
+- https://docs.oracle.com/en/database/oracle/oracle-database/index.html
 
 Oracle Tutorial
 - https://www.youtube.com/playlist?list=PLhzwHCJWMbns_pETORPxCQdqxfd-qUqCB
