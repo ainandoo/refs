@@ -319,3 +319,9 @@ Private Talks | Ainan IDV
 - https://cs-123-stanford-2023.readthedocs.io/en/latest/
 - https://cs123-stanford.readthedocs.io/en/latest/
 - https://web.stanford.edu/class/cs123/
+
+## PLC
+
+OpenPLC
+- https://autonomylogic.com/
+- https://plcprogramming.io/blog/openplc-tutorial-complete-guide
