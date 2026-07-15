@@ -1,6 +1,6 @@
 ## Oracle
 
-Oracle FreeSQL
+Oracle FreeSQL (Login required)
 - https://freesql.com/
 
 Oracle Database XE
@@ -8,6 +8,17 @@ Oracle Database XE
 
 Oracle AI Database 26ai
 - https://www.oracle.com/database/free/get-started/
+
+Oracle Dabatase 21 documentation
+- https://docs.oracle.com/en/database/oracle/oracle-database/21/index.html
+
+Oracle Tutorial
+- https://www.youtube.com/playlist?list=PLhzwHCJWMbns_pETORPxCQdqxfd-qUqCB
+- https://www.oracletutorial.com/
+
+
+
+
 
 ## PostgreSQL
 
