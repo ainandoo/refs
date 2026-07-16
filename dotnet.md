@@ -38,6 +38,10 @@ Visual Studio
 Microsoft Learn | .NET Core
 - https://learn.microsoft.com/en-us/dotnet/core/tutorials/
 
+Frontend and Backend web development with .NET
+- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXNZX1Q8rB-5xgTSKR8qA5k
+- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWunQnm3WnZxJrseIw2zSAk
+
 ====== 
 
 ASP.NET Core
