@@ -71,3 +71,6 @@ Belajar ASP.NET Core (.NET 5)
 7. https://www.youtube.com/watch?v=zFBYlWsIIqM
 8. https://www.youtube.com/watch?v=jL9_X576yfU
 9. https://www.youtube.com/watch?v=ekUWHQjY2uA
+
+ASP.NET Core tutorial for beginner playlist (.NET 3 ?)
+- https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU
