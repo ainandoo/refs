@@ -37,6 +37,7 @@ Visual Studio
 
 Microsoft Learn | .NET Core
 - https://learn.microsoft.com/en-us/dotnet/core/tutorials/
+
 ====== 
 
 ASP.NET Core
@@ -47,3 +48,26 @@ ASP.NET Core
 
 Microsoft .NET | Learn back end web dev
 - https://dotnet.microsoft.com/en-us/learn/back-end-web-dev
+
+ASP.NET Core Full Course For Beginners (.NET 10)
+- https://www.youtube.com/watch?v=YbRe4iIVYJk
+
+Learn ASP.NET Core MVC (.NET 10)
+- https://www.youtube.com/watch?v=-Pvth0Rv8Cw
+
+ASP.NET Core MVC Course for Beginners (.NET 9)
+- https://www.youtube.com/watch?v=RWXKysImabs
+
+Learn ASP.NET Core MVC 8.0 for Beginner
+- https://www.youtube.com/watch?v=f63mo1ZRobM
+
+Belajar ASP.NET Core (.NET 5)
+1. https://www.youtube.com/watch?v=Omq30dsq-Bo
+2. https://www.youtube.com/watch?v=QK91feCJc_c
+3. https://www.youtube.com/watch?v=S_YAQu5mdsc
+4. https://www.youtube.com/watch?v=RteluCQmtOA
+5. https://www.youtube.com/watch?v=TnKqTVzktv4
+6. https://www.youtube.com/watch?v=22AwdeknmUA
+7. https://www.youtube.com/watch?v=zFBYlWsIIqM
+8. https://www.youtube.com/watch?v=jL9_X576yfU
+9. https://www.youtube.com/watch?v=ekUWHQjY2uA
