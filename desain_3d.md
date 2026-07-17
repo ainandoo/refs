@@ -1,6 +1,6 @@
 ## Blender 3D
 #### *My Personal recommendation is, download LTS version and try which one doesn't lag your machine
-#### Blender LTS version: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5
+#### Blender LTS version: 2.83, 2.93, 3.3, 3.6, 4.2, 4.5, 5.2
 
 ## Blender beginner
 
@@ -69,7 +69,9 @@ Vanilla Modelling
 
 ## Blender Projects
 
-Hard surface modelling
+***Modeling***
+
+1. Hard Surface modeling
 - https://www.youtube.com/watch?v=vPeeybzxfLI
 - https://www.youtube.com/watch?v=hN1_qfyBg68
 - https://www.youtube.com/watch?v=nsTjnQ067sw&t=2s
@@ -77,6 +79,46 @@ Hard surface modelling
 - https://www.youtube.com/playlist?list=PL2aDImegRwZHQsA5_N4DpaOQmUXaIsBdN
 - https://www.youtube.com/watch?v=Ml2t8uxPAQU (trick)
 - https://www.youtube.com/watch?v=pSFeDo7aOp4 (old references mentioned)
+
+2. Beveling
+	- https://www.youtube.com/watch?v=yC-_wu6H-cI&t=150s
+	
+3. Subd modeling 
+	- https://www.youtube.com/watch?v=3wJ81Ua7o_w
+	- https://www.youtube.com/watch?v=PasQGeBmBLM
+	- https://www.youtube.com/watch?v=EYtYCIGSSDc
+	- https://www.youtube.com/watch?v=7ZNf4BhoJXc
+	
+4. Boolean modeling 
+	- https://www.youtube.com/watch?v=zNXxdyxLbDo
+	- https://www.youtube.com/watch?v=CHqH5oz0DvQ
+	- https://www.youtube.com/watch?v=GFW4mbhkcVQ
+
+5. Curves
+	- https://www.youtube.com/watch?v=Ve9h7-E8EuM
+	- https://www.youtube.com/watch?v=gxzWCH1Q4fM
+
+***Material/Texturing***
+
+1. Shader nodes
+	- https://www.youtube.com/watch?v=J5t7gzIfTt0
+	- https://www.youtube.com/watch?v=pHLfM3HLkWM
+	- https://www.youtube.com/watch?v=3-_zyiBk0JI
+
+2. PBR Texturing 
+	- https://www.youtube.com/watch?v=qxxoDYGrvtw
+	- https://www.youtube.com/watch?v=144TWlEYFtM
+	- https://www.youtube.com/watch?v=DHbXCev1pps
+	
+3. Procedural texturing
+	- https://www.youtube.com/watch?v=5DM2K0svM-I
+	- https://www.youtube.com/watch?v=2_JRwbUORTI
+	
+4. UV Unwrapping
+	- https://www.youtube.com/watch?v=qa_1LjeWsJg
+	- https://www.youtube.com/watch?v=Df8-ftyqZ_8
+	- https://www.youtube.com/watch?v=J7iZd6mv7VA
+	- https://www.youtube.com/watch?v=XleO7DBm1Us
 
 animations basic
 - https://www.youtube.com/watch?v=feJY2wMPOIA&ab_channel=richstubbsanimation
