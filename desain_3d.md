@@ -140,9 +140,19 @@ Lighting project
 - https://www.youtube.com/watch?v=aCAppo3VhfA
 - https://www.youtube.com/watch?v=KO29y5eW61g
 
+Video Sequence Editor
+- https://www.youtube.com/watch?v=VdPOb_qjLl4
+- https://www.youtube.com/watch?v=kLS9TEDiAAg
+- https://www.youtube.com/watch?v=iYVHRhb5tco
+
 Low Poly World | Blender 3.0/4.0
 - https://www.youtube.com/watch?v=ELiqWceCk0Q
 
 Blender character tutorial
 - https://www.youtube.com/playlist?list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5
 - https://www.youtube.com/playlist?list=PLWaTDYWPOysmadmmuiyHNTamu4ChFADw8
+
+Grease Pencil
+- https://www.youtube.com/watch?v=fVIwDQJ6Quo
+- https://www.youtube.com/watch?v=wskCvU7_xtc
+- https://www.youtube.com/watch?v=nZCK82c-x_o
