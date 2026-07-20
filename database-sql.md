@@ -17,8 +17,12 @@ Oracle Tutorial
 - https://www.youtube.com/playlist?list=PLhzwHCJWMbns_pETORPxCQdqxfd-qUqCB
 - https://www.oracletutorial.com/
 
-
-
+Oracle Database 19c
+- https://docs.oracle.com/en/database/oracle/oracle-database/19/
+- Oracle 19 https://learn.oracle.com/ols/course/oracle-database-19c-sql-fundamentals/88387/90084
+- https://www.youtube.com/playlist?list=PLUyvpMtrnS-BinYEziWFyIL2pAZJgzuuq
+- https://www.youtube.com/watch?v=PVS1g45JzDw
+- https://www.youtube.com/watch?v=_1kPvACQb4I
 
 
 ## PostgreSQL
