@@ -16,6 +16,7 @@ Oracle Dabatase 21 documentation
 Oracle Tutorial
 - https://www.youtube.com/playlist?list=PLhzwHCJWMbns_pETORPxCQdqxfd-qUqCB
 - https://www.oracletutorial.com/
+- https://www.youtube.com/playlist?list=PL8VFfQugwN2ZuWyTmpZzGjZp3e2qzCX_8
 
 Oracle Database 19c
 - https://docs.oracle.com/en/database/oracle/oracle-database/19/
