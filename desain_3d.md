@@ -156,3 +156,6 @@ Grease Pencil
 - https://www.youtube.com/watch?v=fVIwDQJ6Quo
 - https://www.youtube.com/watch?v=wskCvU7_xtc
 - https://www.youtube.com/watch?v=nZCK82c-x_o
+
+Blender Video Editing
+- https://www.youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV
