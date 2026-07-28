@@ -32,9 +32,6 @@ C# References
 .Net Documentation
 - https://learn.microsoft.com/en-us/dotnet/
 
-Visual Studio
-- https://visualstudio.microsoft.com/vs/getting-started/
-
 Microsoft Learn | .NET Core
 - https://learn.microsoft.com/en-us/dotnet/core/tutorials/
 
@@ -42,9 +39,12 @@ Frontend and Backend web development with .NET
 - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXNZX1Q8rB-5xgTSKR8qA5k
 - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWunQnm3WnZxJrseIw2zSAk
 
+Visual Studio
+- https://visualstudio.microsoft.com/vs/getting-started/
+
 ====== 
 
-ASP.NET Core
+### ASP.NET Core
 - https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-10.0
 
 .NET Blazor
@@ -53,12 +53,17 @@ ASP.NET Core
 Microsoft .NET | Learn back end web dev
 - https://dotnet.microsoft.com/en-us/learn/back-end-web-dev
 
+ASP.NET Core tutorial in .NET 11
+- https://www.youtube.com/watch?v=E-RPvJnMBLU
+
 ASP.NET Core Full Course For Beginners (.NET 10)
 - https://www.youtube.com/watch?v=YbRe4iIVYJk
 
 Learn ASP.NET Core MVC (.NET 10)
 - https://www.youtube.com/watch?v=-Pvth0Rv8Cw
 
+ASP.NET Core project tutorial
+- https://www.youtube.com/watch?v=6SAFgcMie4U
 ASP.NET Core MVC Course for Beginners (.NET 9)
 - https://www.youtube.com/watch?v=RWXKysImabs
 
@@ -78,3 +83,8 @@ Belajar ASP.NET Core (.NET 5)
 
 ASP.NET Core tutorial for beginner playlist (.NET 3 ?)
 - https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU
+
+### Entity Framework
+
+Entity Framework Core for Beginners
+- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXCPdC3fTFA3Z79-eVH3K-s
