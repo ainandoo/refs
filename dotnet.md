@@ -42,8 +42,6 @@ Frontend and Backend web development with .NET
 Visual Studio
 - https://visualstudio.microsoft.com/vs/getting-started/
 
-====== 
-
 ### ASP.NET Core
 - https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-10.0
 
