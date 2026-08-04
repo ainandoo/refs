@@ -17,6 +17,9 @@ Microsoft AI (Machine Learning)
 - https://docs.microsoft.com/id-id/learn/paths/scale-ai-organizations/
 - https://docs.microsoft.com/id-id/learn/paths/introduction-ai-for-business-users/
 
+The 2026 IBM Guide to AI
+- https://www.ibm.com/think/topics/ai-guide#605511093
+
 10 days of AI basics
 - https://www.youtube.com/playlist?list=PL-ocKywdn6lE9l4LIPL4gMY4nNRfjEswG
 
