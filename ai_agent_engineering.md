@@ -9,3 +9,6 @@
 
 Minions, AI Subagent for PM
 - https://github.com/bahni-m/minions
+
+Ollama
+- https://ollama.com/
