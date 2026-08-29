@@ -1,5 +1,3 @@
-# Rencana Belajar
-
 ## A. Dart
 
 Dart PBO | Erico Darmawan Handoyo
@@ -26,6 +24,11 @@ Dart Tutorial
 	
 ## B. Flutter
 
+Flutter Codelabs
+- https://codelabs.developers.google.com/?cat=Flutter
+- https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0
+- https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker#0
+
 Flutter Fundamental | Erico Darmawan Handoyo
 
 Part 1:
@@ -39,13 +42,6 @@ Flutter Documentation
 
 Flutter Engage | Learn Flutter Development
 - https://events.flutter.dev/engage/learn/beginner
-
-Flutter Codelabs
-- https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html#0
-- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
-	- https://www.youtube.com/watch?v=Z6KZ3cTGBWw (versi video)
-- https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
-- https://codelabs.developers.google.com/?cat=Flutter
 
 Flutter Apprentice Book 2021
 - https://www.youtube.com/playlist?list=PL4dBIh1xps-HAaadBRWQobCO_IJ4gMOG2
@@ -167,18 +163,22 @@ Flutter adaptive UI: https://aloisdeniel.com/#/posts/adaptative-ui
 
 Flutter Awesome (Collection): https://flutterawesome.com/
 
-Flame Game Engine: https://flame-engine.org/
-
-Sprite Widget Game Engine: https://www.spritewidget.com/
-
 ### Game Dev Resource
-
-Demo Game Asset
-- https://drive.google.com/drive/folders/11YlD8F-CRIO__oh3rkj7iNs7WLLzacEz
 
 Flutter Game Toolkit
 - https://docs.flutter.dev/resources/games-toolkit
 - https://flutter.dev/games
+
+Flame Game Engine: 
+
+https://flame-engine.org/
+
+Sprite Widget Game Engine: 
+
+https://www.spritewidget.com/
+
+Demo Game Asset
+- https://drive.google.com/drive/folders/11YlD8F-CRIO__oh3rkj7iNs7WLLzacEz
 
 Flame Toolkit Gamelab
 - https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker#0
