@@ -1,10 +1,11 @@
 ## A. Dart
 
+Dart Docs
+- https://dart.dev/docs
+- https://dart.dev/learn/tutorial
+
 Dart PBO | Erico Darmawan Handoyo
 - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
-
-Dart Docs
-- https://dart.dev/guides
 
 Dart Crash Course | Net Ninja
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh
@@ -23,6 +24,9 @@ Dart Tutorial
 - https://www.vogella.com/tutorials/Dart/article.html
 	
 ## B. Flutter
+
+- https://docs.flutter.dev/learn
+- https://docs.flutter.dev/learn/pathway
 
 Flutter Codelabs
 - https://codelabs.developers.google.com/?cat=Flutter
