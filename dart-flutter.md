@@ -4,6 +4,9 @@ Dart Docs
 - https://dart.dev/docs
 - https://dart.dev/learn/tutorial
 
+Get Started with Dart and Flutter
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU2bqkohF-r9TNmo8HWSu0TG
+
 Dart PBO | Erico Darmawan Handoyo
 - https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
 
