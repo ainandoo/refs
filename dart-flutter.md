@@ -146,6 +146,9 @@ Online IDE
 - https://flutlab.io/
 - https://flutterflow.io/
 
+FlutterFlow University
+- https://www.youtube.com/playlist?list=PLsUp7t2vRqx9UE13G8Xod8F-m248iR0E3
+
 RIVE (Animation): https://rive.app/
 
 Flutter Plasma: https://flutterplasma.dev/
@@ -196,5 +199,5 @@ Climate Game Toolkit
 Environmental Game Design Playbook
 - https://igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/04/06100719/EnvironmentalGameDesignPlaybook_Alpha_Release_Adj.pdf
 
-Green Game Desing
+Green Game Design
 - https://www.greengamedesign.com/
