@@ -33,13 +33,14 @@ Godot Crash Course
 - https://www.youtube.com/watch?v=Luf2Kr5s3BM&ab_channel=Chris%27Tutorials
 - https://www.youtube.com/watch?v=NlzTmL_eB-U&ab_channel=Zenva
 - https://www.youtube.com/watch?v=S8lMTwSRoRg&ab_channel=freeCodeCamp.org
+- https://www.youtube.com/watch?v=q7wlSvt0JIc
+- https://www.youtube.com/watch?v=8CrFk3tjsSY
 
 Godot 4.0 Tutorial | Sulaeman Santoso
 - https://www.youtube.com/playlist?list=PL5gLq0nzeoztEBMofziHQVsqckcfZLP2r
 
-Ultimate introduction 
-- https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&ab_channel=ClearCode
-- https://www.youtube.com/watch?v=TMhimQceLos&ab_channel=ClearCode
+The new ultimate introduction to Godot
+- https://www.youtube.com/watch?v=TLG2yVpLDT8
 
 Heart game platformer
 - https://www.youtube.com/playlist?list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ
@@ -82,6 +83,10 @@ Godot 4 Beginners: Learn to make a 3D Platformer!
 
 Godot Learning Path
 - https://www.gdquest.com/tutorial/godot/learning-paths/
+
+Ultimate introduction (old)
+- https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&ab_channel=ClearCode
+- https://www.youtube.com/watch?v=TMhimQceLos&ab_channel=ClearCode
 
 ### 2. Unity
 - https://unity.com/
