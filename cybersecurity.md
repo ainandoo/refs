@@ -7,6 +7,7 @@
 
 ## free resources
 - https://picoctf.org/ now becoming --> https://cylabacademy.org/
+- https://learn.cylabacademy.org/
 - https://tryhackme.com/
 
 - https://ctflearn.com/
