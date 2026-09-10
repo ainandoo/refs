@@ -6,7 +6,7 @@
 - https://www.sans.org/cyber-security-skills-roadmap/
 
 ## free resources
-- https://picoctf.org/
+- https://picoctf.org/ now becoming --> https://cylabacademy.org/
 - https://tryhackme.com/
 
 - https://ctflearn.com/
