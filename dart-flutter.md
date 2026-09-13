@@ -50,6 +50,9 @@ Flutter Documentation
 Flutter Engage | Learn Flutter Development
 - https://events.flutter.dev/engage/learn/beginner
 
+FLutter Beginner tutorial
+- https://www.youtube.com/playlist?list=PL1WkZqhlAdC_Tr3GFYq3W0KYfX49_FiNA
+
 Flutter Apprentice Book 2021
 - https://www.youtube.com/playlist?list=PL4dBIh1xps-HAaadBRWQobCO_IJ4gMOG2
 
