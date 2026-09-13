@@ -101,6 +101,16 @@ Fireship Flutter Tutorial n Talks
 DeepSeek AI + Flutter
 - https://www.youtube.com/playlist?list=PL78sHffDjI74kIkoSFaqG0Rk9Y2ZCMn9O
 
+Flutter playlist tutorials
+- https://www.youtube.com/@dbestech/playlists
+
+Flutter Game dev
+- https://www.youtube.com/@TylerCodes/playlists
+- https://www.youtube.com/@Spellthorn/playlists
+- https://www.youtube.com/@imaNNeO/playlists
+- https://www.youtube.com/playlist?list=PLxvyAnoL-vu49mglrFB5_GlubMWzYqp68
+- https://www.youtube.com/@createdbykoko
+
 ## C. Referensi
 
 Flutter by Google
