@@ -1,12 +1,10 @@
-TUTORIAL ANDROID DASAR (BAHASA INDONESIA)
-- https://www.youtube.com/watch?v=pUTz5IOkBtE
+Google reference
+- https://developer.android.com/courses/
+- https://developer.android.com/studio/intro
+- https://developer.android.com/guide
 
 Android Java Development for Beginners - Full Course | FreeCodeCamp
 - https://www.youtube.com/watch?v=fis26HvvDII
-
-Google reference
-- https://developer.android.com/courses/
-- https://developer.android.com/guide
 
 Modern Android Developer Skills
 - https://www.youtube.com/c/AndroidDevelopers/playlists?view=50&sort=dd&shelf_id=5
@@ -17,6 +15,9 @@ Android Jetpack
 - https://developer.android.com/codelabs/jetpack-compose-basics#0
 - https://developer.android.com/courses/jetpack-compose/course
 - https://www.freecodecamp.org/news/jetpack-compose-beginner-tutorial-composables-recomposition/
+
+TUTORIAL ANDROID DASAR (BAHASA INDONESIA)
+- https://www.youtube.com/watch?v=pUTz5IOkBtE
 
 ## Kotlin
 
