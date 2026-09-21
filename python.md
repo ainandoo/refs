@@ -77,8 +77,14 @@ Python3 Data, 2016
 Automate The Boring Stuff with Python 2nd Edition, 2020
 - https://automatetheboringstuff.com/2e/chapter0/
 
+Automate The Boring Stuff with Python 3rd Edition 
+- https://inventwithpython.com/automate3workbook/
+
 Intermediate Python
 - https://book.pythontips.com/en/latest/#
+
+Python for Data Analysis
+- https://wesmckinney.com/book/
 
 ## Ide Proyek
 
