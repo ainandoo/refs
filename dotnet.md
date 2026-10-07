@@ -14,39 +14,35 @@ Online C# editor
 
 Write your first C# code
 - https://learn.microsoft.com/en-us/training/modules/csharp-write-first
-
-.Net hello world
 - https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro
 - https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world
 
 Basic C# Certification
 - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
+- https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
 
-C# forBeginners | dotnet YouTube
+C# for Beginners | dotnet YouTube
 - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe
 
 C# References
 - https://dotnet.microsoft.com/en-us/learn/csharp
-- https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
+- https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
 
 .Net Documentation
 - https://learn.microsoft.com/en-us/dotnet/
-
-Microsoft Learn | .NET Core
-- https://learn.microsoft.com/en-us/dotnet/core/tutorials/
-
-Frontend and Backend web development with .NET
-- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXNZX1Q8rB-5xgTSKR8qA5k
-- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWunQnm3WnZxJrseIw2zSAk
+- https://learn.microsoft.com/en-us/dotnet/fundamentals/
 
 Visual Studio
 - https://visualstudio.microsoft.com/vs/getting-started/
 
 ### ASP.NET Core
+
+Microsoft Learn | ASP.NET Core
 - https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-10.0
 
-.NET Blazor
-- https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro
+Frontend and Backend web development with .NET
+- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXNZX1Q8rB-5xgTSKR8qA5k
+- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWunQnm3WnZxJrseIw2zSAk
 
 Microsoft .NET | Learn back end web dev
 - https://dotnet.microsoft.com/en-us/learn/back-end-web-dev
@@ -62,6 +58,7 @@ Learn ASP.NET Core MVC (.NET 10)
 
 ASP.NET Core project tutorial
 - https://www.youtube.com/watch?v=6SAFgcMie4U
+
 ASP.NET Core MVC Course for Beginners (.NET 9)
 - https://www.youtube.com/watch?v=RWXKysImabs
 
