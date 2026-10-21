@@ -3,6 +3,10 @@
 Oracle FreeSQL (Login required)
 - https://freesql.com/
 
+Oracle Dev Gym
+- https://devgym.oracle.com/pls/apex/
+- https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html
+
 Oracle Database XE
 - https://www.oracle.com/database/technologies/appdev/xe.html
 
