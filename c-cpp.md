@@ -35,6 +35,9 @@ ISO CPP
 CPlusPlus
 - https://cplusplus.com/doc/tutorial/
 
+Google Edu
+- https://developers.google.com/edu/c++
+
 cpp references
 - https://cppreference.com/
 
