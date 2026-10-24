@@ -68,6 +68,8 @@ Flutter Widget 101
 Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp
 -  https://www.youtube.com/watch?v=VPvVD8t02U8
 
+- https://www.geeksforgeeks.org/flutter/flutter-tutorial/
+
 Tutorial Singkat
 - http://thetechnocafe.com/flutter-crash-course-1-installation-and-overview/
 - http://thetechnocafe.com/flutter-crash-course-2-application-and-ui-basics/
