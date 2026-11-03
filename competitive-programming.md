@@ -7,7 +7,14 @@
 - https://cp-algorithms.com/
 - https://www.geeksforgeeks.org/dsa/competitive-programming-a-complete-guide/
 - https://codeforces.com/blog/entry/75742
-- 
+- https://lightoj.com/
+- https://adventofcode.com/
+- https://projecteuler.net/
+- https://atcoder.jp/
+- https://www.codechef.com/
+- https://codeforces.com/
+- https://www.codewars.com/
+- https://zibada.guru/gcj/
 
 How to start competitive programming
 - https://www.youtube.com/watch?v=xAeiXy8-9Y8
