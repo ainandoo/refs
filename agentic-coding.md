@@ -3,3 +3,6 @@
 - https://www.codingame.com/start/
 - https://www.codility.com/
 - https://codesignal.com/
+- https://www.topcoder.com/
+- https://beecrowd.com/
+- https://wakatime.com/
