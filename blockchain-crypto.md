@@ -13,4 +13,4 @@
 - https://learnmeabitcoin.com/
 - https://litepaper.com/
 - https://www.lopp.net/bitcoin-information.html
-- https://www.lopp.net/bitcoin-information.html
+- https://cryptohack.org/
