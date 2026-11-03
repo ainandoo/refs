@@ -26,6 +26,7 @@ C language references
 - https://www.w3schools.com/c/c_ref_reference.php
 - https://en.cppreference.com/w/c.html
 - https://chenweixiang.github.io/2016/07/08/c.html
+- https://www.slideshare.net/slideshow/deep-c/9626718
 
 ## C++
 
