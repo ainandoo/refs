@@ -15,6 +15,7 @@ All About Circuits
 
 PCB Design
 - https://librepcb.org/
+- https://www.youtube.com/@PajoPCB/playlists ## design pcb kicad
 
 Electronics tutorial
 - https://techexplorations.com/
