@@ -13,14 +13,8 @@ Belajar Python untuk Pemula | Onno W. Purbo
 
 ## Roadmap
 
-- https://pythonlearning.medium.com/the-roadmap-for-python-from-beginner-to-pyguru-48503ca4e794
+- https://roadmap.sh/python
 - https://www.geeksforgeeks.org/best-way-to-start-learning-python-a-complete-roadmap/
-- https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06
-- https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
-- https://dev.to/hb/python-developer-roadmap-in-2021-2bmo
-- https://towardsai.net/p/programming/the-2021-python-developer-roadmap
-- https://medium.com/nerd-for-tech/a-22-week-curriculum-to-learn-data-analytics-in-2022-free-resources-fe35c1289545
-
 
 ## Tutorial
 
@@ -44,14 +38,15 @@ Belajar Python untuk Pemula | Onno W. Purbo
 Colab tutorial & resource
 - https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
 
-Python tutorial for absolute  beginner
+Opinionated guide
+- https://docs.python-guide.org/intro/learning/
+
+## YouTube Tutorial
+Python tutorial for absolute beginner
 - https://www.youtube.com/playlist?list=PL78sHffDjI746f7tHEep1FcPfbe9OXHlY
 
 Kelas Terbuka
 - https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY
-
-opinionated guide
-- https://docs.python-guide.org/intro/learning/
 
 Agung Setiawan
 - https://www.youtube.com/watch?v=rWC2iFlN3TM&ab_channel=AgungSetiawan
@@ -60,14 +55,18 @@ Agung Setiawan
 YouTube - Programmer Zaman Now | Belajar Pemrograman Python untuk Pemula
 - https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H
 
+## Modern Python (Tools, library)
+
+- https://astoeffelbauer.quarto.pub/posts/modern-python/
+- https://medium.com/the-pythonworld/9-modern-python-libraries-you-must-know-in-2026-4931d3699b1e
+- https://astral.sh/
+- https://python-poetry.org/
+- https://pdm-project.org/latest/
+
 ## Python Packaging
 
 - https://packaging.python.org/en/latest/
 - https://pip.pypa.io/en/stable/getting-started/
-
-Tools
-- https://python-poetry.org/
-- https://pdm-project.org/latest/
 
 ## Ebook
 
@@ -225,12 +224,10 @@ Django API
 - https://blog.logrocket.com/django-rest-framework-create-api/
 - https://www.geeksforgeeks.org/how-to-create-a-basic-api-using-django-rest-framework/
 
-
 ## Perusahaan Pengguna
 
 5 Companies (include Netflix)
-- https://twitter.com/Sauain/status/1415929865010696194
-
+- https://x.com/Sauain/status/1415929865010696194
 
 ## Python Android
 
