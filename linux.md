@@ -1,3 +1,7 @@
+
+Linux for beginner
+- https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/
+
 ## embedded linux
 
 - https://www.youtube.com/watch?v=BdKyq56Cijo&ab_channel=NDCConferences
