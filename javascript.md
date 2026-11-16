@@ -78,6 +78,9 @@ Array.id
 Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript
 - https://www.youtube.com/watch?v=JS5w4rUbjQE
 
+ReactJS Handbook
+- https://www.freecodecamp.org/news/react-for-beginners-handbook/
+
 Prawito Hudoro
 - https://prawito.com/home
 - https://link.prawito.com/
@@ -105,6 +108,11 @@ Wahidev Academy
 - https://github.com/AR-js-org/AR.js
 
 ## Frameworks
+
+### ExpressJS
+
+- https://www.freecodecamp.org/news/the-express-handbook/
+- 
 
 ### NextJS
 
