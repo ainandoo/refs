@@ -34,6 +34,7 @@ Belajar Python untuk Pemula | Onno W. Purbo
 - https://www.pyforschool.com/
 - https://geo-python-site.readthedocs.io/en/latest/index.html
 - https://inventwithpython.com/automate3workbook/
+- https://www.freecodecamp.org/news/the-python-handbook/
 
 Colab tutorial & resource
 - https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
