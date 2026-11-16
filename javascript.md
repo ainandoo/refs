@@ -21,6 +21,9 @@ You Don't Know JS
 - https://kbpsystem777.github.io/You-Dont-Know-JS/
 - https://djangocas.dev/free-books/you-dont-know-js/
 
+Typescript
+- https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/
+
 ## Library
 
 ### ReactJS
