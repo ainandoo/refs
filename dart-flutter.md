@@ -28,6 +28,7 @@ Dart Tutorial
 	
 ## B. Flutter
 
+Flutter quick tutorial
 - https://docs.flutter.dev/learn
 - https://docs.flutter.dev/learn/pathway
 
@@ -35,6 +36,10 @@ Flutter Codelabs
 - https://codelabs.developers.google.com/?cat=Flutter
 - https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0
 - https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker#0
+
+Flutter widget catalog/index
+- https://docs.flutter.dev/ui/widgets
+- https://docs.flutter.dev/reference/widgets
 
 Flutter Fundamental | Erico Darmawan Handoyo
 
