@@ -120,6 +120,11 @@ Flutter Game dev
 
 ## C. Referensi
 
+- https://fluttergems.dev/
+- https://itsallwidgets.com/
+- https://medium.com/@ashfaque-khokhar/best-flutter-widgets-ever-754ea6cc0329
+- https://medium.com/@ashfaque-khokhar/200-flutter-widgets-ecd6a8275173
+
 Flutter by Google
 - https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr
 
